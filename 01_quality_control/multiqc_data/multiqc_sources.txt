@@ -1,0 +1,2 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	01	/MP_Data/Dados_David/genomic_pipeline/01_quality_control/mycogenitalium_2_fastqc/fastqc_data.txt
