@@ -1,2 +1,2 @@
 Sample	Unique Reads	Duplicate Reads
-01	285.0	6130.0
+01	2662536.0	1266991.0

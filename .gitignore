@@ -204,3 +204,14 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode
+
+#arquivos do seguintes diretórios
+
+data/*
+
+01_quality_control/*fastqc*
+01_quality_control/*multiqc*
+01_quality_control/trimmed/
+
+02_assembly/*
+

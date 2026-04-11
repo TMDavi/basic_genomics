@@ -1,2 +1,0 @@
-Sample	Top overrepresented sequence	Sum of remaining overrepresented sequences
-01	86.23538581449726	8.012470771628955
