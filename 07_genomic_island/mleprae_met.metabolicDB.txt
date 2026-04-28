@@ -1,0 +1,3000 @@
+DIJ64_RS00005	No Hits Found
+DIJ64_RS00010	No Hits Found
+DIJ64_RS00015	No Hits Found
+DIJ64_RS00020	No Hits Found
+DIJ64_RS00025	No Hits Found
+DIJ64_RS00030	No Hits Found
+DIJ64_RS00035	No Hits Found
+DIJ64_RS00060	No Hits Found
+DIJ64_RS00065	No Hits Found
+DIJ64_RS00070	No Hits Found
+DIJ64_RS20835	No Hits Found
+DIJ64_RS00080	MK0551 COG0518 GMP synthase - Glutamine amidotransferase domain	34%	194	119	9	3	195	2	187	2e-028	106
+DIJ64_RS00085	No Hits Found
+DIJ64_RS00090	No Hits Found
+DIJ64_RS00095	No Hits Found
+DIJ64_RS00100	No Hits Found
+DIJ64_RS00105	No Hits Found
+DIJ64_RS00110	No Hits Found
+DIJ64_RS00115	No Hits Found
+DIJ64_RS20840	No Hits Found
+DIJ64_RS00150	No Hits Found
+DIJ64_RS00155	No Hits Found
+DIJ64_RS00160	No Hits Found
+DIJ64_RS00165	No Hits Found
+DIJ64_RS00170	No Hits Found
+DIJ64_RS00180	No Hits Found
+DIJ64_RS00190	No Hits Found
+DIJ64_RS00195	No Hits Found
+DIJ64_RS00200	No Hits Found
+DIJ64_RS00205	No Hits Found
+DIJ64_RS00210	No Hits Found
+DIJ64_RS16005	No Hits Found
+DIJ64_RS14960	No Hits Found
+DIJ64_RS14965	No Hits Found
+DIJ64_RS00220	No Hits Found
+DIJ64_RS00225	No Hits Found
+DIJ64_RS00230	No Hits Found
+DIJ64_RS00235	No Hits Found
+DIJ64_RS00240	No Hits Found
+DIJ64_RS00245	No Hits Found
+DIJ64_RS00250	No Hits Found
+DIJ64_RS00255	No Hits Found
+DIJ64_RS00260	No Hits Found
+DIJ64_RS00270	No Hits Found
+DIJ64_RS00275	No Hits Found
+DIJ64_RS16010	No Hits Found
+DIJ64_RS17120	No Hits Found
+DIJ64_RS00295	No Hits Found
+DIJ64_RS14970	No Hits Found
+DIJ64_RS00300	ML0061_2 COG0069 Glutamate synthase domain 2	100%	812	0		392	1203	1	812	0.0	1669
+DIJ64_RS00305	No Hits Found
+DIJ64_RS20195	No Hits Found
+DIJ64_RS00320	No Hits Found
+DIJ64_RS00325	ML0065 COG2072 Predicted flavoprotein involved in K+ transport	100%	491	0		1	491	4	494	0.0	1025
+DIJ64_RS00330	ML0066 COG0684 Demethylmenaquinone methyltransferase	99%	157	1		1	157	1	157	e-110	309
+DIJ64_RS00335	No Hits Found
+DIJ64_RS00345	No Hits Found
+DIJ64_RS00350	No Hits Found
+DIJ64_RS00365	No Hits Found
+DIJ64_RS00370	ML0072 COG0605 Superoxide dismutase	99%	207	1		1	207	1	207	e-154	424
+DIJ64_RS00375	No Hits Found
+DIJ64_RS00380	ML0074 COG0584 Glycerophosphoryl diester phosphodiesterase	99%	180	1		1	180	1	180	e-125	357
+DIJ64_RS19545	No Hits Found
+DIJ64_RS00405	ML0078 COG0077 Prephenate dehydratase	100%	320	0		1	320	3	322	0.0	632
+DIJ64_RS00410	ML0079 COG0406 Fructose-2,6-bisphosphatase	100%	231	0		1	231	1	231	e-168	461
+DIJ64_RS00415	No Hits Found
+DIJ64_RS00420	No Hits Found
+DIJ64_RS00425	No Hits Found
+DIJ64_RS14980	No Hits Found
+DIJ64_RS14985	No Hits Found
+DIJ64_RS17145	No Hits Found
+DIJ64_RS20845	No Hits Found
+DIJ64_RS14990	No Hits Found
+DIJ64_RS00450	ML0087 COG0204 1-acyl-sn-glycerol-3-phosphate acyltransferase	100%	255	0		1	255	3	257	0.0	516
+DIJ64_RS00455	Rv3814c COG0204 1-acyl-sn-glycerol-3-phosphate acyltransferase	60%	125	45	5	5	124	16	140	3e-041	137
+DIJ64_RS00460	No Hits Found
+DIJ64_RS14995	No Hits Found
+DIJ64_RS00470	No Hits Found
+DIJ64_RS00475	No Hits Found
+DIJ64_RS00480	No Hits Found
+DIJ64_RS00485	ML0094 COG0671 Membrane-associated phospholipid phosphatase	100%	192	0		1	192	1	192	e-134	373
+DIJ64_RS00490	ML0095 COG0382 4-hydroxybenzoate polyprenyltransferase and related	100%	302	0		1	302	1	302	0.0	605
+DIJ64_RS00495	No Hits Found
+DIJ64_RS00500	No Hits Found
+DIJ64_RS00505	No Hits Found
+DIJ64_RS00510	No Hits Found
+DIJ64_RS00515	aq_999_1 COG1022 Long-chain acyl-CoA synthetases (AMP-forming)	25%	479	279	78	63	528	27	440	1e-020	95.9
+DIJ64_RS00520	ML0101_1 COG3321 Polyketide synthase modules and related proteins	100%	519	0		1	519	31	549	0.0	1045
+DIJ64_RS00525	ML0102 COG4799 Acetyl-CoA carboxylase, carboxyltransferase	100%	517	0		1	517	1	517	0.0	1056
+DIJ64_RS00530	No Hits Found
+DIJ64_RS16025	No Hits Found
+DIJ64_RS16030	No Hits Found
+DIJ64_RS00540	No Hits Found
+DIJ64_RS00545	No Hits Found
+DIJ64_RS00555	No Hits Found
+DIJ64_RS00560	No Hits Found
+DIJ64_RS00565	No Hits Found
+DIJ64_RS00570	ML0109 COG0277 FAD/FMN-containing dehydrogenases	100%	460	0		1	460	1	460	0.0	949
+DIJ64_RS00575	No Hits Found
+DIJ64_RS00580	No Hits Found
+DIJ64_RS00585	No Hits Found
+DIJ64_RS00590	CAC0984 COG1135 ABC-type metal ion transport system, ATPase	27%	210	137	16	49	242	15	224	7e-019	84.7
+DIJ64_RS00595	No Hits Found
+DIJ64_RS00600	No Hits Found
+DIJ64_RS00605	ML0117 COG0520 Selenocysteine lyase	100%	398	0		1	398	1	398	0.0	785
+DIJ64_RS00610	ML2355 COG3321 Polyketide synthase modules and related proteins	32%	309	193	17	26	327	1499	1797	9e-032	126
+DIJ64_RS00620	No Hits Found
+DIJ64_RS00625	ML0120 COG1024 Enoyl-CoA hydratase/carnithine racemase	100%	274	0		1	274	5	278	0.0	556
+DIJ64_RS00630	No Hits Found
+DIJ64_RS20200	Rv3772 COG0079 Histidinol-phosphate/aromatic aminotransferase and	55%	226	90	10	2	221	83	304	6e-073	225
+DIJ64_RS15000	No Hits Found
+DIJ64_RS00655	No Hits Found
+DIJ64_RS00660	No Hits Found
+DIJ64_RS00665	No Hits Found
+DIJ64_RS00670	No Hits Found
+DIJ64_RS00675	MA4347 COG2226 Methylase involved in ubiquinone/menaquinone	32%	113	69	7	81	186	28	140	1e-014	70.5
+DIJ64_RS00680	ML0131 COG2141 Coenzyme F420-dependent N5,N10-methylene	99%	382	1		1	382	1	382	0.0	769
+DIJ64_RS00685	aq_999_1 COG1022 Long-chain acyl-CoA synthetases (AMP-forming)	27%	526	303	80	63	570	41	504	8e-029	121
+DIJ64_RS00690	ML0133 COG3161 4-hydroxybenzoate synthetase (chorismate lyase)	100%	210	0		1	210	1	210	e-155	427
+DIJ64_RS00695	SSO1314 COG0365 Acyl-coenzyme A synthetases/AMP-(fatty) acid	28%	497	317	37	25	487	31	524	5e-069	235
+DIJ64_RS00700	ML0135 COG3321 Polyketide synthase modules and related proteins	100%	2103	0		1	2103	1	2103	0.0	4165
+DIJ64_RS00705	No Hits Found
+DIJ64_RS00710	No Hits Found
+DIJ64_RS00715	FN0867_1 COG1022 Long-chain acyl-CoA synthetases (AMP-forming)	25%	579	306	128	32	562	7	505	1e-026	114
+DIJ64_RS00720	ML0139 COG3321 Polyketide synthase modules and related proteins	100%	2116	0		1	2116	1	2116	0.0	4280
+DIJ64_RS20850	No Hits Found
+DIJ64_RS16035	No Hits Found
+DIJ64_RS19560	No Hits Found
+DIJ64_RS20855	No Hits Found
+DIJ64_RS15005	No Hits Found
+DIJ64_RS00745	No Hits Found
+DIJ64_RS16040	No Hits Found
+DIJ64_RS15010	No Hits Found
+DIJ64_RS00755	No Hits Found
+DIJ64_RS17155	No Hits Found
+DIJ64_RS00775	ML0150 COG0166 Glucose-6-phosphate isomerase	100%	554	0		1	554	1	554	0.0	1134
+DIJ64_RS00780	ML0151 COG1605 Chorismate mutase	100%	105	0		1	105	1	105	3e-071	207
+DIJ64_RS00790	No Hits Found
+DIJ64_RS00795	No Hits Found
+DIJ64_RS00800	No Hits Found
+DIJ64_RS00805	ML0155 COG0045 Succinyl-CoA synthetase, beta subunit	100%	393	0		1	393	1	393	0.0	795
+DIJ64_RS00810	ML0156 COG0074 Succinyl-CoA synthetase, alpha subunit	100%	300	0		1	300	1	300	0.0	595
+DIJ64_RS00815	Rv0953c COG2141 Coenzyme F420-dependent N5,N10-methylene	53%	230	99	8	1	228	1	224	1e-070	219
+DIJ64_RS00820	No Hits Found
+DIJ64_RS00825	No Hits Found
+DIJ64_RS00830	ML0160 COG0299 Folate-dependent phosphoribosylglycinamide	99%	215	1		1	215	1	215	e-152	420
+DIJ64_RS00835	ML0161 COG0138 AICAR transformylase/IMP cyclohydrolase PurH (only	100%	527	0		1	527	1	527	0.0	1073
+DIJ64_RS16050	No Hits Found
+DIJ64_RS15020	No Hits Found
+DIJ64_RS20860	No Hits Found
+DIJ64_RS00855	MT1002 COG4799 Acetyl-CoA carboxylase, carboxyltransferase	52%	248	98	20	89	327	265	501	2e-056	192
+DIJ64_RS20865	MT1001_1 COG0439 Biotin carboxylase	72%	37	10	32	266	37	279	37	2e-007	53.9
+DIJ64_RS17165	PA0879 COG1960 Acyl-CoA dehydrogenases	27%	166	114	6	2	163	210	373	1e-010	58.9
+DIJ64_RS20215	No Hits Found
+DIJ64_RS00885	No Hits Found
+DIJ64_RS00890	No Hits Found
+DIJ64_RS20870	No Hits Found
+DIJ64_RS00910	No Hits Found
+DIJ64_RS16065	No Hits Found
+DIJ64_RS00915	No Hits Found
+DIJ64_RS00920	No Hits Found
+DIJ64_RS00925	No Hits Found
+DIJ64_RS00930	No Hits Found
+DIJ64_RS00935	No Hits Found
+DIJ64_RS00940	ML0177 COG0521 Molybdopterin biosynthesis enzymes	100%	165	0		1	165	17	181	e-110	311
+DIJ64_RS00945	No Hits Found
+DIJ64_RS00950	No Hits Found
+DIJ64_RS00955	No Hits Found
+DIJ64_RS00960	ML0181 COG0212 5-formyltetrahydrofolate cyclo-ligase	100%	197	0		1	197	1	197	e-140	389
+DIJ64_RS00965	No Hits Found
+DIJ64_RS00970	ML0183 COG0303 Molybdopterin biosynthesis enzyme	99%	424	1		1	424	1	424	0.0	820
+DIJ64_RS00975	No Hits Found
+DIJ64_RS00980	No Hits Found
+DIJ64_RS00995	No Hits Found
+DIJ64_RS01000	No Hits Found
+DIJ64_RS20875	No Hits Found
+DIJ64_RS01010	No Hits Found
+DIJ64_RS17185	Rv1001 COG2235 Arginine deiminase	67%	83	27		173	255	216	298	3e-026	108
+DIJ64_RS01015	No Hits Found
+DIJ64_RS01020	No Hits Found
+DIJ64_RS19565	No Hits Found
+DIJ64_RS20880	No Hits Found
+DIJ64_RS20885	No Hits Found
+DIJ64_RS20890	No Hits Found
+DIJ64_RS20895	No Hits Found
+DIJ64_RS20225	No Hits Found
+DIJ64_RS01050	No Hits Found
+DIJ64_RS01055	No Hits Found
+DIJ64_RS01060	No Hits Found
+DIJ64_RS01065	No Hits Found
+DIJ64_RS01070	No Hits Found
+DIJ64_RS01080	No Hits Found
+DIJ64_RS01085	No Hits Found
+DIJ64_RS01090	No Hits Found
+DIJ64_RS20900	No Hits Found
+DIJ64_RS01100	No Hits Found
+DIJ64_RS01105	No Hits Found
+DIJ64_RS01110	No Hits Found
+DIJ64_RS01115	ML0210 COG0221 Inorganic pyrophosphatase	99%	162	1		1	162	1	162	e-117	328
+DIJ64_RS01120	No Hits Found
+DIJ64_RS01125	No Hits Found
+DIJ64_RS01130	No Hits Found
+DIJ64_RS01135	ML0214 COG0634 Hypoxanthine-guanine phosphoribosyltransferase	99%	203	1		1	203	11	213	e-147	408
+DIJ64_RS01140	No Hits Found
+DIJ64_RS15040	No Hits Found
+DIJ64_RS01145	No Hits Found
+DIJ64_RS01155	No Hits Found
+DIJ64_RS01160	No Hits Found
+DIJ64_RS17215	No Hits Found
+DIJ64_RS01180	No Hits Found
+DIJ64_RS01185	ML0223 COG0302 GTP cyclohydrolase I	100%	205	0		1	205	1	205	e-151	416
+DIJ64_RS01190	ML0224 COG0294 Dihydropteroate synthase and related enzymes	99%	284	1		1	284	1	284	0.0	551
+DIJ64_RS01195	ML0225 COG1539 Dihydroneopterin aldolase	100%	132	0		1	132	1	132	4e-092	262
+DIJ64_RS01200	ML0226 COG0801 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase	100%	191	0		1	191	1	191	e-138	384
+DIJ64_RS01205	No Hits Found
+DIJ64_RS01210	No Hits Found
+DIJ64_RS01215	No Hits Found
+DIJ64_RS01220	ML0230 COG0414 Panthothenate synthetase	100%	313	0		1	313	1	313	0.0	630
+DIJ64_RS01225	ML0231 COG0853 Aspartate 1-decarboxylase	100%	142	0		1	142	1	142	e-100	284
+DIJ64_RS01230	No Hits Found
+DIJ64_RS01235	No Hits Found
+DIJ64_RS01240	No Hits Found
+DIJ64_RS01245	No Hits Found
+DIJ64_RS01250	No Hits Found
+DIJ64_RS17220	No Hits Found
+DIJ64_RS01260	No Hits Found
+DIJ64_RS01265	No Hits Found
+DIJ64_RS01270	No Hits Found
+DIJ64_RS01275	No Hits Found
+DIJ64_RS01280	ML0242 COG1947 4-diphosphocytidyl-2C-methyl-D-erythritol	100%	311	0		13	323	1	311	0.0	618
+DIJ64_RS01285	aq_999_1 COG1022 Long-chain acyl-CoA synthetases (AMP-forming)	26%	452	231	101	126	536	106	497	7e-024	105
+DIJ64_RS01290	No Hits Found
+DIJ64_RS01295	No Hits Found
+DIJ64_RS01300	No Hits Found
+DIJ64_RS01305	ML0247 COG1393 Arsenate reductase and related proteins,	100%	104	0		1	104	1	104	1e-074	216
+DIJ64_RS01310	No Hits Found
+DIJ64_RS01315	No Hits Found
+DIJ64_RS01325	No Hits Found
+DIJ64_RS19575	No Hits Found
+DIJ64_RS01335	No Hits Found
+DIJ64_RS17225	No Hits Found
+DIJ64_RS20230	No Hits Found
+DIJ64_RS01350	ML0255 COG0148 Enolase	100%	429	0		1	429	19	447	0.0	852
+DIJ64_RS01355	No Hits Found
+DIJ64_RS01360	No Hits Found
+DIJ64_RS01365	No Hits Found
+DIJ64_RS20905	No Hits Found
+DIJ64_RS15050	No Hits Found
+DIJ64_RS17230	No Hits Found
+DIJ64_RS16075	No Hits Found
+DIJ64_RS01395	No Hits Found
+DIJ64_RS15055	No Hits Found
+DIJ64_RS17235	No Hits Found
+DIJ64_RS17240	No Hits Found
+DIJ64_RS01435	No Hits Found
+DIJ64_RS19585	Rv0409 COG0282 Acetate kinase	63%	49	18		13	61	290	338	4e-014	64.3
+DIJ64_RS01445	Rv0409 COG0282 Acetate kinase	38%	80	34	15	37	101	60	139	5e-010	54.7
+DIJ64_RS15060	No Hits Found
+DIJ64_RS01450	No Hits Found
+DIJ64_RS01455	No Hits Found
+DIJ64_RS01460	ML0269 COG2141 Coenzyme F420-dependent N5,N10-methylene	100%	336	0		1	336	1	336	0.0	690
+DIJ64_RS01465	No Hits Found
+DIJ64_RS01470	No Hits Found
+DIJ64_RS20910	No Hits Found
+DIJ64_RS01480	ML0275 COG0626 Cystathionine beta-lyases/cystathionine	100%	406	0		1	406	1	406	0.0	828
+DIJ64_RS01485	ML0276 COG0607 Rhodanese-related sulfurtransferase	100%	147	0		1	147	1	147	e-109	305
+DIJ64_RS01490	No Hits Found
+DIJ64_RS01500	No Hits Found
+DIJ64_RS01505	ML0280 COG0104 Adenylosuccinate synthase	100%	432	0		1	432	1	432	0.0	875
+DIJ64_RS01510	No Hits Found
+DIJ64_RS17255	No Hits Found
+DIJ64_RS01520	ML0283 COG1230 Co/Zn/Cd efflux system component	100%	256	0		1	256	13	268	0.0	503
+DIJ64_RS01525	No Hits Found
+DIJ64_RS01530	No Hits Found
+DIJ64_RS01535	ML0286 COG0191 Fructose/tagatose bisphosphate aldolase	100%	345	0		1	345	1	345	0.0	707
+DIJ64_RS01540	No Hits Found
+DIJ64_RS17260	No Hits Found
+DIJ64_RS01560	No Hits Found
+DIJ64_RS01565	ML0294 COG0422 Thiamine biosynthesis protein ThiC	99%	543	1		1	543	5	547	0.0	1123
+DIJ64_RS01570	ML0295 COG0351 Hydroxymethylpyrimidine/phosphomethylpyrimidine	99%	279	1		1	279	1	279	0.0	561
+DIJ64_RS01575	ML0297 COG2022 Uncharacterized enzyme of thiazole biosynthesis	99%	261	1		1	261	1	261	0.0	515
+DIJ64_RS01580	ML0298 COG2104 Sulfur transfer protein involved in thiamine	100%	74	0		1	74	1	74	4e-047	144
+DIJ64_RS01585	ML0299 COG0665 Glycine/D-amino acid oxidases (deaminating)	100%	340	0		1	340	1	340	0.0	674
+DIJ64_RS01590	ML0300 COG0352 Thiamine monophosphate synthase	99%	235	1		1	235	1	235	e-168	462
+DIJ64_RS17265	No Hits Found
+DIJ64_RS01600	No Hits Found
+DIJ64_RS01605	No Hits Found
+DIJ64_RS01610	No Hits Found
+DIJ64_RS15065	No Hits Found
+DIJ64_RS15070	No Hits Found
+DIJ64_RS16080	No Hits Found
+DIJ64_RS01615	No Hits Found
+DIJ64_RS19590	No Hits Found
+DIJ64_RS16085	No Hits Found
+DIJ64_RS19595	No Hits Found
+DIJ64_RS01625	No Hits Found
+DIJ64_RS01630	No Hits Found
+DIJ64_RS01635	ML0310 COG1183 Phosphatidylserine synthase	100%	300	0		1	300	1	300	0.0	605
+DIJ64_RS01640	ML0311 COG0688 Phosphatidylserine decarboxylase	99%	243	1		1	243	1	243	e-174	479
+DIJ64_RS20915	No Hits Found
+DIJ64_RS01650	No Hits Found
+DIJ64_RS01655	Rv0438c COG0303 Molybdopterin biosynthesis enzyme	77%	36	8		6	41	172	207	2e-012	59.7
+DIJ64_RS01670	No Hits Found
+DIJ64_RS01675	ML0314 COG0657 Esterase/lipase	99%	335	1		31	365	1	335	0.0	669
+DIJ64_RS17270	No Hits Found
+DIJ64_RS01685	PA1651 COG3135 Uncharacterized protein involved in benzoate	36%	71	38	7	1	68	232	298	1e-007	46.2
+DIJ64_RS01690	No Hits Found
+DIJ64_RS01695	No Hits Found
+DIJ64_RS01700	No Hits Found
+DIJ64_RS16090	No Hits Found
+DIJ64_RS01710	No Hits Found
+DIJ64_RS01715	No Hits Found
+DIJ64_RS01720	ML0321 COG1211 4-diphosphocytidyl-2-methyl-D-erithritol synthase	100%	241	0		1	241	1	241	e-171	470
+DIJ64_RS01725	ML0322 COG0245 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	99%	158	1		1	158	1	158	e-111	311
+DIJ64_RS01730	No Hits Found
+DIJ64_RS01740	No Hits Found
+DIJ64_RS01745	No Hits Found
+DIJ64_RS01765	No Hits Found
+DIJ64_RS20920	No Hits Found
+DIJ64_RS20925	No Hits Found
+DIJ64_RS01775	No Hits Found
+DIJ64_RS16095	No Hits Found
+DIJ64_RS20240	Rv3578 COG1055 Na+/H+ antiporter NhaD and related arsenite	75%	73	18		1	73	123	195	3e-028	105
+DIJ64_RS20930	No Hits Found
+DIJ64_RS01795	No Hits Found
+DIJ64_RS01800	ML0335 COG1108 ABC-type Mn2+/Zn2+ transport systems, permease	100%	286	0		1	286	1	286	0.0	547
+DIJ64_RS01805	ML0336 COG1121 ABC-type Mn/Zn transport systems, ATPase component	100%	253	0		1	253	23	275	0.0	500
+DIJ64_RS01810	ML0337 COG0803 ABC-type metal ion transport system, periplasmic	100%	302	0		1	302	1	302	0.0	612
+DIJ64_RS17285	No Hits Found
+DIJ64_RS01820	No Hits Found
+DIJ64_RS20245	No Hits Found
+DIJ64_RS20250	No Hits Found
+DIJ64_RS01835	Rv3571 COG1018 Flavodoxin reductases (ferredoxin-NADPH reductases)	42%	332	146	45	1	303	19	334	6e-059	193
+DIJ64_RS16110	No Hits Found
+DIJ64_RS17310	No Hits Found
+DIJ64_RS01850	No Hits Found
+DIJ64_RS17315	No Hits Found
+DIJ64_RS01860	ML0348 COG2141 Coenzyme F420-dependent N5,N10-methylene	100%	343	0		1	343	8	350	0.0	701
+DIJ64_RS16115	No Hits Found
+DIJ64_RS19605	No Hits Found
+DIJ64_RS16120	No Hits Found
+DIJ64_RS17325	No Hits Found
+DIJ64_RS01870	No Hits Found
+DIJ64_RS01875	No Hits Found
+DIJ64_RS01880	No Hits Found
+DIJ64_RS01885	STM4432 COG3962 Acetolactate synthase	26%	218	148	12	302	510	12	226	1e-009	59.3
+DIJ64_RS01890	No Hits Found
+DIJ64_RS20935	No Hits Found
+DIJ64_RS01900	No Hits Found
+DIJ64_RS01905	Rv3503c COG1141 Ferredoxin	75%	54	13		3	56	8	61	1e-023	83.6
+DIJ64_RS17330	No Hits Found
+DIJ64_RS01915	MT3605 COG0767 ABC-type transport system involved in resistance to	60%	220	65	23	32	237	15	225	3e-065	202
+DIJ64_RS01920	Rv3500c COG0767 ABC-type transport system involved in resistance to	66%	56	11	8	178	230	181	231	2e-015	74.7
+DIJ64_RS20940	No Hits Found
+DIJ64_RS01925	No Hits Found
+DIJ64_RS01930	No Hits Found
+DIJ64_RS01935	No Hits Found
+DIJ64_RS01940	ML0366 COG1109 Phosphomannomutase	100%	463	0		1	463	1	463	0.0	909
+DIJ64_RS01950	No Hits Found
+DIJ64_RS17340	No Hits Found
+DIJ64_RS17345	No Hits Found
+DIJ64_RS01965	No Hits Found
+DIJ64_RS01970	SPy0026 COG0034 Glutamine phosphoribosylpyrophosphate	30%	210	133	14	2	208	12	210	3e-019	91.3
+DIJ64_RS17350	No Hits Found
+DIJ64_RS01975	ML0373_2 COG0063 Predicted sugar kinase	100%	289	0		185	473	1	289	0.0	560
+DIJ64_RS01980	Rv3432c COG0076 Glutamate decarboxylase and related PLP-dependent	37%	239	100	49	43	257	60	273	6e-022	97.8
+DIJ64_RS01985	No Hits Found
+DIJ64_RS01990	No Hits Found
+DIJ64_RS01995	No Hits Found
+DIJ64_RS17355	No Hits Found
+DIJ64_RS17360	No Hits Found
+DIJ64_RS02005	No Hits Found
+DIJ64_RS02010	No Hits Found
+DIJ64_RS02015	No Hits Found
+DIJ64_RS02020	No Hits Found
+DIJ64_RS02025	No Hits Found
+DIJ64_RS02030	No Hits Found
+DIJ64_RS20945	No Hits Found
+DIJ64_RS20950	No Hits Found
+DIJ64_RS02050	No Hits Found
+DIJ64_RS02055	ML0387_3 COG0516 IMP dehydrogenase/GMP reductase	100%	292	0		238	529	1	292	0.0	586
+DIJ64_RS02060	ML0388 COG0516 IMP dehydrogenase/GMP reductase	100%	370	0		6	375	1	370	0.0	735
+DIJ64_RS02065	ML0389 COG2303 Choline dehydrogenase and related flavoproteins	99%	569	1		1	569	1	569	0.0	1165
+DIJ64_RS17375	Rv3406 COG2175 Probable taurine catabolism dioxygenase	55%	131	58		16	146	164	294	2e-048	157
+DIJ64_RS02075	No Hits Found
+DIJ64_RS02080	ML0392 COG1554 Trehalose and maltose hydrolases (possible	100%	792	0		1	792	1	792	0.0	1624
+DIJ64_RS02085	No Hits Found
+DIJ64_RS02090	No Hits Found
+DIJ64_RS16125	No Hits Found
+DIJ64_RS16130	No Hits Found
+DIJ64_RS02095	ML0395_2 COG0519 GMP synthase, PP-ATPase domain/subunit	100%	325	0		205	529	1	325	0.0	655
+DIJ64_RS02100	ML0397_3 COG1172 Ribose/xylose/arabinose/galactoside ABC-type	99%	313	1		298	610	1	313	0.0	609
+DIJ64_RS02110	ML0398 COG1879 ABC-type sugar transport system, periplasmic	100%	345	0		1	345	1	345	0.0	712
+DIJ64_RS02115	No Hits Found
+DIJ64_RS20955	No Hits Found
+DIJ64_RS20960	No Hits Found
+DIJ64_RS19610	No Hits Found
+DIJ64_RS17395	No Hits Found
+DIJ64_RS17400	Rv3393 COG1957 Inosine-uridine nucleoside N-ribohydrolase	53%	79	33	4	1	79	91	165	2e-019	79.7
+DIJ64_RS17405	Rv3393 COG1957 Inosine-uridine nucleoside N-ribohydrolase	60%	55	22		1	55	16	70	1e-015	68.2
+DIJ64_RS20965	No Hits Found
+DIJ64_RS20970	No Hits Found
+DIJ64_RS02145	No Hits Found
+DIJ64_RS02150	No Hits Found
+DIJ64_RS02155	No Hits Found
+DIJ64_RS19625	No Hits Found
+DIJ64_RS02170	No Hits Found
+DIJ64_RS02175	No Hits Found
+DIJ64_RS02180	No Hits Found
+DIJ64_RS02185	No Hits Found
+DIJ64_RS20975	No Hits Found
+DIJ64_RS02195	No Hits Found
+DIJ64_RS02200	ML0414_2 COG1877 Trehalose-6-phosphatase	100%	261	0		169	429	1	261	0.0	532
+DIJ64_RS15090	No Hits Found
+DIJ64_RS02205	No Hits Found
+DIJ64_RS15095	No Hits Found
+DIJ64_RS16145	No Hits Found
+DIJ64_RS20980	No Hits Found
+DIJ64_RS20985	No Hits Found
+DIJ64_RS20990	No Hits Found
+DIJ64_RS02220	ML0418 COG0778 Nitroreductase	99%	210	1		5	214	1	210	e-157	433
+DIJ64_RS02225	No Hits Found
+DIJ64_RS16150	No Hits Found
+DIJ64_RS02235	No Hits Found
+DIJ64_RS02240	No Hits Found
+DIJ64_RS15100	No Hits Found
+DIJ64_RS02245	No Hits Found
+DIJ64_RS15105	No Hits Found
+DIJ64_RS17420	No Hits Found
+DIJ64_RS02260	No Hits Found
+DIJ64_RS17425	No Hits Found
+DIJ64_RS02275	No Hits Found
+DIJ64_RS02280	No Hits Found
+DIJ64_RS02290	No Hits Found
+DIJ64_RS02300	No Hits Found
+DIJ64_RS02305	No Hits Found
+DIJ64_RS02310	No Hits Found
+DIJ64_RS02315	No Hits Found
+DIJ64_RS02320	No Hits Found
+DIJ64_RS17430	No Hits Found
+DIJ64_RS16155	No Hits Found
+DIJ64_RS02335	Rv2504c COG1788 Acyl CoA:acetate/3-ketoacid CoA transferase, alpha	59%	171	49	21	63	212	78	248	2e-058	184
+DIJ64_RS20995	Rv2503c COG2057 Acyl CoA:acetate/3-ketoacid CoA transferase, beta	55%	92	40	1	1	92	104	194	1e-025	96.3
+DIJ64_RS21000	Rv2502c COG4799 Acetyl-CoA carboxylase, carboxyltransferase	73%	56	15		1	56	20	75	4e-019	78.6
+DIJ64_RS21005	Rv2502c COG4799 Acetyl-CoA carboxylase, carboxyltransferase	72%	106	28	1	1	106	114	218	6e-043	146
+DIJ64_RS21010	Rv2502c COG4799 Acetyl-CoA carboxylase, carboxyltransferase	74%	86	22		1	86	322	407	6e-038	132
+DIJ64_RS21015	Rv2502c COG4799 Acetyl-CoA carboxylase, carboxyltransferase	69%	55	17		9	63	427	481	1e-020	83.2
+DIJ64_RS21020	Rv2501c COG4770 Acetyl/propionyl-CoA carboxylase, alpha subunit	60%	60	23	1	3	62	23	81	2e-016	70.9
+DIJ64_RS21025	Rv2501c COG4770 Acetyl/propionyl-CoA carboxylase, alpha subunit	61%	216	82	2	1	216	113	326	6e-076	241
+DIJ64_RS02350	FN1424_1 COG1960 Acyl-CoA dehydrogenases	34%	101	66		4	104	19	119	6e-014	72.0
+DIJ64_RS02355	Rv2499c COG2030 Acyl dehydratase	40%	124	67	7	8	127	25	145	2e-017	75.1
+DIJ64_RS02360	Rv2498c COG2301 Citrate lyase beta subunit	64%	147	41	11	1	141	1	142	4e-042	142
+DIJ64_RS17450	No Hits Found
+DIJ64_RS17455	No Hits Found
+DIJ64_RS02370	Rv2496c COG0022 Pyruvate/2-oxoglutarate dehydrogenase complex,	52%	180	83	3	11	190	5	181	1e-045	159
+DIJ64_RS15115	No Hits Found
+DIJ64_RS17460	No Hits Found
+DIJ64_RS21030	No Hits Found
+DIJ64_RS02390	No Hits Found
+DIJ64_RS21035	Rv2605c COG1946 Acyl-CoA thioesterase	53%	41	19		11	51	217	257	9e-011	54.7
+DIJ64_RS15125	No Hits Found
+DIJ64_RS02415	ML0450 COG0214 Pyridoxine biosynthesis enzyme	99%	307	1		1	307	1	307	0.0	620
+DIJ64_RS02420	No Hits Found
+DIJ64_RS02425	PAB2292 COG0297 Glycogen synthase	29%	182	115	14	188	360	249	425	4e-010	61.2
+DIJ64_RS02430	No Hits Found
+DIJ64_RS02435	ML0454 COG0558 Phosphatidylglycerophosphate synthase	100%	239	0		1	239	1	239	e-173	476
+DIJ64_RS02440	No Hits Found
+DIJ64_RS02445	No Hits Found
+DIJ64_RS21040	No Hits Found
+DIJ64_RS02450	ML0458 COG0667 Predicted oxidoreductases (related to aryl-alcohol	100%	301	0		1	301	1	301	0.0	610
+DIJ64_RS20285	No Hits Found
+DIJ64_RS20290	No Hits Found
+DIJ64_RS02465	No Hits Found
+DIJ64_RS02470	No Hits Found
+DIJ64_RS02480	No Hits Found
+DIJ64_RS19630	No Hits Found
+DIJ64_RS02485	ML0466 COG2755 Lysophospholipase L1 and related esterases	100%	283	0		1	283	19	301	0.0	578
+DIJ64_RS02490	No Hits Found
+DIJ64_RS02500	No Hits Found
+DIJ64_RS02510	No Hits Found
+DIJ64_RS17475	No Hits Found
+DIJ64_RS17485	MA3477 COG0370 Fe2+ transport system protein B	40%	91	54		2	92	307	397	2e-012	63.2
+DIJ64_RS17490	aq_1255 COG0370 Fe2+ transport system protein B	39%	71	42	1	2	71	448	518	9e-007	44.3
+DIJ64_RS17495	No Hits Found
+DIJ64_RS02535	No Hits Found
+DIJ64_RS02540	ML0474 COG0311 Predicted glutamine amidotransferase involved in	100%	198	0		1	198	26	223	e-141	392
+DIJ64_RS02545	No Hits Found
+DIJ64_RS16170	No Hits Found
+DIJ64_RS02560	No Hits Found
+DIJ64_RS02565	No Hits Found
+DIJ64_RS02570	No Hits Found
+DIJ64_RS17500	No Hits Found
+DIJ64_RS02580	No Hits Found
+DIJ64_RS02585	No Hits Found
+DIJ64_RS02590	No Hits Found
+DIJ64_RS21045	No Hits Found
+DIJ64_RS02600	ML0484_1 COG1022 Long-chain acyl-CoA synthetases (AMP-forming)	100%	767	0		1	767	15	781	0.0	1551
+DIJ64_RS02605	ML0485 COG0160 4-aminobutyrate aminotransferase and related	99%	446	1		1	446	1	446	0.0	897
+DIJ64_RS02610	No Hits Found
+DIJ64_RS02615	No Hits Found
+DIJ64_RS02620	No Hits Found
+DIJ64_RS02625	ML0489 COG0747 ABC-type dipeptide transport system, periplasmic	100%	555	0		1	555	1	555	0.0	1116
+DIJ64_RS02630	Rv2584c COG0503 Adenine/guanine phosphoribosyltransferases and	38%	141	80	7	1	138	53	189	1e-019	82.4
+DIJ64_RS02635	No Hits Found
+DIJ64_RS02640	No Hits Found
+DIJ64_RS02645	No Hits Found
+DIJ64_RS02650	BS_hisZ COG3705 ATP phosphoribosyltransferase involved in histidine	25%	374	247	32	7	363	1	359	4e-020	91.7
+DIJ64_RS21050	No Hits Found
+DIJ64_RS02660	No Hits Found
+DIJ64_RS02665	No Hits Found
+DIJ64_RS02670	No Hits Found
+DIJ64_RS17515	No Hits Found
+DIJ64_RS02685	No Hits Found
+DIJ64_RS02690	Rv2573 COG1893 Ketopantoate reductase	76%	52	12		19	70	195	246	1e-021	84.0
+DIJ64_RS21055	No Hits Found
+DIJ64_RS02700	No Hits Found
+DIJ64_RS21060	No Hits Found
+DIJ64_RS21065	No Hits Found
+DIJ64_RS16175	No Hits Found
+DIJ64_RS02710	No Hits Found
+DIJ64_RS15140	No Hits Found
+DIJ64_RS02715	No Hits Found
+DIJ64_RS17520	No Hits Found
+DIJ64_RS02725	No Hits Found
+DIJ64_RS02730	No Hits Found
+DIJ64_RS20300	No Hits Found
+DIJ64_RS20305	No Hits Found
+DIJ64_RS20310	No Hits Found
+DIJ64_RS02750	ML0508 COG1305 Transglutaminase-like enzymes, putative cysteine	100%	313	0		1	313	1	313	0.0	643
+DIJ64_RS02755	No Hits Found
+DIJ64_RS02760	No Hits Found
+DIJ64_RS02770	No Hits Found
+DIJ64_RS02775	No Hits Found
+DIJ64_RS02780	No Hits Found
+DIJ64_RS02785	No Hits Found
+DIJ64_RS02790	ML0515 COG0169 Shikimate 5-dehydrogenase	99%	276	1		1	276	3	278	0.0	550
+DIJ64_RS02795	ML0516 COG0082 Chorismate synthase	99%	407	1		1	407	1	407	0.0	802
+DIJ64_RS02800	ML0517 COG0703 Shikimate kinase	100%	199	0		1	199	1	199	e-142	395
+DIJ64_RS02805	ML0518 COG0337 3-dehydroquinate synthetase	100%	361	0		1	361	1	361	0.0	712
+DIJ64_RS02810	ML0519 COG0757 3-dehydroquinate dehydratase II	100%	145	0		1	145	1	145	e-104	294
+DIJ64_RS02815	No Hits Found
+DIJ64_RS02820	ML0521 COG0006 Xaa-Pro aminopeptidase	100%	376	0		1	376	1	376	0.0	745
+DIJ64_RS02825	No Hits Found
+DIJ64_RS02830	No Hits Found
+DIJ64_RS16180	No Hits Found
+DIJ64_RS02835	ML0524 COG1982 Arginine/lysine/ornithine decarboxylases	100%	950	0		1	950	1	950	0.0	1952
+DIJ64_RS17525	No Hits Found
+DIJ64_RS17530	No Hits Found
+DIJ64_RS21070	No Hits Found
+DIJ64_RS21075	No Hits Found
+DIJ64_RS15145	No Hits Found
+DIJ64_RS17540	No Hits Found
+DIJ64_RS17545	No Hits Found
+DIJ64_RS02875	Rv1379 COG2065 Pyrimidine operon attenuation protein/uracil	63%	147	32	22	1	132	1	140	7e-043	141
+DIJ64_RS02880	ML0532 COG0540 Aspartate carbamoyltransferase, catalytic chain	99%	321	1		1	321	1	321	0.0	643
+DIJ64_RS02885	ML0533 COG0044 Dihydroorotase and related cyclic amidohydrolases	100%	430	0		1	430	1	430	0.0	857
+DIJ64_RS02890	No Hits Found
+DIJ64_RS02895	Cgl0591_1 COG0518 GMP synthase - Glutamine amidotransferase domain	29%	179	109	17	198	370	25	192	3e-010	59.3
+DIJ64_RS02900	aq_1470 COG0439 Biotin carboxylase	25%	231	159	13	107	892	84	325	5e-009	60.1
+DIJ64_RS02905	ML0537 COG0284 Orotidine-5'-phosphate decarboxylase	100%	282	0		1	282	1	282	0.0	552
+DIJ64_RS02910	No Hits Found
+DIJ64_RS02915	No Hits Found
+DIJ64_RS02925	No Hits Found
+DIJ64_RS02930	ML0541 COG0194 Guanylate kinase	100%	208	0		1	208	3	210	e-150	414
+DIJ64_RS02935	No Hits Found
+DIJ64_RS02940	ML0543 COG0452 Phosphopantothenoylcysteine synthetase/decarboxylase	100%	419	0		1	419	1	419	0.0	839
+DIJ64_RS02945	ML0544 COG0192 S-adenosylmethionine synthetase	99%	403	1		1	403	1	403	0.0	812
+DIJ64_RS17550	No Hits Found
+DIJ64_RS17555	Rv1399c COG0657 Esterase/lipase	64%	91	24	8	1	86	115	202	8e-028	102
+DIJ64_RS21080	Rv1400c COG0657 Esterase/lipase	39%	208	94	32	7	204	13	198	3e-023	98.2
+DIJ64_RS02970	No Hits Found
+DIJ64_RS02980	No Hits Found
+DIJ64_RS02985	RP680 COG2226 Methylase involved in ubiquinone/menaquinone	30%	111	69	8	52	154	77	187	9e-014	69.7
+DIJ64_RS02990	HI1588 COG0788 Formyltetrahydrofolate hydrolase	26%	202	127	22	17	196	75	276	8e-012	64.7
+DIJ64_RS02995	No Hits Found
+DIJ64_RS03000	ML0554 COG0036 Pentose-5-phosphate-3-epimerase	100%	224	0		9	232	1	224	e-163	448
+DIJ64_RS03005	ML0555_2 COG1985 Pyrimidine reductase, riboflavin biosynthesis	100%	189	0		151	339	1	189	e-131	371
+DIJ64_RS03010	BS_ywfA COG2814 Arabinose efflux permease	35%	111	68	4	65	175	71	177	3e-007	52.8
+DIJ64_RS03015	No Hits Found
+DIJ64_RS03020	ML0558 COG0307 Riboflavin synthase alpha chain	100%	207	0		1	207	1	207	e-147	408
+DIJ64_RS03025	ML0559_2 COG0807 GTP cyclohydrolase II	100%	220	0		206	425	1	220	e-160	449
+DIJ64_RS03030	ML0560 COG0054 Riboflavin synthase beta-chain	100%	160	0		1	160	1	160	e-112	315
+DIJ64_RS03035	No Hits Found
+DIJ64_RS03040	No Hits Found
+DIJ64_RS03045	No Hits Found
+DIJ64_RS03050	No Hits Found
+DIJ64_RS03055	No Hits Found
+DIJ64_RS03060	No Hits Found
+DIJ64_RS17570	No Hits Found
+DIJ64_RS21085	No Hits Found
+DIJ64_RS17575	No Hits Found
+DIJ64_RS03070	No Hits Found
+DIJ64_RS19635	No Hits Found
+DIJ64_RS21090	No Hits Found
+DIJ64_RS03085	No Hits Found
+DIJ64_RS19640	No Hits Found
+DIJ64_RS16190	No Hits Found
+DIJ64_RS03105	No Hits Found
+DIJ64_RS03110	ML0570 COG0057 Glyceraldehyde-3-phosphate	99%	339	1		1	339	1	339	0.0	687
+DIJ64_RS03115	ML0571 COG0126 3-phosphoglycerate kinase	99%	416	1		1	416	1	416	0.0	824
+DIJ64_RS03120	ML0572 COG0149 Triosephosphate isomerase	99%	261	1		1	261	1	261	0.0	529
+DIJ64_RS17585	No Hits Found
+DIJ64_RS03130	No Hits Found
+DIJ64_RS03135	No Hits Found
+DIJ64_RS03140	No Hits Found
+DIJ64_RS03145	No Hits Found
+DIJ64_RS03150	ML0578 COG2352 Phosphoenolpyruvate carboxylase	99%	349	3		1	349	1	349	0.0	697
+DIJ64_RS03155	ML0579 COG0363 6-phosphogluconolactonase/Glucosamine-6-phosphate	99%	247	1		1	247	1	247	0.0	497
+DIJ64_RS03160	ML0580 COG3429 Glucose-6-P dehydrogenase subunit	100%	265	0		1	265	1	265	0.0	529
+DIJ64_RS19645	Rv1447c COG0364 Glucose-6-phosphate 1-dehydrogenase	62%	147	54	1	1	438	31	470	1e-047	171
+DIJ64_RS03170	ML0582 COG0176 Transaldolase	100%	375	0		1	375	1	375	0.0	764
+DIJ64_RS03175	ML0583 COG0021 Transketolase	99%	699	1		1	699	1	699	0.0	1421
+DIJ64_RS03180	CC3421 COG0382 4-hydroxybenzoate polyprenyltransferase and related	27%	243	156	20	6	239	35	266	5e-010	59.7
+DIJ64_RS17605	No Hits Found
+DIJ64_RS17610	No Hits Found
+DIJ64_RS17615	No Hits Found
+DIJ64_RS17620	No Hits Found
+DIJ64_RS03195	No Hits Found
+DIJ64_RS03200	No Hits Found
+DIJ64_RS03205	No Hits Found
+DIJ64_RS03210	FN0801 COG1126 ABC-type polar amino acid transport system, ATPase	27%	242	149	27	14	237	1	233	2e-035	128
+DIJ64_RS03215	No Hits Found
+DIJ64_RS03220	No Hits Found
+DIJ64_RS03230	No Hits Found
+DIJ64_RS03235	No Hits Found
+DIJ64_RS03240	BMEII0508 COG4608 ABC-type oligopeptide transport system, ATPase	31%	213	127	18	28	235	44	243	7e-018	80.9
+DIJ64_RS03245	ML0596 COG0520 Selenocysteine lyase	100%	418	0		1	418	1	418	0.0	845
+DIJ64_RS03250	ML0597 COG0822 NifU homolog involved in Fe-S cluster formation	100%	165	0		1	165	1	165	e-122	340
+DIJ64_RS03255	No Hits Found
+DIJ64_RS21095	No Hits Found
+DIJ64_RS21100	No Hits Found
+DIJ64_RS21105	Rv0244c COG1960 Acyl-CoA dehydrogenases	50%	75	37		8	82	16	90	9e-018	75.9
+DIJ64_RS03275	No Hits Found
+DIJ64_RS15160	No Hits Found
+DIJ64_RS21110	No Hits Found
+DIJ64_RS19650	No Hits Found
+DIJ64_RS19655	No Hits Found
+DIJ64_RS03300	No Hits Found
+DIJ64_RS03305	No Hits Found
+DIJ64_RS03310	No Hits Found
+DIJ64_RS03315	No Hits Found
+DIJ64_RS03320	ML0607 COG1305 Transglutaminase-like enzymes, putative cysteine	100%	279	0		1	279	1	279	0.0	570
+DIJ64_RS03325	No Hits Found
+DIJ64_RS03330	No Hits Found
+DIJ64_RS03340	No Hits Found
+DIJ64_RS21115	No Hits Found
+DIJ64_RS03350	CAC0110 COG2895 GTPases - Sulfate adenylate transferase subunit 1	29%	157	87	24	46	186	8	156	1e-009	61.6
+DIJ64_RS03355	Rv2402 COG3387 Glucoamylase and related glycosyl hydrolases	58%	652	247	26	26	664	3	641	0.0	657
+DIJ64_RS17640	No Hits Found
+DIJ64_RS03365	No Hits Found
+DIJ64_RS03370	ML0615 COG1613 ABC-type sulfate transport system, periplasmic	99%	250	2		1	250	1	250	e-180	502
+DIJ64_RS17645	No Hits Found
+DIJ64_RS03375	MT2469 COG4208 ABC-type sulfate transport system, permease	57%	88	37		1	88	1	88	6e-023	93.2
+DIJ64_RS21120	No Hits Found
+DIJ64_RS03385	No Hits Found
+DIJ64_RS15185	No Hits Found
+DIJ64_RS03390	No Hits Found
+DIJ64_RS17650	No Hits Found
+DIJ64_RS20320	No Hits Found
+DIJ64_RS17660	No Hits Found
+DIJ64_RS15190	No Hits Found
+DIJ64_RS03410	No Hits Found
+DIJ64_RS03415	No Hits Found
+DIJ64_RS03420	No Hits Found
+DIJ64_RS03425	No Hits Found
+DIJ64_RS03430	No Hits Found
+DIJ64_RS03435	No Hits Found
+DIJ64_RS03440	No Hits Found
+DIJ64_RS03445	No Hits Found
+DIJ64_RS03450	No Hits Found
+DIJ64_RS03455	No Hits Found
+DIJ64_RS03460	ML0634 COG0020 Undecaprenyl pyrophosphate synthase	99%	296	1		1	296	1	296	0.0	610
+DIJ64_RS03465	No Hits Found
+DIJ64_RS03470	No Hits Found
+DIJ64_RS03475	No Hits Found
+DIJ64_RS03480	No Hits Found
+DIJ64_RS03485	No Hits Found
+DIJ64_RS16210	No Hits Found
+DIJ64_RS03495	No Hits Found
+DIJ64_RS03500	No Hits Found
+DIJ64_RS03505	No Hits Found
+DIJ64_RS19660	No Hits Found
+DIJ64_RS19665	No Hits Found
+DIJ64_RS03520	No Hits Found
+DIJ64_RS19670	Rv3170 COG1231 Monoamine oxidase	57%	95	37	3	2	96	305	396	1e-026	101
+DIJ64_RS17665	MT3259 COG1231 Monoamine oxidase	62%	54	20		9	62	232	285	3e-015	70.5
+DIJ64_RS21125	No Hits Found
+DIJ64_RS21130	No Hits Found
+DIJ64_RS17670	No Hits Found
+DIJ64_RS03545	No Hits Found
+DIJ64_RS17675	No Hits Found
+DIJ64_RS17680	No Hits Found
+DIJ64_RS17685	No Hits Found
+DIJ64_RS17695	No Hits Found
+DIJ64_RS17700	No Hits Found
+DIJ64_RS19675	No Hits Found
+DIJ64_RS21135	Rv3158 COG1007 NADH:ubiquinone oxidoreductase subunit 2 (chain N)	81%	32	6		1	32	344	375	2e-010	55.5
+DIJ64_RS03585	No Hits Found
+DIJ64_RS03590	ECs2008 COG0667 Predicted oxidoreductases (related to	45%	64	35		3	66	18	81	2e-013	62.8
+DIJ64_RS03595	ML0660 COG1960 Acyl-CoA dehydrogenases	100%	400	0		1	400	1	400	0.0	817
+DIJ64_RS03600	ML0661 COG1960 Acyl-CoA dehydrogenases	100%	465	0		1	465	1	465	0.0	942
+DIJ64_RS03605	ML0662 COG0483 Archaeal fructose-1,6-bisphosphatase and related	100%	255	0		7	261	1	255	0.0	499
+DIJ64_RS03610	No Hits Found
+DIJ64_RS15200	No Hits Found
+DIJ64_RS21140	No Hits Found
+DIJ64_RS21145	No Hits Found
+DIJ64_RS03625	No Hits Found
+DIJ64_RS03630	No Hits Found
+DIJ64_RS15205	No Hits Found
+DIJ64_RS03650	lin2514 COG1135 ABC-type metal ion transport system, ATPase	42%	219	123	3	1	216	1	219	2e-053	175
+DIJ64_RS03655	No Hits Found
+DIJ64_RS03660	No Hits Found
+DIJ64_RS17710	Rv3359 COG1902 NADH:flavin oxidoreductases, Old Yellow Enzyme	38%	295	123	59	6	276	10	269	4e-032	122
+DIJ64_RS03675	ML0674 COG0190 5,10-methylene-tetrahydrofolate	99%	282	1		1	282	1	282	0.0	551
+DIJ64_RS03680	No Hits Found
+DIJ64_RS03685	No Hits Found
+DIJ64_RS15215	Rv0063 COG0277 FAD/FMN-containing dehydrogenases	51%	86	42		1	86	65	150	3e-018	79.3
+DIJ64_RS17715	No Hits Found
+DIJ64_RS17720	No Hits Found
+DIJ64_RS17725	No Hits Found
+DIJ64_RS21150	No Hits Found
+DIJ64_RS03710	No Hits Found
+DIJ64_RS03715	ML0682 COG2021 Homoserine acetyltransferase	100%	382	0		1	382	1	382	0.0	773
+DIJ64_RS03720	Rv3340 COG2873 O-acetylhomoserine sulfhydrylase	51%	351	117	52	12	324	11	347	3e-092	285
+DIJ64_RS03725	Rv3339c COG0538 Isocitrate dehydrogenases	43%	426	197	43	1	402	1	407	1e-091	281
+DIJ64_RS03730	No Hits Found
+DIJ64_RS03735	No Hits Found
+DIJ64_RS03740	No Hits Found
+DIJ64_RS15225	No Hits Found
+DIJ64_RS19680	No Hits Found
+DIJ64_RS03750	No Hits Found
+DIJ64_RS03755	No Hits Found
+DIJ64_RS16225	No Hits Found
+DIJ64_RS16230	No Hits Found
+DIJ64_RS03775	No Hits Found
+DIJ64_RS03785	MT3432 COG0161 Adenosylmethionine-8-amino-7-oxononanoate	54%	376	150	20	4	370	88	452	e-117	348
+DIJ64_RS21155	No Hits Found
+DIJ64_RS03795	No Hits Found
+DIJ64_RS15235	No Hits Found
+DIJ64_RS03810	ML0696 COG0479 Succinate dehydrogenase/fumarate reductase, Fe-S	100%	264	0		1	264	1	264	0.0	544
+DIJ64_RS03815	ML0697 COG1053 Succinate dehydrogenase/fumarate reductase,	100%	584	0		1	584	1	584	0.0	1209
+DIJ64_RS03820	ML0698 COG2142 Succinate dehydrogenase, hydrophobic anchor subunit	100%	163	0		1	163	1	163	e-118	330
+DIJ64_RS03825	ML0699 COG2009 Succinate dehydrogenase/fumarate reductase,	100%	118	0		1	118	36	153	8e-083	239
+DIJ64_RS03830	ML0700 COG1816 Adenosine deaminase	100%	362	0		1	362	1	362	0.0	738
+DIJ64_RS17730	No Hits Found
+DIJ64_RS19685	No Hits Found
+DIJ64_RS03845	No Hits Found
+DIJ64_RS16240	No Hits Found
+DIJ64_RS03855	Rv3309c COG0035 Uracil phosphoribosyltransferase	37%	226	101	40	3	209	3	207	3e-026	100
+DIJ64_RS03860	ML0706 COG1109 Phosphomannomutase	100%	534	0		1	534	5	538	0.0	1076
+DIJ64_RS03865	ML0707 COG0005 Purine nucleoside phosphorylase	99%	268	1		1	268	1	268	0.0	526
+DIJ64_RS03870	No Hits Found
+DIJ64_RS03875	No Hits Found
+DIJ64_RS20325	No Hits Found
+DIJ64_RS03885	No Hits Found
+DIJ64_RS03890	MT3402 COG1249 Pyruvate/2-oxoglutarate dehydrogenase complex,	64%	158	50	6	1	473	1	471	1e-041	154
+DIJ64_RS03895	ML0713 COG0578 Glycerol-3-phosphate dehydrogenase	99%	585	1		1	585	1	585	0.0	1169
+DIJ64_RS17740	No Hits Found
+DIJ64_RS03905	ML0715 COG3509 Poly(3-hydroxybutyrate) depolymerase	100%	304	0		1	304	1	304	0.0	618
+DIJ64_RS20335	No Hits Found
+DIJ64_RS20340	No Hits Found
+DIJ64_RS20345	No Hits Found
+DIJ64_RS20350	No Hits Found
+DIJ64_RS20355	No Hits Found
+DIJ64_RS20360	No Hits Found
+DIJ64_RS20365	No Hits Found
+DIJ64_RS03920	No Hits Found
+DIJ64_RS20370	PA1027 COG1012 NAD-dependent aldehyde dehydrogenases	58%	125	46	6	342	460	404	528	6e-038	145
+DIJ64_RS21160	No Hits Found
+DIJ64_RS03940	No Hits Found
+DIJ64_RS03945	Rv3290c COG0160 4-aminobutyrate aminotransferase and related	62%	136	51		2	137	3	138	2e-044	161
+DIJ64_RS03950	No Hits Found
+DIJ64_RS17765	No Hits Found
+DIJ64_RS03960	No Hits Found
+DIJ64_RS03965	No Hits Found
+DIJ64_RS03970	ML0726 COG4770 Acetyl/propionyl-CoA carboxylase, alpha subunit	99%	598	1		1	598	1	598	0.0	1210
+DIJ64_RS03975	No Hits Found
+DIJ64_RS03980	ML0728 COG2897 Rhodanese-related sulfurtransferase	99%	296	1		1	296	1	296	0.0	603
+DIJ64_RS03985	No Hits Found
+DIJ64_RS03990	No Hits Found
+DIJ64_RS03995	ML0731 COG4799 Acetyl-CoA carboxylase, carboxyltransferase	100%	549	0		1	549	1	549	0.0	1130
+DIJ64_RS04000	ML0732 COG0340 Biotin-(acetyl-CoA carboxylase) ligase	99%	265	1		1	265	10	274	0.0	510
+DIJ64_RS04005	No Hits Found
+DIJ64_RS04010	No Hits Found
+DIJ64_RS04015	ML0735 COG0026 Phosphoribosylaminoimidazole carboxylase (NCAIR	100%	439	0		1	439	1	439	0.0	877
+DIJ64_RS04020	ML0736 COG0041 Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	100%	171	0		1	171	1	171	e-119	333
+DIJ64_RS04025	ML0737 COG1960 Acyl-CoA dehydrogenases	100%	389	0		1	389	1	389	0.0	796
+DIJ64_RS04035	Rv0935 COG0573 ABC-type phosphate transport system, permease	42%	230	96	37	8	217	2	214	3e-035	131
+DIJ64_RS15240	No Hits Found
+DIJ64_RS04045	Rv0933 COG1117 ABC-type phosphate transport system, ATPase	79%	34	7		1	34	40	73	4e-010	58.2
+DIJ64_RS04050	Rv0932c COG0226 ABC-type phosphate transport system, periplasmic	60%	76	27	3	225	300	223	295	1e-020	92.4
+DIJ64_RS16250	No Hits Found
+DIJ64_RS20375	Rv3272 COG1804 Predicted acyl-CoA transferases/carnitine	49%	385	177	16	9	386	2	377	e-104	315
+DIJ64_RS04070	No Hits Found
+DIJ64_RS21165	No Hits Found
+DIJ64_RS04085	ML0747 COG2217 Cation transport ATPase	99%	721	1		1	721	5	725	0.0	1437
+DIJ64_RS04090	No Hits Found
+DIJ64_RS04095	No Hits Found
+DIJ64_RS21170	No Hits Found
+DIJ64_RS04100	No Hits Found
+DIJ64_RS04105	No Hits Found
+DIJ64_RS04110	No Hits Found
+DIJ64_RS04115	SP1122 COG0448 ADP-glucose pyrophosphorylase	26%	357	228	34	8	335	7	358	6e-023	98.6
+DIJ64_RS04125	No Hits Found
+DIJ64_RS04130	No Hits Found
+DIJ64_RS04135	No Hits Found
+DIJ64_RS04140	ML0758_2 COG0778 Nitroreductase	100%	189	0		269	457	1	189	e-131	376
+DIJ64_RS04145	No Hits Found
+DIJ64_RS04155	No Hits Found
+DIJ64_RS04160	No Hits Found
+DIJ64_RS04165	No Hits Found
+DIJ64_RS04170	ML0763 COG1109 Phosphomannomutase	100%	468	0		1	468	1	468	0.0	942
+DIJ64_RS04175	No Hits Found
+DIJ64_RS04180	ML0765 COG1482 Phosphomannose isomerase	99%	410	1		1	410	1	410	0.0	820
+DIJ64_RS21175	No Hits Found
+DIJ64_RS21180	No Hits Found
+DIJ64_RS17790	Rv3253c COG0531 Amino acid transporters	73%	80	21		9	88	49	128	1e-025	98.2
+DIJ64_RS17795	Rv3253c COG0531 Amino acid transporters	69%	114	35		1	114	123	236	3e-042	144
+DIJ64_RS17800	Rv3253c COG0531 Amino acid transporters	63%	183	67		1	183	247	429	2e-059	192
+DIJ64_RS17805	Rv3253c COG0531 Amino acid transporters	60%	41	16		1	41	450	490	5e-012	59.3
+DIJ64_RS04200	PA5351 COG1773 Rubredoxin	53%	32	15		1	32	9	40	5e-009	46.6
+DIJ64_RS17810	No Hits Found
+DIJ64_RS04210	ML0771 COG0499 S-adenosylhomocysteine hydrolase	100%	492	0		1	492	1	492	0.0	1014
+DIJ64_RS04215	ML0772 COG0125 Thymidylate kinase	99%	210	1		1	210	1	210	e-150	415
+DIJ64_RS04220	No Hits Found
+DIJ64_RS04225	No Hits Found
+DIJ64_RS04230	No Hits Found
+DIJ64_RS04235	No Hits Found
+DIJ64_RS04245	No Hits Found
+DIJ64_RS04250	No Hits Found
+DIJ64_RS17815	No Hits Found
+DIJ64_RS04255	ML0781 COG0490 Putative regulatory, ligand-binding protein related	100%	160	0		1	160	1	160	e-111	311
+DIJ64_RS04260	ML0782 COG0475 Kef-type K+ transport systems, membrane components	100%	385	0		1	385	1	385	0.0	733
+DIJ64_RS17820	No Hits Found
+DIJ64_RS21185	No Hits Found
+DIJ64_RS16270	Rv3230c COG1018 Flavodoxin reductases (ferredoxin-NADPH reductases)	43%	139	47	31	47	167	59	184	2e-015	76.6
+DIJ64_RS04290	No Hits Found
+DIJ64_RS17825	No Hits Found
+DIJ64_RS17830	No Hits Found
+DIJ64_RS04300	No Hits Found
+DIJ64_RS04305	ML0792 COG0128 5-enolpyruvylshikimate-3-phosphate synthase	100%	428	0		1	428	3	430	0.0	852
+DIJ64_RS04310	No Hits Found
+DIJ64_RS17835	Rv0663 COG3119 Arylsulfatase A and related enzymes	33%	68	43	2	2	67	720	787	2e-008	48.5
+DIJ64_RS17840	No Hits Found
+DIJ64_RS17850	Rv0663 COG3119 Arylsulfatase A and related enzymes	47%	99	46	6	1	93	48	146	2e-019	81.6
+DIJ64_RS16275	No Hits Found
+DIJ64_RS04325	No Hits Found
+DIJ64_RS15255	No Hits Found
+DIJ64_RS04330	No Hits Found
+DIJ64_RS19690	No Hits Found
+DIJ64_RS21190	No Hits Found
+DIJ64_RS21195	No Hits Found
+DIJ64_RS04345	No Hits Found
+DIJ64_RS04350	No Hits Found
+DIJ64_RS04355	No Hits Found
+DIJ64_RS17860	No Hits Found
+DIJ64_RS20385	No Hits Found
+DIJ64_RS04370	ML0802 COG0511 Biotin carboxyl carrier protein	100%	71	0		1	71	9	79	2e-040	127
+DIJ64_RS04375	No Hits Found
+DIJ64_RS04380	No Hits Found
+DIJ64_RS04390	No Hits Found
+DIJ64_RS04395	No Hits Found
+DIJ64_RS15270	No Hits Found
+DIJ64_RS15275	ML0808_1 COG0406 Fructose-2,6-bisphosphatase	100%	85	0		1	85	1	85	6e-057	174
+DIJ64_RS04405	No Hits Found
+DIJ64_RS04410	No Hits Found
+DIJ64_RS04415	No Hits Found
+DIJ64_RS04420	No Hits Found
+DIJ64_RS20390	No Hits Found
+DIJ64_RS04430	No Hits Found
+DIJ64_RS04435	No Hits Found
+DIJ64_RS04440	No Hits Found
+DIJ64_RS04445	ML0817_1 COG0476 Dinucleotide-utilizing enzymes involved in	100%	259	0		1	259	1	259	0.0	524
+DIJ64_RS04450	No Hits Found
+DIJ64_RS04455	No Hits Found
+DIJ64_RS17875	No Hits Found
+DIJ64_RS21200	No Hits Found
+DIJ64_RS21205	No Hits Found
+DIJ64_RS21210	No Hits Found
+DIJ64_RS21215	No Hits Found
+DIJ64_RS21220	No Hits Found
+DIJ64_RS21225	No Hits Found
+DIJ64_RS19695	No Hits Found
+DIJ64_RS19700	No Hits Found
+DIJ64_RS19705	No Hits Found
+DIJ64_RS19710	No Hits Found
+DIJ64_RS19715	No Hits Found
+DIJ64_RS21230	No Hits Found
+DIJ64_RS04480	ML0824 COG0735 Fe2+/Zn2+ uptake regulation proteins	99%	130	1		1	130	2	131	9e-093	263
+DIJ64_RS04485	No Hits Found
+DIJ64_RS04490	No Hits Found
+DIJ64_RS04495	No Hits Found
+DIJ64_RS19725	No Hits Found
+DIJ64_RS16280	No Hits Found
+DIJ64_RS21235	No Hits Found
+DIJ64_RS20395	No Hits Found
+DIJ64_RS04510	ML0831 COG0232 dGTP triphosphohydrolase	99%	429	1		1	429	1	429	0.0	872
+DIJ64_RS04520	No Hits Found
+DIJ64_RS04525	No Hits Found
+DIJ64_RS21240	MT2394 COG0281 Malic enzyme	41%	86	45	5	1	84	396	478	4e-010	55.5
+DIJ64_RS17915	No Hits Found
+DIJ64_RS17920	MT2394 COG0281 Malic enzyme	64%	45	16		11	55	131	175	2e-012	59.7
+DIJ64_RS17925	MT2394 COG0281 Malic enzyme	60%	97	37	1	1	96	1	97	4e-033	119
+DIJ64_RS16285	No Hits Found
+DIJ64_RS16290	No Hits Found
+DIJ64_RS04545	ML0837 COG0235 Ribulose-5-phosphate 4-epimerase and related	100%	127	0		1	127	1	127	1e-088	253
+DIJ64_RS15280	No Hits Found
+DIJ64_RS16295	No Hits Found
+DIJ64_RS04555	ML0838 COG1045 Serine acetyltransferase	100%	227	0		1	227	1	227	e-163	451
+DIJ64_RS04560	ML0839 COG0031 Cysteine synthase	100%	310	0		1	310	1	310	0.0	622
+DIJ64_RS04565	No Hits Found
+DIJ64_RS04570	No Hits Found
+DIJ64_RS16300	ML0842 COG0520 Selenocysteine lyase	100%	411	0		224	634	1	411	0.0	837
+DIJ64_RS04580	No Hits Found
+DIJ64_RS04585	ML0844 COG2223 Nitrate/nitrite transporter	100%	517	0		1	517	1	517	0.0	1037
+DIJ64_RS04590	No Hits Found
+DIJ64_RS21245	No Hits Found
+DIJ64_RS17930	No Hits Found
+DIJ64_RS21250	ML0848 COG1122 ABC-type cobalt transport system, ATPase component	34%	187	117	5	1	405	306	476	2e-010	62.8
+DIJ64_RS04605	ML0849 COG0619 ABC-type cobalt transport system, permease component	100%	278	0		1	278	6	283	0.0	543
+DIJ64_RS04610	No Hits Found
+DIJ64_RS04615	No Hits Found
+DIJ64_RS04620	ML0852 COG0196 FAD synthase	100%	323	0		1	323	9	331	0.0	659
+DIJ64_RS04625	No Hits Found
+DIJ64_RS04630	No Hits Found
+DIJ64_RS04635	No Hits Found
+DIJ64_RS04640	No Hits Found
+DIJ64_RS19730	No Hits Found
+DIJ64_RS04645	No Hits Found
+DIJ64_RS04650	ML0858 COG0320 Lipoate synthase	99%	314	1		1	314	1	314	0.0	640
+DIJ64_RS04655	ML0859 COG0321 Lipoate-protein ligase B	100%	235	0		2	236	1	235	e-172	473
+DIJ64_RS04660	No Hits Found
+DIJ64_RS04665	ML0861 COG0508 Pyruvate/2-oxoglutarate dehydrogenase complex,	100%	530	0		1	530	1	530	0.0	1055
+DIJ64_RS04670	No Hits Found
+DIJ64_RS04680	ML0864 COG0260 Leucyl aminopeptidase	100%	522	0		1	522	3	524	0.0	1051
+DIJ64_RS04685	ML0865 COG0404 Glycine cleavage system T protein	99%	367	1		1	367	1	367	0.0	736
+DIJ64_RS04690	No Hits Found
+DIJ64_RS04695	Rv2208 COG0368 Cobalamin-5-phosphate synthase	68%	107	34		1	107	1	107	7e-031	114
+DIJ64_RS04700	ML0868 COG2038 NaMN:DMB phosphoribosyltransferase	100%	351	0		2	352	1	351	0.0	684
+DIJ64_RS04705	No Hits Found
+DIJ64_RS04710	No Hits Found
+DIJ64_RS04715	No Hits Found
+DIJ64_RS04720	No Hits Found
+DIJ64_RS04725	ML0873 COG0524 Sugar kinases, ribokinase family	99%	324	1		1	324	1	324	0.0	652
+DIJ64_RS04730	ML0874 COG0367 Asparagine synthase (glutamine-hydrolyzing)	100%	660	0		1	660	18	677	0.0	1352
+DIJ64_RS04735	ML0875 COG1622 Heme/copper-type cytochrome/quinol oxidases, subunit	99%	353	1		1	353	1	353	0.0	729
+DIJ64_RS04740	No Hits Found
+DIJ64_RS04745	No Hits Found
+DIJ64_RS04750	No Hits Found
+DIJ64_RS04755	ML0879 COG1290 Cytochrome b subunit of the bc complex	100%	551	0		1	551	1	551	0.0	1116
+DIJ64_RS04760	ML0880_2 COG0723 Rieske Fe-S protein	100%	192	0		203	394	1	192	e-145	409
+DIJ64_RS04765	ML0881 COG2010 Cytochrome c, mono- and diheme variants	100%	289	0		1	289	1	289	0.0	589
+DIJ64_RS04770	ML0882 COG1845 Heme/copper-type cytochrome/quinol oxidase, subunit	99%	202	1		1	202	1	202	e-145	403
+DIJ64_RS04775	ML0883 COG0547 Anthranilate phosphoribosyltransferase	99%	366	1		1	366	1	366	0.0	729
+DIJ64_RS04790	No Hits Found
+DIJ64_RS04795	SSO0987 COG0297 Glycogen synthase	31%	157	89	18	194	340	343	491	4e-012	67.8
+DIJ64_RS04800	ML0887 COG1022 Long-chain acyl-CoA synthetases (AMP-forming)	99%	600	1		1	600	1	600	0.0	1224
+DIJ64_RS04805	No Hits Found
+DIJ64_RS04810	No Hits Found
+DIJ64_RS04815	ML0890 COG0003 Oxyanion-translocating ATPase	99%	415	1		1	415	1	415	0.0	811
+DIJ64_RS04820	No Hits Found
+DIJ64_RS04825	ML0892 COG0204 1-acyl-sn-glycerol-3-phosphate acyltransferase	100%	244	0		1	244	1	244	0.0	496
+DIJ64_RS04830	No Hits Found
+DIJ64_RS04835	No Hits Found
+DIJ64_RS04840	No Hits Found
+DIJ64_RS04845	ML0896 COG3200 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP)	100%	462	0		1	462	1	462	0.0	949
+DIJ64_RS04850	No Hits Found
+DIJ64_RS04855	No Hits Found
+DIJ64_RS04860	No Hits Found
+DIJ64_RS04865	Rv2173 COG0142 Geranylgeranyl pyrophosphate synthase	43%	358	174	29	1	346	9	349	9e-065	209
+DIJ64_RS04870	No Hits Found
+DIJ64_RS04875	No Hits Found
+DIJ64_RS04880	No Hits Found
+DIJ64_RS04885	No Hits Found
+DIJ64_RS04890	No Hits Found
+DIJ64_RS04895	No Hits Found
+DIJ64_RS04900	No Hits Found
+DIJ64_RS04905	No Hits Found
+DIJ64_RS04910	VNG0412G_1 COG0285 Folylpolyglutamate synthase	28%	395	217	66	135	489	43	411	2e-007	53.9
+DIJ64_RS04915	No Hits Found
+DIJ64_RS04920	No Hits Found
+DIJ64_RS04925	No Hits Found
+DIJ64_RS04930	No Hits Found
+DIJ64_RS04935	No Hits Found
+DIJ64_RS04940	No Hits Found
+DIJ64_RS04945	No Hits Found
+DIJ64_RS04955	No Hits Found
+DIJ64_RS04960	No Hits Found
+DIJ64_RS04965	No Hits Found
+DIJ64_RS04970	No Hits Found
+DIJ64_RS04975	No Hits Found
+DIJ64_RS04980	No Hits Found
+DIJ64_RS04985	No Hits Found
+DIJ64_RS04990	ML0925 COG0174 Glutamine synthetase	99%	478	1		1	478	1	478	0.0	993
+DIJ64_RS21255	No Hits Found
+DIJ64_RS20400	No Hits Found
+DIJ64_RS05015	MT1860 COG1252 NADH dehydrogenase, FAD-containing subunit	45%	138	69	6	3	139	64	196	1e-020	86.7
+DIJ64_RS05020	MT1862 COG3000 Sterol desaturase	40%	207	100	24	4	198	4	198	4e-021	92.0
+DIJ64_RS05030	No Hits Found
+DIJ64_RS17945	No Hits Found
+DIJ64_RS05040	MT1865 COG1053 Succinate dehydrogenase/fumarate reductase,	36%	395	187	62	1	361	1	367	9e-036	138
+DIJ64_RS05045	No Hits Found
+DIJ64_RS17950	No Hits Found
+DIJ64_RS17955	No Hits Found
+DIJ64_RS05065	MT1153 COG0364 Glucose-6-phosphate 1-dehydrogenase	33%	408	215	58	1	380	1	378	3e-030	122
+DIJ64_RS05070	Rv1122 COG1023 Predicted 6-phosphogluconate dehydrogenase	43%	255	130	15	1	248	5	251	5e-046	159
+DIJ64_RS20405	No Hits Found
+DIJ64_RS20410	No Hits Found
+DIJ64_RS05080	No Hits Found
+DIJ64_RS19735	No Hits Found
+DIJ64_RS05085	No Hits Found
+DIJ64_RS05090	No Hits Found
+DIJ64_RS05095	No Hits Found
+DIJ64_RS15285	No Hits Found
+DIJ64_RS05100	No Hits Found
+DIJ64_RS17960	No Hits Found
+DIJ64_RS05110	No Hits Found
+DIJ64_RS05115	No Hits Found
+DIJ64_RS05125	No Hits Found
+DIJ64_RS05130	No Hits Found
+DIJ64_RS05135	ML0955 COG0574 Phosphoenolpyruvate synthase/pyruvate phosphate	100%	560	0		1	560	42	601	0.0	1139
+DIJ64_RS05140	No Hits Found
+DIJ64_RS05150	No Hits Found
+DIJ64_RS05165	No Hits Found
+DIJ64_RS05170	ML0961 COG0620 Methionine synthase II (cobalamin-independent)	100%	760	0		1	760	1	760	0.0	1546
+DIJ64_RS05190	Rv1138c COG0644 Dehydrogenases (flavoproteins)	37%	227	125	16	110	328	120	338	1e-025	105
+DIJ64_RS21260	No Hits Found
+DIJ64_RS21265	No Hits Found
+DIJ64_RS05205	No Hits Found
+DIJ64_RS05210	Rv1143 COG1804 Predicted acyl-CoA transferases/carnitine	85%	245	34	1	1	245	1	244	e-147	421
+DIJ64_RS05215	No Hits Found
+DIJ64_RS19745	No Hits Found
+DIJ64_RS15290	No Hits Found
+DIJ64_RS19750	No Hits Found
+DIJ64_RS17970	No Hits Found
+DIJ64_RS17975	No Hits Found
+DIJ64_RS16315	No Hits Found
+DIJ64_RS05250	No Hits Found
+DIJ64_RS05255	ML0978 COG1246 N-acetylglutamate synthase and related	100%	180	0		1	180	1	180	e-133	369
+DIJ64_RS05260	ML0979 COG0558 Phosphatidylglycerophosphate synthase	100%	193	0		1	193	1	193	e-134	374
+DIJ64_RS05270	No Hits Found
+DIJ64_RS05275	No Hits Found
+DIJ64_RS05285	ML0984 COG4308 Limonene-1,2-epoxide hydrolase	99%	164	1		1	164	1	164	e-120	336
+DIJ64_RS05290	No Hits Found
+DIJ64_RS05295	No Hits Found
+DIJ64_RS05300	No Hits Found
+DIJ64_RS05305	No Hits Found
+DIJ64_RS05310	MK0797 COG1032 Fe-S oxidoreductase	26%	366	224	45	30	369	18	364	9e-017	82.8
+DIJ64_RS05315	No Hits Found
+DIJ64_RS05320	No Hits Found
+DIJ64_RS17995	No Hits Found
+DIJ64_RS18000	No Hits Found
+DIJ64_RS05330	No Hits Found
+DIJ64_RS05335	No Hits Found
+DIJ64_RS05340	No Hits Found
+DIJ64_RS05345	ML0996 COG0253 Diaminopimelate epimerase	100%	296	0		1	296	1	296	0.0	593
+DIJ64_RS05350	No Hits Found
+DIJ64_RS05355	No Hits Found
+DIJ64_RS16320	No Hits Found
+DIJ64_RS19755	No Hits Found
+DIJ64_RS05365	No Hits Found
+DIJ64_RS15300	No Hits Found
+DIJ64_RS05375	No Hits Found
+DIJ64_RS05380	No Hits Found
+DIJ64_RS05385	No Hits Found
+DIJ64_RS05390	No Hits Found
+DIJ64_RS05395	No Hits Found
+DIJ64_RS21270	No Hits Found
+DIJ64_RS05405	No Hits Found
+DIJ64_RS05410	No Hits Found
+DIJ64_RS20415	No Hits Found
+DIJ64_RS05420	Rv2713 COG1249 Pyruvate/2-oxoglutarate dehydrogenase complex,	34%	153	94	6	257	407	250	398	1e-009	60.5
+DIJ64_RS05430	No Hits Found
+DIJ64_RS05435	No Hits Found
+DIJ64_RS05440	No Hits Found
+DIJ64_RS05445	No Hits Found
+DIJ64_RS05450	No Hits Found
+DIJ64_RS21275	No Hits Found
+DIJ64_RS05460	No Hits Found
+DIJ64_RS18025	No Hits Found
+DIJ64_RS05465	No Hits Found
+DIJ64_RS05470	No Hits Found
+DIJ64_RS18030	No Hits Found
+DIJ64_RS05475	ML1024 COG0483 Archaeal fructose-1,6-bisphosphatase and related	99%	291	1		1	291	1	291	0.0	567
+DIJ64_RS05480	No Hits Found
+DIJ64_RS05485	No Hits Found
+DIJ64_RS05490	No Hits Found
+DIJ64_RS05495	ML1028 COG0756 dUTPase	99%	154	1		1	154	1	154	e-104	294
+DIJ64_RS05500	No Hits Found
+DIJ64_RS05505	No Hits Found
+DIJ64_RS05520	No Hits Found
+DIJ64_RS21280	No Hits Found
+DIJ64_RS05530	No Hits Found
+DIJ64_RS05535	ML1036 COG1055 Na+/H+ antiporter NhaD and related arsenite	100%	429	0		1	429	1	429	0.0	840
+DIJ64_RS05540	No Hits Found
+DIJ64_RS05545	PAB0296 COG3958 Transketolase, C-terminal subunit	32%	283	179	13	320	598	9	282	6e-033	129
+DIJ64_RS05550	No Hits Found
+DIJ64_RS05555	No Hits Found
+DIJ64_RS18040	No Hits Found
+DIJ64_RS05565	ML1043 COG0407 Uroporphyrinogen-III decarboxylase	100%	357	0		1	357	1	357	0.0	719
+DIJ64_RS05570	ML1044 COG1232 Protoporphyrinogen oxidase	100%	451	0		1	451	1	451	0.0	875
+DIJ64_RS05575	No Hits Found
+DIJ64_RS05580	No Hits Found
+DIJ64_RS18045	No Hits Found
+DIJ64_RS05590	No Hits Found
+DIJ64_RS16330	No Hits Found
+DIJ64_RS05605	RSp0037 COG0365 Acyl-coenzyme A synthetases/AMP-(fatty) acid	33%	378	230	23	105	472	169	533	1e-042	158
+DIJ64_RS05610	No Hits Found
+DIJ64_RS05615	No Hits Found
+DIJ64_RS05620	ML1058 COG2171 Tetrahydrodipicolinate N-succinyltransferase	99%	317	1		1	317	1	317	0.0	628
+DIJ64_RS05625	ML1059 COG0624 Acetylornithine deacetylase/Succinyl-diaminopimelate	99%	354	1		1	354	1	354	0.0	705
+DIJ64_RS05630	No Hits Found
+DIJ64_RS16335	No Hits Found
+DIJ64_RS05640	No Hits Found
+DIJ64_RS18050	No Hits Found
+DIJ64_RS05650	ML1063 COG0294 Dihydropteroate synthase and related enzymes	100%	288	0		1	288	4	291	0.0	572
+DIJ64_RS05655	No Hits Found
+DIJ64_RS05660	No Hits Found
+DIJ64_RS05665	No Hits Found
+DIJ64_RS05670	No Hits Found
+DIJ64_RS05675	No Hits Found
+DIJ64_RS05680	ML1069 COG0448 ADP-glucose pyrophosphorylase	100%	404	0		1	404	1	404	0.0	818
+DIJ64_RS05685	No Hits Found
+DIJ64_RS18055	No Hits Found
+DIJ64_RS18060	No Hits Found
+DIJ64_RS18065	No Hits Found
+DIJ64_RS18070	No Hits Found
+DIJ64_RS21285	No Hits Found
+DIJ64_RS05710	No Hits Found
+DIJ64_RS05715	No Hits Found
+DIJ64_RS05720	No Hits Found
+DIJ64_RS05725	No Hits Found
+DIJ64_RS05730	No Hits Found
+DIJ64_RS05735	No Hits Found
+DIJ64_RS18080	No Hits Found
+DIJ64_RS21290	MT1270 COG2239 Mg/Co/Ni transporter MgtE (contains CBS domain)	71%	69	20		1	69	1	69	4e-024	92.8
+DIJ64_RS05755	No Hits Found
+DIJ64_RS18085	No Hits Found
+DIJ64_RS05765	ML1086 COG1653 ABC-type sugar transport system, periplasmic	99%	468	1		2	469	1	468	0.0	947
+DIJ64_RS05770	ML1087 COG1175 ABC-type sugar transport systems, permease	100%	304	0		1	304	1	304	0.0	600
+DIJ64_RS05775	ML1088 COG0395 ABC-type sugar transport system, permease component	100%	274	0		1	274	14	287	0.0	529
+DIJ64_RS05780	ML1089 COG3839 ABC-type sugar transport systems, ATPase components	100%	392	0		1	392	1	392	0.0	801
+DIJ64_RS18090	No Hits Found
+DIJ64_RS05790	ML1090 COG0598 Mg2+ and Co2+ transporters	100%	369	0		1	369	1	369	0.0	764
+DIJ64_RS05795	ML1091 COG0039 Malate/lactate dehydrogenases	99%	329	1		1	329	1	329	0.0	654
+DIJ64_RS18095	No Hits Found
+DIJ64_RS19760	No Hits Found
+DIJ64_RS15310	No Hits Found
+DIJ64_RS05820	No Hits Found
+DIJ64_RS05825	No Hits Found
+DIJ64_RS05830	ML1095_3 COG0567 2-oxoglutarate dehydrogenase complex, dehydrogenase	100%	892	0		347	1238	1	892	0.0	1855
+DIJ64_RS05835	No Hits Found
+DIJ64_RS05840	No Hits Found
+DIJ64_RS05845	No Hits Found
+DIJ64_RS05850	No Hits Found
+DIJ64_RS15315	No Hits Found
+DIJ64_RS16345	No Hits Found
+DIJ64_RS05860	No Hits Found
+DIJ64_RS05865	No Hits Found
+DIJ64_RS05870	No Hits Found
+DIJ64_RS05875	ML1101 COG1835 Predicted acyltransferases	100%	379	0		1	379	1	379	0.0	754
+DIJ64_RS21295	No Hits Found
+DIJ64_RS21300	No Hits Found
+DIJ64_RS21305	No Hits Found
+DIJ64_RS05890	Rv1256c COG2124 Cytochrome P450	70%	55	16		1	55	5	59	1e-019	89.7
+DIJ64_RS05895	ML1103 COG0277 FAD/FMN-containing dehydrogenases	100%	439	0		1	439	15	453	0.0	885
+DIJ64_RS18105	No Hits Found
+DIJ64_RS05905	No Hits Found
+DIJ64_RS05910	ML1106 COG2141 Coenzyme F420-dependent N5,N10-methylene	99%	113	1		1	113	1	113	8e-077	222
+DIJ64_RS05915	No Hits Found
+DIJ64_RS05920	Rv0075 COG1168 Bifunctional PLP-dependent enzyme with	62%	54	20		17	70	228	281	1e-016	72.0
+DIJ64_RS21310	No Hits Found
+DIJ64_RS21315	No Hits Found
+DIJ64_RS05930	No Hits Found
+DIJ64_RS18115	Rv0074 COG1228 Imidazolonepropionase and related amidohydrolases	49%	73	26	11	1	68	126	192	1e-012	60.8
+DIJ64_RS20435	No Hits Found
+DIJ64_RS05945	No Hits Found
+DIJ64_RS18120	No Hits Found
+DIJ64_RS05955	Cgl0618 COG1135 ABC-type metal ion transport system, ATPase	33%	253	134	34	380	610	8	248	8e-028	115
+DIJ64_RS05960	aq_1055 COG1117 ABC-type phosphate transport system, ATPase	30%	218	131	20	335	539	7	217	1e-023	100
+DIJ64_RS05965	No Hits Found
+DIJ64_RS05970	No Hits Found
+DIJ64_RS05975	No Hits Found
+DIJ64_RS05980	No Hits Found
+DIJ64_RS05990	No Hits Found
+DIJ64_RS05995	No Hits Found
+DIJ64_RS21320	No Hits Found
+DIJ64_RS21325	No Hits Found
+DIJ64_RS06005	ML1121 COG0747 ABC-type dipeptide transport system, periplasmic	100%	555	0		1	555	3	557	0.0	1136
+DIJ64_RS06010	BH3645 COG4608 ABC-type oligopeptide transport system, ATPase	38%	324	182	16	349	317	5	318	1e-064	215
+DIJ64_RS06015	No Hits Found
+DIJ64_RS06020	No Hits Found
+DIJ64_RS18125	Rv1284 COG0288 Carbonic anhydrase	33%	159	84	21	1	142	8	162	4e-018	75.9
+DIJ64_RS21330	No Hits Found
+DIJ64_RS16355	No Hits Found
+DIJ64_RS06035	No Hits Found
+DIJ64_RS06045	No Hits Found
+DIJ64_RS20440	No Hits Found
+DIJ64_RS06065	No Hits Found
+DIJ64_RS06070	ML1128 COG0019 Diaminopimelate decarboxylase	100%	450	0		1	450	23	472	0.0	906
+DIJ64_RS06075	ML1129 COG0460 Homoserine dehydrogenase	99%	441	1		1	441	1	441	0.0	862
+DIJ64_RS06080	ML1130 COG0498 Threonine synthase	99%	360	1		1	360	1	360	0.0	728
+DIJ64_RS06085	ML1131 COG0083 Homoserine kinase	100%	311	0		1	311	5	315	0.0	615
+DIJ64_RS06095	mll4060 COG0055 F0F1-type ATP synthase, beta subunit	23%	261	172	27	343	583	137	390	2e-009	60.1
+DIJ64_RS06100	No Hits Found
+DIJ64_RS06105	No Hits Found
+DIJ64_RS06110	No Hits Found
+DIJ64_RS06115	No Hits Found
+DIJ64_RS06120	No Hits Found
+DIJ64_RS06125	No Hits Found
+DIJ64_RS06130	ML1139 COG0356 F0F1-type ATP synthase, subunit a	100%	251	0		1	251	1	251	0.0	506
+DIJ64_RS06135	ML1140 COG0636 F0F1-type ATP synthase, subunit	100%	81	0		1	81	1	81	2e-051	155
+DIJ64_RS06140	ML1141 COG0711 F0F1-type ATP synthase, subunit b	100%	170	0		1	170	1	170	e-119	334
+DIJ64_RS06145	ML1142_1 COG0711 F0F1-type ATP synthase, subunit b	100%	250	0		1	250	1	250	e-178	498
+DIJ64_RS06150	ML1143 COG0056 F0F1-type ATP synthase, alpha subunit	100%	558	0		1	558	1	558	0.0	1137
+DIJ64_RS06155	ML1144 COG0224 F0F1-type ATP synthase, gamma subunit	100%	298	0		1	298	1	298	0.0	603
+DIJ64_RS06160	ML1145 COG0055 F0F1-type ATP synthase, beta subunit	100%	485	0		1	485	1	485	0.0	989
+DIJ64_RS06165	ML1146 COG0355 F0F1-type ATP synthase, epsilon subunit	100%	121	0		1	121	1	121	4e-083	238
+DIJ64_RS06170	No Hits Found
+DIJ64_RS16360	No Hits Found
+DIJ64_RS06180	No Hits Found
+DIJ64_RS06185	lin2037 COG0128 5-enolpyruvylshikimate-3-phosphate synthase	24%	431	293	34	6	409	3	426	2e-012	68.6
+DIJ64_RS06205	No Hits Found
+DIJ64_RS19780	No Hits Found
+DIJ64_RS19785	No Hits Found
+DIJ64_RS21335	No Hits Found
+DIJ64_RS21340	Rv0063 COG0277 FAD/FMN-containing dehydrogenases	69%	76	22	1	39	114	184	258	9e-024	96.3
+DIJ64_RS18140	No Hits Found
+DIJ64_RS18145	No Hits Found
+DIJ64_RS06230	No Hits Found
+DIJ64_RS18150	No Hits Found
+DIJ64_RS06240	ML1157 COG0346 Lactoylglutathione lyase and related lyases	99%	155	1		1	155	1	155	e-113	317
+DIJ64_RS06245	ML1158 COG0183 Acetyl-CoA acetyltransferase	100%	393	0		1	393	1	393	0.0	791
+DIJ64_RS06250	No Hits Found
+DIJ64_RS06255	MT1368 COG0296 1,4-alpha-glucan branching enzyme	61%	238	90	2	1	726	1	725	8e-089	294
+DIJ64_RS21345	Rv1327c COG0366 Glycosidases	63%	36	13		4	39	676	711	4e-012	58.5
+DIJ64_RS21350	Rv1327c COG0366 Glycosidases	77%	89	17	3	1	86	478	566	4e-041	142
+DIJ64_RS21355	Rv1327c COG0366 Glycosidases	80%	46	9		1	46	305	350	2e-020	82.0
+DIJ64_RS21360	Rv1327c COG0366 Glycosidases	82%	74	13		1	74	226	299	8e-036	127
+DIJ64_RS21365	No Hits Found
+DIJ64_RS21370	Rv1327c COG0366 Glycosidases	88%	26	3		1	26	67	92	6e-009	50.4
+DIJ64_RS06265	Rv1328 COG0058 Glucan phosphorylase	45%	137	49	25	215	131	216	133	4e-018	89.7
+DIJ64_RS06270	No Hits Found
+DIJ64_RS06275	No Hits Found
+DIJ64_RS18155	MT1372 COG1488 Nicotinic acid phosphoribosyltransferase	58%	50	21		102	151	115	164	4e-010	57.4
+DIJ64_RS06285	No Hits Found
+DIJ64_RS06290	No Hits Found
+DIJ64_RS06295	No Hits Found
+DIJ64_RS21375	No Hits Found
+DIJ64_RS16370	Rv1335 COG1977 Molybdopterin converting factor, small subunit	55%	49	21	1	1	49	1	48	1e-009	50.4
+DIJ64_RS06310	Rv1336 COG0031 Cysteine synthase	79%	43	9		218	260	211	253	2e-014	72.8
+DIJ64_RS06315	No Hits Found
+DIJ64_RS06320	No Hits Found
+DIJ64_RS06325	No Hits Found
+DIJ64_RS06330	No Hits Found
+DIJ64_RS06335	ML1175 COG0127 Xanthosine triphosphate pyrophosphatase	100%	208	0		1	208	13	220	e-148	410
+DIJ64_RS06340	No Hits Found
+DIJ64_RS06345	No Hits Found
+DIJ64_RS16375	No Hits Found
+DIJ64_RS15340	No Hits Found
+DIJ64_RS18160	No Hits Found
+DIJ64_RS06370	No Hits Found
+DIJ64_RS18165	MT0225 COG1960 Acyl-CoA dehydrogenases	33%	156	96	8	223	377	223	371	1e-015	78.2
+DIJ64_RS06385	No Hits Found
+DIJ64_RS18170	No Hits Found
+DIJ64_RS06395	No Hits Found
+DIJ64_RS16380	No Hits Found
+DIJ64_RS21380	Rv3086 COG1062 Zn-dependent alcohol dehydrogenases, class III	34%	138	90		5	142	192	329	5e-016	73.6
+DIJ64_RS21385	No Hits Found
+DIJ64_RS18175	No Hits Found
+DIJ64_RS06410	No Hits Found
+DIJ64_RS19825	No Hits Found
+DIJ64_RS20455	No Hits Found
+DIJ64_RS16385	No Hits Found
+DIJ64_RS20460	No Hits Found
+DIJ64_RS06445	No Hits Found
+DIJ64_RS19830	No Hits Found
+DIJ64_RS20465	No Hits Found
+DIJ64_RS06460	No Hits Found
+DIJ64_RS06465	ML1191_5 COG4982 3-oxoacyl-[acyl-carrier protein] reductase	100%	829	0		1764	2592	1	829	0.0	1645
+DIJ64_RS06470	ML1192 COG0736 Phosphopantetheinyl transferase (holo-ACP synthase)	99%	130	1		1	130	1	130	8e-092	261
+DIJ64_RS06475	ML1193 COG0624 Acetylornithine deacetylase/Succinyl-diaminopimelate	100%	442	0		1	442	1	442	0.0	876
+DIJ64_RS06485	No Hits Found
+DIJ64_RS06490	No Hits Found
+DIJ64_RS20470	No Hits Found
+DIJ64_RS21390	No Hits Found
+DIJ64_RS06505	No Hits Found
+DIJ64_RS06510	No Hits Found
+DIJ64_RS06515	No Hits Found
+DIJ64_RS21395	No Hits Found
+DIJ64_RS16400	No Hits Found
+DIJ64_RS21400	No Hits Found
+DIJ64_RS06530	No Hits Found
+DIJ64_RS06540	No Hits Found
+DIJ64_RS16405	No Hits Found
+DIJ64_RS06545	No Hits Found
+DIJ64_RS06550	ML1209 COG1171 Threonine dehydratase	100%	427	0		1	427	1	427	0.0	857
+DIJ64_RS18200	No Hits Found
+DIJ64_RS06560	No Hits Found
+DIJ64_RS16410	Rv1563c COG3280 Maltooligosyl trehalose synthase	68%	41	13		1	41	236	276	1e-011	58.5
+DIJ64_RS06575	Rv1564c COG1523 Type II secretory pathway, pullulanase PulA and	45%	75	37	4	347	648	336	642	1e-008	58.5
+DIJ64_RS06580	ML1213 COG1835 Predicted acyltransferases	100%	724	0		1	724	10	733	0.0	1473
+DIJ64_RS06585	No Hits Found
+DIJ64_RS06590	ML1216 COG0161 Adenosylmethionine-8-amino-7-oxononanoate	100%	436	0		1	436	1	436	0.0	882
+DIJ64_RS06595	ML1217 COG0156 7-keto-8-aminopelargonate synthetase and related	100%	385	0		1	385	1	385	0.0	752
+DIJ64_RS06600	ML1218 COG0132 Dethiobiotin synthetase	100%	226	0		1	226	1	226	e-158	437
+DIJ64_RS06605	No Hits Found
+DIJ64_RS06610	ML1220 COG0502 Biotin synthase and related enzymes	99%	345	1		1	345	1	345	0.0	701
+DIJ64_RS06615	No Hits Found
+DIJ64_RS06620	No Hits Found
+DIJ64_RS20480	No Hits Found
+DIJ64_RS06630	ML1224 COG1051 ADP-ribose pyrophosphatase	100%	239	0		1	239	1	239	e-177	486
+DIJ64_RS06635	ML1225 COG0379 Quinolinate synthase	100%	346	0		1	346	7	352	0.0	712
+DIJ64_RS06640	ML1226 COG0029 Aspartate oxidase	100%	526	0		1	526	2	527	0.0	1040
+DIJ64_RS06645	ML1227 COG0157 Nicotinate-nucleotide pyrophosphorylase	100%	285	0		1	285	2	286	0.0	564
+DIJ64_RS19835	No Hits Found
+DIJ64_RS06660	No Hits Found
+DIJ64_RS06670	ML1229 COG3321 Polyketide synthase modules and related proteins	100%	2118	0		1	2118	1	2118	0.0	4293
+DIJ64_RS06675	ML1230 COG1020 Non-ribosomal peptide synthetase modules and related	100%	471	0		1	471	1	471	0.0	978
+DIJ64_RS06680	No Hits Found
+DIJ64_RS06685	No Hits Found
+DIJ64_RS06690	No Hits Found
+DIJ64_RS06695	aq_999_1 COG1022 Long-chain acyl-CoA synthetases (AMP-forming)	25%	442	240	88	63	481	41	417	1e-024	108
+DIJ64_RS18210	No Hits Found
+DIJ64_RS18215	No Hits Found
+DIJ64_RS16415	No Hits Found
+DIJ64_RS06710	MT1704 COG3321 Polyketide synthase modules and related proteins	59%	83	34		13	95	652	734	3e-023	92.0
+DIJ64_RS21405	Rv1665 COG3424 Predicted naringenin-chalcone synthase	71%	38	11		8	45	96	133	1e-011	56.2
+DIJ64_RS21410	No Hits Found
+DIJ64_RS18220	No Hits Found
+DIJ64_RS20485	No Hits Found
+DIJ64_RS06725	ML1241 COG1024 Enoyl-CoA hydratase/carnithine racemase	99%	294	1		1	294	1	294	0.0	593
+DIJ64_RS16420	No Hits Found
+DIJ64_RS06735	No Hits Found
+DIJ64_RS16425	No Hits Found
+DIJ64_RS16430	No Hits Found
+DIJ64_RS16435	No Hits Found
+DIJ64_RS15370	No Hits Found
+DIJ64_RS06760	ML1243 COG0657 Esterase/lipase	100%	124	0		1	124	30	153	4e-089	254
+DIJ64_RS06765	No Hits Found
+DIJ64_RS06770	ML1245_2 COG0204 1-acyl-sn-glycerol-3-phosphate acyltransferase	100%	333	0		247	579	1	333	0.0	662
+DIJ64_RS06775	ML1246 COG2937 Glycerol-3-phosphate O-acyltransferase	99%	775	1		1	775	1	775	0.0	1578
+DIJ64_RS21415	No Hits Found
+DIJ64_RS06785	BS_ykoD COG1122 ABC-type cobalt transport system, ATPase component	28%	174	105	20	17	474	21	180	1e-007	54.7
+DIJ64_RS06790	ML1249 COG2902 NAD-specific glutamate dehydrogenase	100%	1622	0		1	1622	1	1622	0.0	3304
+DIJ64_RS21420	No Hits Found
+DIJ64_RS19840	No Hits Found
+DIJ64_RS06800	MT2547 COG0366 Glycosidases	31%	338	151	81	7	370	29	462	4e-014	74.7
+DIJ64_RS06805	No Hits Found
+DIJ64_RS06810	No Hits Found
+DIJ64_RS06815	No Hits Found
+DIJ64_RS06820	No Hits Found
+DIJ64_RS06825	No Hits Found
+DIJ64_RS16440	No Hits Found
+DIJ64_RS20490	No Hits Found
+DIJ64_RS06840	ML1257 COG0141 Histidinol dehydrogenase	99%	442	1		1	442	8	449	0.0	876
+DIJ64_RS06845	ML1258 COG0079 Histidinol-phosphate/aromatic aminotransferase and	100%	377	0		1	377	1	377	0.0	758
+DIJ64_RS06850	ML1259 COG0131 Imidazoleglycerol-phosphate dehydratase	99%	210	1		1	210	1	210	e-155	427
+DIJ64_RS06855	ML1260 COG0118 Glutamine amidotransferase	99%	206	1		1	206	1	206	e-148	411
+DIJ64_RS06860	ML1261 COG0106 Phosphoribosylformimino-5-aminoimidazole carboxamide	100%	245	0		1	245	1	245	e-178	488
+DIJ64_RS06865	No Hits Found
+DIJ64_RS06870	ML1263 COG0107 Imidazoleglycerol-phosphate synthase	100%	261	0		1	261	1	261	0.0	514
+DIJ64_RS06875	ML1264 COG0139 Phosphoribosyl-AMP cyclohydrolase	100%	115	0		1	115	1	115	2e-083	239
+DIJ64_RS06880	No Hits Found
+DIJ64_RS15375	No Hits Found
+DIJ64_RS06885	ML1267 COG0387 Ca2+/H+ antiporter	100%	364	0		1	364	1	364	0.0	693
+DIJ64_RS06890	No Hits Found
+DIJ64_RS06895	No Hits Found
+DIJ64_RS06900	No Hits Found
+DIJ64_RS06905	ML1271 COG0134 Indole-3-glycerol phosphate synthase	100%	272	0		1	272	1	272	0.0	529
+DIJ64_RS06910	ML1272 COG0133 Tryptophan synthase beta chain	99%	417	1		1	417	1	417	0.0	853
+DIJ64_RS06915	ML1273 COG0159 Tryptophan synthase alpha chain	100%	270	0		1	270	1	270	0.0	533
+DIJ64_RS06920	No Hits Found
+DIJ64_RS06925	No Hits Found
+DIJ64_RS06930	No Hits Found
+DIJ64_RS06935	No Hits Found
+DIJ64_RS06940	ML1277 COG0469 Pyruvate kinase	99%	472	1		1	472	1	472	0.0	948
+DIJ64_RS06945	ML1278 COG1946 Acyl-CoA thioesterase	100%	288	0		1	288	10	297	0.0	595
+DIJ64_RS15380	No Hits Found
+DIJ64_RS06955	No Hits Found
+DIJ64_RS21425	No Hits Found
+DIJ64_RS21430	No Hits Found
+DIJ64_RS21435	No Hits Found
+DIJ64_RS21440	No Hits Found
+DIJ64_RS06965	MK1523 COG3839 ABC-type sugar transport systems, ATPase components	37%	167	87	18	319	482	8	159	3e-018	84.0
+DIJ64_RS06970	Rv1622c COG1294 Cytochrome bd-type quinol oxidase, subunit 2	79%	182	38		3	184	3	184	9e-092	278
+DIJ64_RS19845	Rv1623c COG1271 Cytochrome bd-type quinol oxidase, subunit 1	72%	325	88		48	372	94	418	e-171	489
+DIJ64_RS19850	No Hits Found
+DIJ64_RS19855	No Hits Found
+DIJ64_RS19860	No Hits Found
+DIJ64_RS21445	No Hits Found
+DIJ64_RS06990	No Hits Found
+DIJ64_RS18235	Rv1627c COG0183 Acetyl-CoA acetyltransferase	37%	380	183	54	1	355	16	366	2e-046	163
+DIJ64_RS07005	ML1288 COG0624 Acetylornithine deacetylase/Succinyl-diaminopimelate	100%	448	0		1	448	20	467	0.0	914
+DIJ64_RS07010	No Hits Found
+DIJ64_RS07025	ML1293 COG0167 Dihydroorotate dehydrogenase	100%	356	0		1	356	2	357	0.0	704
+DIJ64_RS07030	No Hits Found
+DIJ64_RS07035	No Hits Found
+DIJ64_RS07040	No Hits Found
+DIJ64_RS07045	No Hits Found
+DIJ64_RS07050	ML1298 COG0406 Fructose-2,6-bisphosphatase	100%	250	0		1	250	1	250	0.0	506
+DIJ64_RS07055	No Hits Found
+DIJ64_RS07060	No Hits Found
+DIJ64_RS07065	ML1301 COG1218 3'-Phosphoadenosine 5'-phosphosulfate (PAPS)	100%	271	0		1	271	1	271	0.0	535
+DIJ64_RS07070	No Hits Found
+DIJ64_RS21450	No Hits Found
+DIJ64_RS21455	No Hits Found
+DIJ64_RS07080	ML1304 COG1113 Gamma-aminobutyrate permease and related permeases	99%	498	1		1	498	1	498	0.0	985
+DIJ64_RS07085	ML1305 COG1113 Gamma-aminobutyrate permease and related permeases	100%	505	0		1	505	1	505	0.0	1004
+DIJ64_RS07090	No Hits Found
+DIJ64_RS07095	ML1307_2 COG1410 Methionine synthase I, cobalamin-binding domain	100%	885	0		322	1206	1	885	0.0	1816
+DIJ64_RS19870	No Hits Found
+DIJ64_RS15390	No Hits Found
+DIJ64_RS21460	No Hits Found
+DIJ64_RS07110	ML1309 COG0140 Phosphoribosyl-ATP pyrophosphohydrolase	98%	93	1		1	93	1	93	8e-063	185
+DIJ64_RS07115	ML1310 COG0040 ATP phosphoribosyltransferase	100%	287	0		1	287	3	289	0.0	573
+DIJ64_RS20505	mlr2769 COG1249 Pyruvate/2-oxoglutarate dehydrogenase complex,	28%	432	241	69	3	395	4	405	3e-023	102
+DIJ64_RS07130	No Hits Found
+DIJ64_RS07135	No Hits Found
+DIJ64_RS07140	No Hits Found
+DIJ64_RS07145	No Hits Found
+DIJ64_RS07150	No Hits Found
+DIJ64_RS18255	No Hits Found
+DIJ64_RS18260	No Hits Found
+DIJ64_RS07175	No Hits Found
+DIJ64_RS07180	No Hits Found
+DIJ64_RS07185	No Hits Found
+DIJ64_RS07190	No Hits Found
+DIJ64_RS07195	No Hits Found
+DIJ64_RS16445	No Hits Found
+DIJ64_RS20510	No Hits Found
+DIJ64_RS16450	No Hits Found
+DIJ64_RS07220	No Hits Found
+DIJ64_RS07225	No Hits Found
+DIJ64_RS07230	No Hits Found
+DIJ64_RS07235	No Hits Found
+DIJ64_RS07240	No Hits Found
+DIJ64_RS07245	No Hits Found
+DIJ64_RS07250	No Hits Found
+DIJ64_RS07255	No Hits Found
+DIJ64_RS07260	Rv2089c COG0006 Xaa-Pro aminopeptidase	67%	64	20	1	116	179	112	174	1e-014	74.7
+DIJ64_RS16455	No Hits Found
+DIJ64_RS18265	No Hits Found
+DIJ64_RS21465	No Hits Found
+DIJ64_RS07280	No Hits Found
+DIJ64_RS07285	No Hits Found
+DIJ64_RS07290	ML1340 COG1985 Pyrimidine reductase, riboflavin biosynthesis	100%	268	0		1	268	1	268	0.0	542
+DIJ64_RS20515	No Hits Found
+DIJ64_RS20520	No Hits Found
+DIJ64_RS07300	No Hits Found
+DIJ64_RS07325	No Hits Found
+DIJ64_RS07335	ML1346_1 COG3243 Poly(3-hydroxyalkanoate) synthetase	99%	417	1		15	431	1	417	0.0	854
+DIJ64_RS07340	No Hits Found
+DIJ64_RS07345	No Hits Found
+DIJ64_RS21470	No Hits Found
+DIJ64_RS21475	lin2440 COG1126 ABC-type polar amino acid transport system, ATPase	28%	107	75	1	15	120	120	226	1e-009	55.1
+DIJ64_RS07360	No Hits Found
+DIJ64_RS07365	No Hits Found
+DIJ64_RS20525	No Hits Found
+DIJ64_RS07385	No Hits Found
+DIJ64_RS07390	No Hits Found
+DIJ64_RS07395	ML1359 COG0061 Predicted sugar kinase	99%	311	1		1	311	1	311	0.0	615
+DIJ64_RS07400	No Hits Found
+DIJ64_RS07405	No Hits Found
+DIJ64_RS07410	No Hits Found
+DIJ64_RS07415	ML1363 COG0504 CTP synthase (UTP-ammonia lyase)	99%	590	1		1	590	1	590	0.0	1203
+DIJ64_RS07420	No Hits Found
+DIJ64_RS07425	No Hits Found
+DIJ64_RS21480	No Hits Found
+DIJ64_RS07430	No Hits Found
+DIJ64_RS07435	No Hits Found
+DIJ64_RS07440	No Hits Found
+DIJ64_RS07445	No Hits Found
+DIJ64_RS07450	ML1371 COG0283 Cytidylate kinase	99%	223	1		1	223	1	223	e-159	439
+DIJ64_RS07455	No Hits Found
+DIJ64_RS21485	No Hits Found
+DIJ64_RS21490	No Hits Found
+DIJ64_RS15415	No Hits Found
+DIJ64_RS20530	No Hits Found
+DIJ64_RS18290	No Hits Found
+DIJ64_RS15420	No Hits Found
+DIJ64_RS07500	No Hits Found
+DIJ64_RS07505	No Hits Found
+DIJ64_RS18295	No Hits Found
+DIJ64_RS18300	No Hits Found
+DIJ64_RS19875	Rv1771 COG0277 FAD/FMN-containing dehydrogenases	66%	39	13		4	42	109	147	7e-010	51.6
+DIJ64_RS19880	Rv1771 COG0277 FAD/FMN-containing dehydrogenases	65%	52	16	2	1	52	177	226	7e-015	66.2
+DIJ64_RS19885	Rv1771 COG0277 FAD/FMN-containing dehydrogenases	56%	55	24		1	55	287	341	3e-017	73.2
+DIJ64_RS19890	Rv1771 COG0277 FAD/FMN-containing dehydrogenases	70%	47	14		4	50	351	397	8e-020	80.1
+DIJ64_RS07520	No Hits Found
+DIJ64_RS18305	No Hits Found
+DIJ64_RS07540	No Hits Found
+DIJ64_RS07545	No Hits Found
+DIJ64_RS07550	No Hits Found
+DIJ64_RS07555	ML1383_1 COG0237 Dephospho-CoA kinase	100%	212	0		1	212	1	212	e-148	418
+DIJ64_RS07565	No Hits Found
+DIJ64_RS18310	No Hits Found
+DIJ64_RS18315	No Hits Found
+DIJ64_RS18320	No Hits Found
+DIJ64_RS18325	No Hits Found
+DIJ64_RS07580	No Hits Found
+DIJ64_RS21495	No Hits Found
+DIJ64_RS07590	No Hits Found
+DIJ64_RS07595	No Hits Found
+DIJ64_RS07600	No Hits Found
+DIJ64_RS07605	all1547 COG1122 ABC-type cobalt transport system, ATPase component	31%	132	76	15	484	916	114	203	2e-008	56.2
+DIJ64_RS07615	No Hits Found
+DIJ64_RS07620	No Hits Found
+DIJ64_RS07625	No Hits Found
+DIJ64_RS07630	No Hits Found
+DIJ64_RS07635	No Hits Found
+DIJ64_RS07640	No Hits Found
+DIJ64_RS07645	No Hits Found
+DIJ64_RS07655	No Hits Found
+DIJ64_RS07660	No Hits Found
+DIJ64_RS07670	No Hits Found
+DIJ64_RS07675	ML1406 COG0002 Acetylglutamate semialdehyde dehydrogenase	100%	347	0		1	347	1	347	0.0	689
+DIJ64_RS07680	ML1407 COG1364 N-acetylglutamate synthase (N-acetylornithine	99%	407	1		1	407	1	407	0.0	810
+DIJ64_RS07685	ML1408 COG0548 Acetylglutamate kinase	100%	297	0		1	297	5	301	0.0	598
+DIJ64_RS07690	ML1409 COG4992 Ornithine/acetylornithine aminotransferase	100%	404	0		1	404	1	404	0.0	806
+DIJ64_RS07695	ML1410 COG0078 Ornithine carbamoyltransferase	99%	306	1		1	306	15	320	0.0	619
+DIJ64_RS07700	No Hits Found
+DIJ64_RS07705	ML1412 COG0137 Argininosuccinate synthase	100%	398	0		1	398	2	399	0.0	813
+DIJ64_RS07710	ML1413 COG0165 Argininosuccinate lyase	100%	470	0		1	470	1	470	0.0	933
+DIJ64_RS07715	No Hits Found
+DIJ64_RS07720	Rv1660 COG3424 Predicted naringenin-chalcone synthase	55%	128	51	6	1	128	1	122	3e-030	115
+DIJ64_RS21500	Rv1661 COG3321 Polyketide synthase modules and related proteins	52%	72	34		1	72	50	121	2e-018	77.4
+DIJ64_RS21505	Rv1661 COG3321 Polyketide synthase modules and related proteins	37%	237	111	38	1	207	153	381	4e-019	86.7
+DIJ64_RS07740	ML1417 COG2134 CDP-diacylglycerol pyrophosphatase	100%	268	0		1	268	1	268	0.0	556
+DIJ64_RS07745	No Hits Found
+DIJ64_RS07750	No Hits Found
+DIJ64_RS18335	No Hits Found
+DIJ64_RS21510	No Hits Found
+DIJ64_RS21515	No Hits Found
+DIJ64_RS07780	No Hits Found
+DIJ64_RS07785	No Hits Found
+DIJ64_RS07790	ML1424 COG3839 ABC-type sugar transport systems, ATPase components	100%	356	0		1	356	1	356	0.0	726
+DIJ64_RS07795	ML1425 COG0395 ABC-type sugar transport system, permease component	99%	283	1		1	283	1	283	0.0	567
+DIJ64_RS07800	ML1426 COG1175 ABC-type sugar transport systems, permease	100%	287	0		1	287	33	319	0.0	564
+DIJ64_RS07805	ML1427 COG1653 ABC-type sugar transport system, periplasmic	100%	445	0		1	445	1	445	0.0	916
+DIJ64_RS15430	No Hits Found
+DIJ64_RS07815	No Hits Found
+DIJ64_RS21520	No Hits Found
+DIJ64_RS21525	Rv2043c COG1335 Amidases related to nicotinamidase	45%	70	37	1	3	72	114	182	2e-011	56.6
+DIJ64_RS15435	Cgl2434 COG3265 Gluconate kinase	48%	50	25	1	1	50	49	97	3e-011	54.7
+DIJ64_RS18345	Rv2045c COG2272 Carboxylesterase type B	57%	91	33	6	3	87	119	209	4e-021	85.5
+DIJ64_RS21530	Rv2045c COG2272 Carboxylesterase type B	80%	25	5		1	25	33	57	2e-008	46.6
+DIJ64_RS16475	No Hits Found
+DIJ64_RS07840	No Hits Found
+DIJ64_RS16480	No Hits Found
+DIJ64_RS20535	No Hits Found
+DIJ64_RS18370	MT2108_1 COG3321 Polyketide synthase modules and related proteins	88%	43	5		1503	43	1483	43	8e-014	77.8
+DIJ64_RS07865	No Hits Found
+DIJ64_RS07870	No Hits Found
+DIJ64_RS18375	No Hits Found
+DIJ64_RS07885	No Hits Found
+DIJ64_RS18380	No Hits Found
+DIJ64_RS07895	ML1444 COG0412 Dienelactone hydrolase and related enzymes	100%	232	0		1	232	1	232	e-174	478
+DIJ64_RS07900	No Hits Found
+DIJ64_RS07905	No Hits Found
+DIJ64_RS18385	No Hits Found
+DIJ64_RS07915	No Hits Found
+DIJ64_RS07925	MT2131 COG2875 Precorrin-4 methylase	45%	91	39	11	1	86	16	100	3e-009	56.2
+DIJ64_RS21535	No Hits Found
+DIJ64_RS07940	No Hits Found
+DIJ64_RS07945	No Hits Found
+DIJ64_RS07950	No Hits Found
+DIJ64_RS07955	No Hits Found
+DIJ64_RS07960	ML1452 COG0406 Fructose-2,6-bisphosphatase	100%	224	0		1	224	1	224	e-160	442
+DIJ64_RS07965	No Hits Found
+DIJ64_RS07970	ML1454 COG1057 Nicotinic acid mononucleotide adenylyltransferase	100%	214	0		11	224	1	214	e-160	441
+DIJ64_RS21540	No Hits Found
+DIJ64_RS07980	No Hits Found
+DIJ64_RS07985	No Hits Found
+DIJ64_RS07990	ML1458 COG0014 Gamma-glutamyl phosphate reductase	99%	409	1		11	419	1	409	0.0	815
+DIJ64_RS18390	No Hits Found
+DIJ64_RS18395	No Hits Found
+DIJ64_RS08015	No Hits Found
+DIJ64_RS15445	No Hits Found
+DIJ64_RS08020	No Hits Found
+DIJ64_RS08025	ML1463_2 COG0171 NAD synthase	100%	359	0		322	680	1	359	0.0	745
+DIJ64_RS08030	ML1464 COG0263 Glutamate 5-kinase	99%	367	1		1	367	1	367	0.0	715
+DIJ64_RS08035	No Hits Found
+DIJ64_RS08040	No Hits Found
+DIJ64_RS08045	No Hits Found
+DIJ64_RS08050	No Hits Found
+DIJ64_RS08055	ML1469 COG0105 Nucleoside diphosphate kinase	99%	136	1		1	136	1	136	4e-095	270
+DIJ64_RS08060	No Hits Found
+DIJ64_RS08065	ML1471 COG0285 Folylpolyglutamate synthase	100%	485	0		1	485	1	485	0.0	967
+DIJ64_RS08070	No Hits Found
+DIJ64_RS18405	Rv2453c COG0746 Molybdopterin-guanine dinucleotide biosynthesis	49%	127	45	19	2	118	83	200	7e-026	96.3
+DIJ64_RS08095	Rv2454c COG1013 Pyruvate:ferredoxin oxidoreductase and related	32%	347	166	68	54	369	64	373	2e-021	94.4
+DIJ64_RS08100	Rv2455c_2 COG0674 Pyruvate:ferredoxin oxidoreductase and related	62%	117	43	1	193	309	112	227	4e-034	133
+DIJ64_RS08105	No Hits Found
+DIJ64_RS08110	ML1478 COG2040 Homocysteine/selenocysteine methylase	99%	291	1		1	291	3	293	0.0	574
+DIJ64_RS08115	No Hits Found
+DIJ64_RS08120	No Hits Found
+DIJ64_RS08125	No Hits Found
+DIJ64_RS18415	No Hits Found
+DIJ64_RS15455	No Hits Found
+DIJ64_RS21545	No Hits Found
+DIJ64_RS08150	ML1484 COG0698 Ribose 5-phosphate isomerase RpiB	100%	159	0		1	159	4	162	e-118	329
+DIJ64_RS08155	No Hits Found
+DIJ64_RS08160	ML1486 COG0308 Aminopeptidase N	99%	862	1		1	862	1	862	0.0	1769
+DIJ64_RS21550	No Hits Found
+DIJ64_RS08170	ML1488 COG0436 Aspartate/tyrosine/aromatic aminotransferase	100%	361	0		1	361	7	367	0.0	717
+DIJ64_RS08175	ML1489 COG1146 Ferredoxin	99%	108	1		1	108	1	108	2e-075	218
+DIJ64_RS21555	MT1212_1 COG1902 NADH:flavin oxidoreductases, Old Yellow Enzyme	71%	56	12	4	7	58	94	149	1e-020	82.4
+DIJ64_RS21560	No Hits Found
+DIJ64_RS21565	No Hits Found
+DIJ64_RS21570	No Hits Found
+DIJ64_RS15460	No Hits Found
+DIJ64_RS08185	TM1269 COG0502 Biotin synthase and related enzymes	33%	107	69	2	523	629	23	127	2e-010	63.5
+DIJ64_RS16535	No Hits Found
+DIJ64_RS16540	No Hits Found
+DIJ64_RS16545	No Hits Found
+DIJ64_RS08195	No Hits Found
+DIJ64_RS08200	No Hits Found
+DIJ64_RS21575	No Hits Found
+DIJ64_RS08210	ML1497 COG0747 ABC-type dipeptide transport system, periplasmic	100%	606	0		1	606	12	617	0.0	1205
+DIJ64_RS08215	CAC0110 COG2895 GTPases - Sulfate adenylate transferase subunit 1	28%	170	94	27	5	154	8	170	9e-009	58.5
+DIJ64_RS21580	Rv1164 COG2181 Nitrate reductase gamma subunit	50%	99	41	8	3	96	140	235	5e-022	85.9
+DIJ64_RS21585	MT1201 COG2181 Nitrate reductase gamma subunit	75%	56	14		1	56	79	134	1e-022	87.4
+DIJ64_RS21590	MT1201 COG2181 Nitrate reductase gamma subunit	60%	55	19	3	3	57	11	62	2e-012	60.1
+DIJ64_RS08225	MT1200 COG2180 Nitrate reductase delta subunit	57%	85	35	1	1	85	1	84	1e-021	88.2
+DIJ64_RS08230	Rv1162 COG1140 Nitrate reductase beta subunit	51%	270	99	31	1	253	1	256	1e-064	220
+DIJ64_RS08235	Rv1161 COG5013 Nitrate reductase alpha subunit	62%	74	26	2	826	737	838	738	2e-017	88.6
+DIJ64_RS08240	ML1503A COG2154 Pterin-4a-carbinolamine dehydratase	100%	94	0		1	94	1	94	5e-065	191
+DIJ64_RS08245	No Hits Found
+DIJ64_RS08250	No Hits Found
+DIJ64_RS08255	No Hits Found
+DIJ64_RS08260	No Hits Found
+DIJ64_RS08270	No Hits Found
+DIJ64_RS18440	No Hits Found
+DIJ64_RS08280	No Hits Found
+DIJ64_RS08285	No Hits Found
+DIJ64_RS08290	No Hits Found
+DIJ64_RS08295	No Hits Found
+DIJ64_RS08300	ML1514 COG1351 Predicted alternative thymidylate synthase	99%	254	1		1	254	1	254	0.0	520
+DIJ64_RS21595	No Hits Found
+DIJ64_RS08310	No Hits Found
+DIJ64_RS18445	No Hits Found
+DIJ64_RS21600	No Hits Found
+DIJ64_RS21605	No Hits Found
+DIJ64_RS21610	No Hits Found
+DIJ64_RS21615	No Hits Found
+DIJ64_RS08340	ML1518 COG0262 Dihydrofolate reductase	100%	165	0		1	165	1	165	e-119	334
+DIJ64_RS08345	ML1519 COG0207 Thymidylate synthase	99%	266	1		1	266	1	266	0.0	551
+DIJ64_RS21620	Rv2765 COG0412 Dienelactone hydrolase and related enzymes	35%	216	116	24	1	205	1	203	4e-019	83.2
+DIJ64_RS21625	No Hits Found
+DIJ64_RS21630	No Hits Found
+DIJ64_RS21635	No Hits Found
+DIJ64_RS21640	No Hits Found
+DIJ64_RS08360	No Hits Found
+DIJ64_RS18460	No Hits Found
+DIJ64_RS18465	No Hits Found
+DIJ64_RS08380	No Hits Found
+DIJ64_RS08385	No Hits Found
+DIJ64_RS08390	Rv2773c COG0289 Dihydrodipicolinate reductase	88%	245	28		1	245	1	245	e-156	434
+DIJ64_RS15465	No Hits Found
+DIJ64_RS18470	No Hits Found
+DIJ64_RS18475	No Hits Found
+DIJ64_RS19900	No Hits Found
+DIJ64_RS21645	No Hits Found
+DIJ64_RS08400	Rv2776c COG1018 Flavodoxin reductases (ferredoxin-NADPH reductases)	65%	38	13		125	366	69	309	2e-007	52.4
+DIJ64_RS08405	No Hits Found
+DIJ64_RS08410	No Hits Found
+DIJ64_RS08415	ML1532 COG0686 Alanine dehydrogenase	100%	371	0		1	371	1	371	0.0	756
+DIJ64_RS08420	No Hits Found
+DIJ64_RS08425	No Hits Found
+DIJ64_RS08430	No Hits Found
+DIJ64_RS08435	No Hits Found
+DIJ64_RS08440	No Hits Found
+DIJ64_RS08445	No Hits Found
+DIJ64_RS08450	No Hits Found
+DIJ64_RS16565	Rv1786 COG1141 Ferredoxin	64%	45	16		4	48	20	64	6e-015	61.6
+DIJ64_RS08470	No Hits Found
+DIJ64_RS08475	No Hits Found
+DIJ64_RS18480	Rv1781c COG1640 4-alpha-glucanotransferase	61%	71	22	5	1	66	461	531	3e-018	76.3
+DIJ64_RS08485	No Hits Found
+DIJ64_RS08490	ML1547 COG2977 Phosphopantetheinyl transferase component of	100%	227	0		1	227	1	227	e-166	457
+DIJ64_RS08495	No Hits Found
+DIJ64_RS21650	No Hits Found
+DIJ64_RS08505	No Hits Found
+DIJ64_RS15470	No Hits Found
+DIJ64_RS08515	No Hits Found
+DIJ64_RS21655	No Hits Found
+DIJ64_RS08525	No Hits Found
+DIJ64_RS08530	No Hits Found
+DIJ64_RS21660	No Hits Found
+DIJ64_RS21665	No Hits Found
+DIJ64_RS08540	No Hits Found
+DIJ64_RS08545	mlr7576_1 COG2895 GTPases - Sulfate adenylate transferase subunit 1	36%	124	64	15	465	576	92	212	1e-008	58.5
+DIJ64_RS08550	No Hits Found
+DIJ64_RS08555	No Hits Found
+DIJ64_RS08560	No Hits Found
+DIJ64_RS08565	No Hits Found
+DIJ64_RS08570	No Hits Found
+DIJ64_RS08575	BS_yceJ COG2814 Arabinose efflux permease	25%	136	94	7	84	216	29	160	1e-006	51.2
+DIJ64_RS21670	MT2913_2 COG0007 Uroporphyrinogen-III methylase	40%	159	51	44	257	392	82	219	5e-016	77.0
+DIJ64_RS21675	Rv2848c COG1797 Cobyrinic acid a,c-diamide synthase	53%	103	46	2	302	404	303	403	4e-021	95.5
+DIJ64_RS21680	Rv2849c COG2109 ATP:corrinoid adenosyltransferase	38%	171	84	21	123	279	26	189	9e-021	87.8
+DIJ64_RS21685	No Hits Found
+DIJ64_RS08600	No Hits Found
+DIJ64_RS08605	No Hits Found
+DIJ64_RS08610	Rv2855 COG1249 Pyruvate/2-oxoglutarate dehydrogenase complex,	40%	462	224	52	1	435	6	442	5e-086	270
+DIJ64_RS18520	No Hits Found
+DIJ64_RS18525	Rv2856 COG3376 High-affinity nickel permease	50%	58	29		1	58	115	172	7e-013	60.8
+DIJ64_RS08620	Rv2856 COG3376 High-affinity nickel permease	51%	84	40	1	1	84	237	319	4e-015	68.2
+DIJ64_RS08625	No Hits Found
+DIJ64_RS08630	No Hits Found
+DIJ64_RS08635	Rv2860c COG0174 Glutamine synthetase	47%	80	29	13	2	68	333	412	8e-012	58.5
+DIJ64_RS08640	No Hits Found
+DIJ64_RS08645	ypdF COG0006 Xaa-Pro aminopeptidase	28%	214	127	25	41	243	127	326	2e-014	72.4
+DIJ64_RS08650	No Hits Found
+DIJ64_RS08665	No Hits Found
+DIJ64_RS08670	ML1581 COG0821 Enzyme involved in the deoxyxylulose pathway of	99%	392	1		1	392	1	392	0.0	796
+DIJ64_RS08675	No Hits Found
+DIJ64_RS08680	ML1583 COG0743 1-deoxy-D-xylulose 5-phosphate reductoisomerase	99%	406	1		1	406	1	406	0.0	810
+DIJ64_RS08685	No Hits Found
+DIJ64_RS15475	No Hits Found
+DIJ64_RS08690	No Hits Found
+DIJ64_RS08695	No Hits Found
+DIJ64_RS08705	No Hits Found
+DIJ64_RS08710	ML1589 COG0575 CDP-diglyceride synthetase	99%	312	1		1	312	1	312	0.0	619
+DIJ64_RS08715	No Hits Found
+DIJ64_RS08720	ML1591 COG0528 Uridylate kinase	100%	279	0		1	279	1	279	0.0	561
+DIJ64_RS18535	No Hits Found
+DIJ64_RS18540	No Hits Found
+DIJ64_RS19910	No Hits Found
+DIJ64_RS08735	No Hits Found
+DIJ64_RS15495	No Hits Found
+DIJ64_RS16575	No Hits Found
+DIJ64_RS08750	No Hits Found
+DIJ64_RS08755	No Hits Found
+DIJ64_RS08760	No Hits Found
+DIJ64_RS08765	No Hits Found
+DIJ64_RS08770	No Hits Found
+DIJ64_RS08775	No Hits Found
+DIJ64_RS08780	No Hits Found
+DIJ64_RS08785	No Hits Found
+DIJ64_RS19915	No Hits Found
+DIJ64_RS08790	No Hits Found
+DIJ64_RS08800	No Hits Found
+DIJ64_RS15500	No Hits Found
+DIJ64_RS08805	No Hits Found
+DIJ64_RS16580	No Hits Found
+DIJ64_RS08810	No Hits Found
+DIJ64_RS08815	No Hits Found
+DIJ64_RS08820	No Hits Found
+DIJ64_RS08825	Rv2899c COG1526 Uncharacterized protein required for formate	52%	74	35		1	74	1	74	1e-017	78.2
+DIJ64_RS18550	Rv2900c COG0243 Anaerobic dehydrogenases, typically	67%	106	33	1	102	206	582	687	1e-039	147
+DIJ64_RS08835	No Hits Found
+DIJ64_RS08840	No Hits Found
+DIJ64_RS08845	No Hits Found
+DIJ64_RS08850	No Hits Found
+DIJ64_RS08855	No Hits Found
+DIJ64_RS18555	No Hits Found
+DIJ64_RS08865	No Hits Found
+DIJ64_RS08870	No Hits Found
+DIJ64_RS08875	No Hits Found
+DIJ64_RS08880	No Hits Found
+DIJ64_RS08895	No Hits Found
+DIJ64_RS08900	Rv2915c COG1228 Imidazolonepropionase and related amidohydrolases	42%	284	140	23	1	270	14	288	1e-040	147
+DIJ64_RS08905	No Hits Found
+DIJ64_RS08910	No Hits Found
+DIJ64_RS08915	No Hits Found
+DIJ64_RS18560	No Hits Found
+DIJ64_RS18565	No Hits Found
+DIJ64_RS18570	No Hits Found
+DIJ64_RS18575	No Hits Found
+DIJ64_RS18580	No Hits Found
+DIJ64_RS18585	No Hits Found
+DIJ64_RS08925	No Hits Found
+DIJ64_RS21690	Rv2920c COG0004 Ammonia permease	64%	71	25		2	72	379	449	1e-017	75.1
+DIJ64_RS21695	Rv2920c COG0004 Ammonia permease	74%	58	11	4	1	54	312	369	8e-012	57.8
+DIJ64_RS08935	No Hits Found
+DIJ64_RS08940	No Hits Found
+DIJ64_RS16590	No Hits Found
+DIJ64_RS08945	No Hits Found
+DIJ64_RS08950	ML1631 COG0174 Glutamine synthetase	100%	448	0		1	448	1	448	0.0	926
+DIJ64_RS08955	No Hits Found
+DIJ64_RS08960	No Hits Found
+DIJ64_RS21700	No Hits Found
+DIJ64_RS18595	No Hits Found
+DIJ64_RS21705	No Hits Found
+DIJ64_RS18600	No Hits Found
+DIJ64_RS08970	ML1635 COG0413 Ketopantoate hydroxymethyltransferase	100%	286	0		1	286	1	286	0.0	583
+DIJ64_RS08975	No Hits Found
+DIJ64_RS08985	ML1637_2 COG0406 Fructose-2,6-bisphosphatase	100%	204	0		168	371	1	204	e-148	417
+DIJ64_RS08990	No Hits Found
+DIJ64_RS08995	No Hits Found
+DIJ64_RS09000	MT2290 COG0079 Histidinol-phosphate/aromatic aminotransferase and	56%	64	16	12	136	187	127	190	1e-010	61.2
+DIJ64_RS21710	No Hits Found
+DIJ64_RS09010	No Hits Found
+DIJ64_RS09015	No Hits Found
+DIJ64_RS21715	Rv2236c COG1270 Cobalamin biosynthesis protein CobD/CbiB	69%	52	16		1	52	213	264	2e-015	67.8
+DIJ64_RS21720	No Hits Found
+DIJ64_RS09025	No Hits Found
+DIJ64_RS09040	No Hits Found
+DIJ64_RS16595	No Hits Found
+DIJ64_RS21725	No Hits Found
+DIJ64_RS15505	No Hits Found
+DIJ64_RS09060	No Hits Found
+DIJ64_RS09065	No Hits Found
+DIJ64_RS18605	No Hits Found
+DIJ64_RS09075	ML1651 COG2609 Pyruvate dehydrogenase complex, dehydrogenase (E1)	100%	936	0		1	936	1	936	0.0	1931
+DIJ64_RS09080	No Hits Found
+DIJ64_RS09085	ML1653 COG0331 (acyl-carrier-protein) S-malonyltransferase	99%	304	1		1	304	1	304	0.0	598
+DIJ64_RS09090	No Hits Found
+DIJ64_RS09095	ML0101_1 COG3321 Polyketide synthase modules and related proteins	28%	414	252	44	30	411	169	570	4e-029	120
+DIJ64_RS09100	ML0101_1 COG3321 Polyketide synthase modules and related proteins	28%	423	260	41	21	412	155	567	2e-034	136
+DIJ64_RS09105	ML1657 COG4799 Acetyl-CoA carboxylase, carboxyltransferase	100%	473	0		1	473	1	473	0.0	962
+DIJ64_RS09110	No Hits Found
+DIJ64_RS09115	No Hits Found
+DIJ64_RS09120	No Hits Found
+DIJ64_RS09125	No Hits Found
+DIJ64_RS09130	No Hits Found
+DIJ64_RS09135	ML1663 COG0669 Phosphopantetheine adenylyltransferase	99%	157	1		4	160	1	157	e-113	318
+DIJ64_RS09140	No Hits Found
+DIJ64_RS09145	Rv2967c COG1038 Pyruvate carboxylase	57%	59	24	1	779	66	769	58	5e-011	67.4
+DIJ64_RS09150	No Hits Found
+DIJ64_RS09155	No Hits Found
+DIJ64_RS21730	No Hits Found
+DIJ64_RS16600	No Hits Found
+DIJ64_RS09170	BB0528 COG0667 Predicted oxidoreductases (related to aryl-alcohol	28%	190	114	21	24	202	21	200	3e-015	74.7
+DIJ64_RS09175	No Hits Found
+DIJ64_RS09180	No Hits Found
+DIJ64_RS09185	No Hits Found
+DIJ64_RS09190	No Hits Found
+DIJ64_RS09200	No Hits Found
+DIJ64_RS09205	ML1676 COG0611 Thiamine monophosphate kinase	99%	325	1		1	325	1	325	0.0	629
+DIJ64_RS09210	No Hits Found
+DIJ64_RS09215	No Hits Found
+DIJ64_RS09220	ML1679 COG0240 Glycerol-3-phosphate dehydrogenase	100%	349	0		1	349	3	351	0.0	690
+DIJ64_RS09225	No Hits Found
+DIJ64_RS09230	ML1681 COG0855 Polyphosphate kinase	100%	739	0		1	739	1	739	0.0	1508
+DIJ64_RS09235	ML1682_2 COG0406 Fructose-2,6-bisphosphatase	100%	168	0		145	312	1	168	e-121	345
+DIJ64_RS09240	No Hits Found
+DIJ64_RS09245	ML1684 COG0066 3-isopropylmalate dehydratase small subunit	100%	198	0		1	198	1	198	e-144	400
+DIJ64_RS09250	ML1685 COG0065 3-isopropylmalate dehydratase large subunit	100%	483	0		1	483	3	485	0.0	987
+DIJ64_RS09255	No Hits Found
+DIJ64_RS20560	No Hits Found
+DIJ64_RS09275	No Hits Found
+DIJ64_RS09280	ML1689 COG0179 2-keto-4-pentenoate	100%	242	0		27	268	1	242	e-179	492
+DIJ64_RS18610	No Hits Found
+DIJ64_RS09290	Ta0117 COG0538 Isocitrate dehydrogenases	32%	352	190	49	3	311	20	365	3e-039	143
+DIJ64_RS09295	No Hits Found
+DIJ64_RS20565	Rv2997 COG1233 Phytoene dehydrogenase and related proteins	80%	51	10		1	51	56	106	1e-016	81.6
+DIJ64_RS18625	No Hits Found
+DIJ64_RS09310	No Hits Found
+DIJ64_RS09315	ML1695 COG0440 Acetolactate synthase, small (regulatory) subunit	100%	169	0		1	169	1	169	e-118	332
+DIJ64_RS09320	lin0404 COG3962 Acetolactate synthase	25%	606	373	78	44	588	7	595	3e-042	162
+DIJ64_RS18630	No Hits Found
+DIJ64_RS09330	No Hits Found
+DIJ64_RS09335	ML1699 COG2133 Glucose/sorbosone dehydrogenases	100%	372	0		1	372	1	372	0.0	747
+DIJ64_RS19935	No Hits Found
+DIJ64_RS09340	No Hits Found
+DIJ64_RS09345	ML1701 COG0205 6-phosphofructokinase	100%	343	0		1	343	1	343	0.0	699
+DIJ64_RS09350	No Hits Found
+DIJ64_RS09355	No Hits Found
+DIJ64_RS09360	No Hits Found
+DIJ64_RS09365	No Hits Found
+DIJ64_RS09370	No Hits Found
+DIJ64_RS09375	No Hits Found
+DIJ64_RS09380	ML1708 COG1104 Cysteine sulfinate desulfinase/cysteine desulfurase	100%	396	0		1	396	15	410	0.0	789
+DIJ64_RS18635	Rv3026c COG0204 1-acyl-sn-glycerol-3-phosphate acyltransferase	64%	48	16	1	182	63	236	106	9e-008	52.4
+DIJ64_RS09390	No Hits Found
+DIJ64_RS09395	ML1711 COG2025 Electron transfer flavoprotein, alpha subunit	100%	318	0		1	318	1	318	0.0	612
+DIJ64_RS09400	ML1712 COG2086 Electron transfer flavoprotein, beta subunit	100%	266	0		1	266	1	266	0.0	524
+DIJ64_RS09405	AGl2640 COG2227	32%	105	67	4	62	162	65	169	5e-011	61.6
+DIJ64_RS09410	No Hits Found
+DIJ64_RS09415	PAB2292 COG0297 Glycogen synthase	23%	442	280	57	1	396	1	431	3e-023	101
+DIJ64_RS09420	No Hits Found
+DIJ64_RS09425	No Hits Found
+DIJ64_RS18640	No Hits Found
+DIJ64_RS09440	No Hits Found
+DIJ64_RS09445	No Hits Found
+DIJ64_RS09450	No Hits Found
+DIJ64_RS09455	No Hits Found
+DIJ64_RS18645	No Hits Found
+DIJ64_RS20570	No Hits Found
+DIJ64_RS20575	No Hits Found
+DIJ64_RS20580	No Hits Found
+DIJ64_RS09470	MA4347 COG2226 Methylase involved in ubiquinone/menaquinone	39%	101	54	7	81	175	31	130	3e-012	64.7
+DIJ64_RS09475	ML1724 COG1024 Enoyl-CoA hydratase/carnithine racemase	100%	252	0		1	252	1	252	e-179	491
+DIJ64_RS09480	No Hits Found
+DIJ64_RS09485	ML1726 COG1119 ABC-type molybdenum transport system, ATPase	100%	292	0		1	292	14	305	0.0	572
+DIJ64_RS09490	ML1727_2 COG0560 Phosphoserine phosphatase	100%	233	0		179	411	1	233	e-163	457
+DIJ64_RS09495	ML1728 COG0843 Heme/copper-type cytochrome/quinol oxidases, subunit	100%	574	0		1	574	1	574	0.0	1154
+DIJ64_RS09500	ML1729 COG0614 ABC-type Fe3+-hydroxamate transport system,	100%	358	0		1	358	7	364	0.0	717
+DIJ64_RS09505	SMc03929 COG1062 Zn-dependent alcohol dehydrogenases, class III	27%	343	218	29	13	328	37	377	5e-026	107
+DIJ64_RS09510	ML1731 COG0208 Ribonucleotide reductase, beta subunit	99%	324	1		1	324	2	325	0.0	667
+DIJ64_RS09515	Rv3049c COG2072 Predicted flavoprotein involved in K+ transport	79%	313	62	1	9	320	21	333	e-177	509
+DIJ64_RS09520	No Hits Found
+DIJ64_RS09525	ML1734 COG0209 Ribonucleotide reductase, alpha subunit	100%	693	0		29	721	1	693	0.0	1442
+DIJ64_RS09530	ML1735 COG1780 Protein involved in ribonucleotide reduction	99%	138	1		9	146	1	138	e-101	287
+DIJ64_RS09535	No Hits Found
+DIJ64_RS09540	No Hits Found
+DIJ64_RS09545	No Hits Found
+DIJ64_RS09550	No Hits Found
+DIJ64_RS09555	No Hits Found
+DIJ64_RS20585	No Hits Found
+DIJ64_RS15530	No Hits Found
+DIJ64_RS09570	No Hits Found
+DIJ64_RS21735	No Hits Found
+DIJ64_RS21740	No Hits Found
+DIJ64_RS21745	No Hits Found
+DIJ64_RS09590	Rv0271c COG1960 Acyl-CoA dehydrogenases	39%	89	54		1	89	1	89	4e-012	69.7
+DIJ64_RS09595	No Hits Found
+DIJ64_RS21750	No Hits Found
+DIJ64_RS09615	No Hits Found
+DIJ64_RS09620	No Hits Found
+DIJ64_RS09625	No Hits Found
+DIJ64_RS09630	ML1751_1 COG0476 Dinucleotide-utilizing enzymes involved in	100%	249	0		1	249	13	261	e-175	501
+DIJ64_RS16610	No Hits Found
+DIJ64_RS09640	No Hits Found
+DIJ64_RS09645	No Hits Found
+DIJ64_RS15540	No Hits Found
+DIJ64_RS09650	No Hits Found
+DIJ64_RS09655	No Hits Found
+DIJ64_RS21755	No Hits Found
+DIJ64_RS09665	ML1755 COG1760 L-serine deaminase	100%	458	0		1	458	1	458	0.0	925
+DIJ64_RS09670	ML1756 COG2076 Membrane transporters of cations and cationic drugs	99%	107	1		1	107	1	107	2e-069	202
+DIJ64_RS18665	MT2846 COG1018 Flavodoxin reductases (ferredoxin-NADPH reductases)	41%	190	88	24	10	176	13	201	1e-033	122
+DIJ64_RS09690	Rv3068c COG0033 Phosphoglucomutase	71%	69	20	20	62	69	283	143	2e-022	98.2
+DIJ64_RS09705	No Hits Found
+DIJ64_RS09710	No Hits Found
+DIJ64_RS15550	No Hits Found
+DIJ64_RS18670	No Hits Found
+DIJ64_RS18675	alr0440 COG1226 Kef-type K+ transport systems, predicted	38%	71	44		4	74	348	418	2e-009	53.5
+DIJ64_RS18680	No Hits Found
+DIJ64_RS21760	No Hits Found
+DIJ64_RS21765	No Hits Found
+DIJ64_RS21770	No Hits Found
+DIJ64_RS09725	No Hits Found
+DIJ64_RS09730	ML1768 COG1175 ABC-type sugar transport systems, permease	100%	328	0		1	328	1	328	0.0	655
+DIJ64_RS09735	ML1769 COG0395 ABC-type sugar transport system, permease component	100%	274	0		1	274	1	274	0.0	540
+DIJ64_RS09740	ML1770 COG1653 ABC-type sugar transport system, periplasmic	99%	446	1		1	446	1	446	0.0	909
+DIJ64_RS18690	No Hits Found
+DIJ64_RS21775	No Hits Found
+DIJ64_RS21780	Rv2321c COG4992 Ornithine/acetylornithine aminotransferase	55%	124	42	13	12	127	1	119	1e-026	97.8
+DIJ64_RS21785	Rv2322c COG4992 Ornithine/acetylornithine aminotransferase	54%	75	34		3	77	101	175	2e-019	78.2
+DIJ64_RS21790	Rv2322c COG4992 Ornithine/acetylornithine aminotransferase	53%	78	36		6	83	6	83	8e-024	90.5
+DIJ64_RS09760	No Hits Found
+DIJ64_RS09770	No Hits Found
+DIJ64_RS18705	MT2309 COG0578 Glycerol-3-phosphate dehydrogenase	61%	139	50	4	281	415	287	425	8e-042	155
+DIJ64_RS09795	No Hits Found
+DIJ64_RS09800	MT2311 COG0277 FAD/FMN-containing dehydrogenases	33%	577	291	94	1	532	1	528	4e-057	199
+DIJ64_RS09805	No Hits Found
+DIJ64_RS09810	No Hits Found
+DIJ64_RS09815	No Hits Found
+DIJ64_RS09820	No Hits Found
+DIJ64_RS09825	ML1784 COG1062 Zn-dependent alcohol dehydrogenases, class III	100%	361	0		1	361	1	361	0.0	728
+DIJ64_RS18710	No Hits Found
+DIJ64_RS16615	No Hits Found
+DIJ64_RS09840	No Hits Found
+DIJ64_RS18715	Rv0778 COG2124 Cytochrome P450	43%	67	37	1	1	67	315	380	5e-014	65.9
+DIJ64_RS16620	No Hits Found
+DIJ64_RS18720	No Hits Found
+DIJ64_RS09855	No Hits Found
+DIJ64_RS09860	No Hits Found
+DIJ64_RS09865	No Hits Found
+DIJ64_RS09870	No Hits Found
+DIJ64_RS21795	Rv2287 COG0025 NhaP-type Na+/H+ and K+/H+ antiporters	45%	168	77	14	306	242	306	244	1e-023	104
+DIJ64_RS16625	No Hits Found
+DIJ64_RS09890	No Hits Found
+DIJ64_RS16630	No Hits Found
+DIJ64_RS09900	ML1794 COG1168 Bifunctional PLP-dependent enzyme with	99%	402	1		1	402	1	402	0.0	818
+DIJ64_RS09905	No Hits Found
+DIJ64_RS09910	No Hits Found
+DIJ64_RS09915	No Hits Found
+DIJ64_RS09925	ML1798 COG1703 Putative periplasmic protein kinase ArgK and related	100%	327	0		1	327	1	327	0.0	654
+DIJ64_RS09930	ML1799_1 COG1884 Methylmalonyl-CoA mutase, N-terminal	100%	625	0		1	625	1	625	0.0	1280
+DIJ64_RS09935	ML1800_1 COG1884 Methylmalonyl-CoA mutase, N-terminal	99%	483	3		1	483	1	483	0.0	954
+DIJ64_RS09940	No Hits Found
+DIJ64_RS09945	No Hits Found
+DIJ64_RS09950	No Hits Found
+DIJ64_RS09955	No Hits Found
+DIJ64_RS09960	ML1805 COG0276 Protoheme ferro-lyase (ferrochelatase)	100%	336	0		1	336	1	336	0.0	681
+DIJ64_RS09965	ML1806 COG0623 Enoyl-[acyl-carrier-protein] reductase (NADH)	100%	269	0		1	269	1	269	0.0	550
+DIJ64_RS09970	PA1806 COG0623 Enoyl-[acyl-carrier-protein] reductase (NADH)	29%	199	130	10	58	249	59	254	1e-011	63.2
+DIJ64_RS09975	No Hits Found
+DIJ64_RS09980	No Hits Found
+DIJ64_RS09985	MK0192_1 COG1239 Mg-chelatase subunit ChlI	29%	385	170	103	54	376	28	371	3e-024	103
+DIJ64_RS09990	No Hits Found
+DIJ64_RS09995	No Hits Found
+DIJ64_RS10000	No Hits Found
+DIJ64_RS10005	ML1814 COG1048 Aconitase A	100%	943	0		1	943	2	944	0.0	1953
+DIJ64_RS10010	No Hits Found
+DIJ64_RS18740	No Hits Found
+DIJ64_RS10020	AF0638 COG1116 ABC-type nitrate/sulfonate/bicarbonate transport	37%	194	115	7	339	527	7	198	4e-026	106
+DIJ64_RS10025	ML1241 COG1024 Enoyl-CoA hydratase/carnithine racemase	46%	279	122	28	3	269	21	283	4e-063	200
+DIJ64_RS10030	No Hits Found
+DIJ64_RS19940	No Hits Found
+DIJ64_RS16640	No Hits Found
+DIJ64_RS10040	No Hits Found
+DIJ64_RS10050	No Hits Found
+DIJ64_RS10055	Rv0254c COG2087 Adenosyl cobinamide kinase/adenosyl cobinamide	43%	148	44	39	1	130	48	174	1e-023	89.7
+DIJ64_RS20590	Rv0255c COG1492 Cobyric acid synthase	62%	127	43	5	4	127	292	416	5e-037	132
+DIJ64_RS10065	No Hits Found
+DIJ64_RS10070	No Hits Found
+DIJ64_RS21800	No Hits Found
+DIJ64_RS21805	No Hits Found
+DIJ64_RS16645	No Hits Found
+DIJ64_RS20600	No Hits Found
+DIJ64_RS10090	AGl1483 COG0006 Xaa-Pro aminopeptidase	27%	219	142	16	23	241	190	392	4e-010	59.7
+DIJ64_RS10095	ML1832 COG0563 Adenylate kinase and related kinases	99%	181	1		1	181	1	181	e-130	361
+DIJ64_RS10100	No Hits Found
+DIJ64_RS18755	No Hits Found
+DIJ64_RS18760	Rv0830 COG3315 O-Methyltransferase involved in polyketide	43%	53	30		1	53	185	237	3e-009	51.6
+DIJ64_RS10110	No Hits Found
+DIJ64_RS18765	Rv0729 COG1070 Sugar (pentulose and hexulose) kinases	56%	67	29		19	85	314	380	1e-013	64.7
+DIJ64_RS18770	Rv0729 COG1070 Sugar (pentulose and hexulose) kinases	62%	112	42		1	112	20	131	1e-040	139
+DIJ64_RS10120	No Hits Found
+DIJ64_RS10125	No Hits Found
+DIJ64_RS10130	No Hits Found
+DIJ64_RS10135	No Hits Found
+DIJ64_RS10140	No Hits Found
+DIJ64_RS10145	No Hits Found
+DIJ64_RS10150	No Hits Found
+DIJ64_RS10155	No Hits Found
+DIJ64_RS10160	No Hits Found
+DIJ64_RS10165	No Hits Found
+DIJ64_RS10170	No Hits Found
+DIJ64_RS10175	No Hits Found
+DIJ64_RS10180	No Hits Found
+DIJ64_RS10185	No Hits Found
+DIJ64_RS10190	No Hits Found
+DIJ64_RS10195	Rv0711 COG3119 Arylsulfatase A and related enzymes	52%	171	51	31	4	160	9	162	4e-036	141
+DIJ64_RS10200	No Hits Found
+DIJ64_RS10205	No Hits Found
+DIJ64_RS10210	No Hits Found
+DIJ64_RS10215	No Hits Found
+DIJ64_RS10220	No Hits Found
+DIJ64_RS10225	No Hits Found
+DIJ64_RS10230	No Hits Found
+DIJ64_RS10235	No Hits Found
+DIJ64_RS10240	No Hits Found
+DIJ64_RS10245	No Hits Found
+DIJ64_RS10250	No Hits Found
+DIJ64_RS16650	No Hits Found
+DIJ64_RS10260	No Hits Found
+DIJ64_RS21810	Rv0697 COG2303 Choline dehydrogenase and related flavoproteins	39%	474	226	63	2	438	1	448	2e-076	247
+DIJ64_RS10270	No Hits Found
+DIJ64_RS10275	No Hits Found
+DIJ64_RS10280	Rv0694 COG1304 L-lactate dehydrogenase (FMN-dependent) and related	50%	248	115	8	1	242	1	246	3e-058	194
+DIJ64_RS18775	No Hits Found
+DIJ64_RS10295	No Hits Found
+DIJ64_RS21815	No Hits Found
+DIJ64_RS18790	No Hits Found
+DIJ64_RS10305	CAC0110 COG2895 GTPases - Sulfate adenylate transferase subunit 1	27%	434	240	74	9	393	3	411	1e-032	128
+DIJ64_RS10310	CAC0110 COG2895 GTPases - Sulfate adenylate transferase subunit 1	30%	140	84	13	15	141	8	147	2e-009	60.5
+DIJ64_RS10315	No Hits Found
+DIJ64_RS10320	No Hits Found
+DIJ64_RS10330	No Hits Found
+DIJ64_RS20605	No Hits Found
+DIJ64_RS10335	No Hits Found
+DIJ64_RS21820	No Hits Found
+DIJ64_RS10345	Rv0675 COG1024 Enoyl-CoA hydratase/carnithine racemase	63%	133	43	6	121	250	124	253	1e-032	119
+DIJ64_RS10350	No Hits Found
+DIJ64_RS10355	Rv0673 COG1024 Enoyl-CoA hydratase/carnithine racemase	43%	296	130	38	1	280	1	274	8e-054	178
+DIJ64_RS18795	No Hits Found
+DIJ64_RS10365	No Hits Found
+DIJ64_RS10370	No Hits Found
+DIJ64_RS10375	No Hits Found
+DIJ64_RS10380	ML1892 COG1127 ABC-type transport system involved in resistance to	100%	336	0		1	336	3	338	0.0	681
+DIJ64_RS21825	Rv0654 COG3670 Lignostilbene-alpha,beta-dioxygenase and related	48%	74	36	2	2	73	394	467	1e-016	72.4
+DIJ64_RS21830	No Hits Found
+DIJ64_RS10395	No Hits Found
+DIJ64_RS10400	No Hits Found
+DIJ64_RS21835	No Hits Found
+DIJ64_RS10410	No Hits Found
+DIJ64_RS10415	No Hits Found
+DIJ64_RS10420	No Hits Found
+DIJ64_RS10425	No Hits Found
+DIJ64_RS21840	No Hits Found
+DIJ64_RS10435	No Hits Found
+DIJ64_RS15575	No Hits Found
+DIJ64_RS10440	No Hits Found
+DIJ64_RS16670	No Hits Found
+DIJ64_RS10450	No Hits Found
+DIJ64_RS10455	No Hits Found
+DIJ64_RS10460	No Hits Found
+DIJ64_RS10465	No Hits Found
+DIJ64_RS10475	No Hits Found
+DIJ64_RS10480	ML1909 COG2030 Acyl dehydratase	100%	142	0		1	142	1	142	e-101	285
+DIJ64_RS10485	No Hits Found
+DIJ64_RS10490	No Hits Found
+DIJ64_RS10505	No Hits Found
+DIJ64_RS10510	No Hits Found
+DIJ64_RS10515	Rv0632c COG1024 Enoyl-CoA hydratase/carnithine racemase	41%	244	95	48	12	236	5	219	8e-045	150
+DIJ64_RS21845	No Hits Found
+DIJ64_RS19970	No Hits Found
+DIJ64_RS10530	No Hits Found
+DIJ64_RS18825	No Hits Found
+DIJ64_RS10545	No Hits Found
+DIJ64_RS10550	ML1919 COG0288 Carbonic anhydrase	100%	213	0		1	213	1	213	e-156	430
+DIJ64_RS10555	No Hits Found
+DIJ64_RS10560	No Hits Found
+DIJ64_RS10565	No Hits Found
+DIJ64_RS10570	No Hits Found
+DIJ64_RS15585	mlr0406 COG0406 Fructose-2,6-bisphosphatase	35%	70	42	3	1	67	62	131	1e-008	49.7
+DIJ64_RS10580	No Hits Found
+DIJ64_RS10585	No Hits Found
+DIJ64_RS10590	ML1925 COG2032 Cu/Zn superoxide dismutase	100%	240	0		1	240	1	240	e-175	481
+DIJ64_RS10595	No Hits Found
+DIJ64_RS10600	No Hits Found
+DIJ64_RS10610	No Hits Found
+DIJ64_RS10615	No Hits Found
+DIJ64_RS21850	No Hits Found
+DIJ64_RS21855	No Hits Found
+DIJ64_RS10625	No Hits Found
+DIJ64_RS10630	Rv0425c COG0474 Cation transport ATPase	55%	47	21		42	88	81	127	9e-009	50.8
+DIJ64_RS10635	Rv0425c COG0474 Cation transport ATPase	63%	44	16		1	44	451	494	2e-010	54.7
+DIJ64_RS16675	No Hits Found
+DIJ64_RS16680	No Hits Found
+DIJ64_RS10640	No Hits Found
+DIJ64_RS19975	No Hits Found
+DIJ64_RS10645	No Hits Found
+DIJ64_RS10650	No Hits Found
+DIJ64_RS10655	MJ0566 COG0370 Fe2+ transport system protein B	53%	41	19		2	42	3	43	7e-007	51.2
+DIJ64_RS10660	No Hits Found
+DIJ64_RS10665	No Hits Found
+DIJ64_RS10670	No Hits Found
+DIJ64_RS10675	No Hits Found
+DIJ64_RS10680	No Hits Found
+DIJ64_RS10685	No Hits Found
+DIJ64_RS10690	No Hits Found
+DIJ64_RS10695	No Hits Found
+DIJ64_RS10700	ML1946 COG1494 Fructose-1,6-bisphosphatase/sedoheptulose	100%	328	0		28	355	1	328	0.0	660
+DIJ64_RS10705	ML1947 COG0114 Fumarase	100%	468	0		1	468	7	474	0.0	948
+DIJ64_RS20610	No Hits Found
+DIJ64_RS10715	ML1950 COG0726 Predicted xylanase/chitin deacetylase	99%	291	1		1	291	1	291	0.0	600
+DIJ64_RS10720	No Hits Found
+DIJ64_RS10725	No Hits Found
+DIJ64_RS10730	ML1953 COG0112 Glycine/serine hydroxymethyltransferase	100%	426	0		1	426	1	426	0.0	859
+DIJ64_RS10735	ML1954 COG1072 Panthothenate kinase	100%	312	0		1	312	1	312	0.0	637
+DIJ64_RS10740	No Hits Found
+DIJ64_RS10745	No Hits Found
+DIJ64_RS10750	No Hits Found
+DIJ64_RS10755	No Hits Found
+DIJ64_RS10760	No Hits Found
+DIJ64_RS10765	No Hits Found
+DIJ64_RS10770	No Hits Found
+DIJ64_RS10775	No Hits Found
+DIJ64_RS10780	No Hits Found
+DIJ64_RS10785	No Hits Found
+DIJ64_RS10790	No Hits Found
+DIJ64_RS10795	No Hits Found
+DIJ64_RS21860	No Hits Found
+DIJ64_RS21865	No Hits Found
+DIJ64_RS16690	No Hits Found
+DIJ64_RS20615	No Hits Found
+DIJ64_RS10825	No Hits Found
+DIJ64_RS10830	No Hits Found
+DIJ64_RS10840	Rv2025c COG0053 Predicted Co/Zn/Cd cation transporters	64%	75	27		5	79	169	243	5e-021	85.5
+DIJ64_RS10845	No Hits Found
+DIJ64_RS16695	No Hits Found
+DIJ64_RS15615	No Hits Found
+DIJ64_RS10860	No Hits Found
+DIJ64_RS10865	No Hits Found
+DIJ64_RS10870	No Hits Found
+DIJ64_RS18855	No Hits Found
+DIJ64_RS10875	ML1985 COG2224 Isocitrate lyase	100%	762	0		1	762	37	798	0.0	1571
+DIJ64_RS18860	No Hits Found
+DIJ64_RS10885	No Hits Found
+DIJ64_RS10890	No Hits Found
+DIJ64_RS10910	No Hits Found
+DIJ64_RS10915	ML1992 COG2175 Probable taurine catabolism dioxygenase	100%	289	0		1	289	1	289	0.0	594
+DIJ64_RS10920	No Hits Found
+DIJ64_RS10925	mll6017 COG0365 Acyl-coenzyme A synthetases/AMP-(fatty) acid	26%	525	314	70	31	517	52	544	2e-029	122
+DIJ64_RS10930	No Hits Found
+DIJ64_RS10935	ML1996_2 COG1020 Non-ribosomal peptide synthetase modules and related	100%	983	0		419	1401	1	983	0.0	1992
+DIJ64_RS10940	No Hits Found
+DIJ64_RS10945	No Hits Found
+DIJ64_RS10950	APE0222 COG2513 PEP phosphonomutase and related enzymes	45%	73	40		1	73	93	165	2e-010	54.7
+DIJ64_RS10955	ML2000 COG2217 Cation transport ATPase	99%	750	1		1	750	1	750	0.0	1494
+DIJ64_RS20620	No Hits Found
+DIJ64_RS18875	No Hits Found
+DIJ64_RS21870	No Hits Found
+DIJ64_RS10975	No Hits Found
+DIJ64_RS15620	No Hits Found
+DIJ64_RS18880	No Hits Found
+DIJ64_RS15625	No Hits Found
+DIJ64_RS10980	No Hits Found
+DIJ64_RS21875	No Hits Found
+DIJ64_RS20625	No Hits Found
+DIJ64_RS21880	No Hits Found
+DIJ64_RS21885	No Hits Found
+DIJ64_RS16710	No Hits Found
+DIJ64_RS20630	Rv1908c COG0376 Catalase (peroxidase I)	63%	61	21	1	450	121	524	160	2e-009	61.2
+DIJ64_RS11010	No Hits Found
+DIJ64_RS11015	ML2011 COG0665 Glycine/D-amino acid oxidases (deaminating)	100%	320	0		1	320	1	320	0.0	647
+DIJ64_RS11020	No Hits Found
+DIJ64_RS21890	No Hits Found
+DIJ64_RS11030	No Hits Found
+DIJ64_RS11035	No Hits Found
+DIJ64_RS15630	No Hits Found
+DIJ64_RS11040	No Hits Found
+DIJ64_RS15635	No Hits Found
+DIJ64_RS11045	No Hits Found
+DIJ64_RS11050	No Hits Found
+DIJ64_RS11055	ML2020 COG3315 O-Methyltransferase involved in polyketide	100%	303	0		1	303	2	304	0.0	619
+DIJ64_RS15640	No Hits Found
+DIJ64_RS16735	No Hits Found
+DIJ64_RS18900	No Hits Found
+DIJ64_RS11070	No Hits Found
+DIJ64_RS11075	No Hits Found
+DIJ64_RS21895	No Hits Found
+DIJ64_RS18905	No Hits Found
+DIJ64_RS11085	No Hits Found
+DIJ64_RS21900	No Hits Found
+DIJ64_RS11100	No Hits Found
+DIJ64_RS15645	No Hits Found
+DIJ64_RS11105	No Hits Found
+DIJ64_RS11110	No Hits Found
+DIJ64_RS11115	No Hits Found
+DIJ64_RS21905	No Hits Found
+DIJ64_RS21910	No Hits Found
+DIJ64_RS19980	No Hits Found
+DIJ64_RS11135	No Hits Found
+DIJ64_RS18915	No Hits Found
+DIJ64_RS11150	Rv1878 COG0174 Glutamine synthetase	50%	74	36	1	1	74	83	155	7e-012	58.9
+DIJ64_RS11155	No Hits Found
+DIJ64_RS11160	ML2038 COG2193 Bacterioferritin (cytochrome b1)	100%	159	0		1	159	1	159	e-116	326
+DIJ64_RS11165	MT1924.1 COG2906 Bacterioferritin-associated ferredoxin	82%	57	8	2	1	55	3	59	8e-027	92.8
+DIJ64_RS18920	No Hits Found
+DIJ64_RS11185	No Hits Found
+DIJ64_RS11190	No Hits Found
+DIJ64_RS11195	No Hits Found
+DIJ64_RS21915	No Hits Found
+DIJ64_RS21920	Cgl0864 COG0366 Glycosidases	43%	85	44	4	1	85	252	332	4e-014	65.5
+DIJ64_RS21925	No Hits Found
+DIJ64_RS11215	ML2046 COG1304 L-lactate dehydrogenase (FMN-dependent) and related	100%	414	0		1	414	1	414	0.0	835
+DIJ64_RS15650	No Hits Found
+DIJ64_RS11220	No Hits Found
+DIJ64_RS11225	No Hits Found
+DIJ64_RS18925	No Hits Found
+DIJ64_RS11235	No Hits Found
+DIJ64_RS21930	No Hits Found
+DIJ64_RS21935	No Hits Found
+DIJ64_RS18930	No Hits Found
+DIJ64_RS11250	SSO0472 COG1062 Zn-dependent alcohol dehydrogenases, class III	31%	214	118	29	35	225	32	239	1e-015	77.4
+DIJ64_RS11255	No Hits Found
+DIJ64_RS11260	No Hits Found
+DIJ64_RS20645	Rv1859 COG1118 ABC-type sulfate/molybdate transport systems,	70%	50	15		1	50	1	50	4e-011	63.9
+DIJ64_RS11275	No Hits Found
+DIJ64_RS21940	Rv1857 COG0725 ABC-type molybdate transport system, periplasmic	40%	214	96	31	6	202	15	214	3e-030	113
+DIJ64_RS11280	No Hits Found
+DIJ64_RS18935	No Hits Found
+DIJ64_RS18940	No Hits Found
+DIJ64_RS11290	ML2061 COG1252 NADH dehydrogenase, FAD-containing subunit	100%	466	0		1	466	1	466	0.0	951
+DIJ64_RS11295	No Hits Found
+DIJ64_RS11300	No Hits Found
+DIJ64_RS11305	ML2065 COG0362 6-phosphogluconate dehydrogenase	100%	483	0		1	483	1	483	0.0	990
+DIJ64_RS11310	ML2066_3 COG0516 IMP dehydrogenase/GMP reductase	100%	278	0		201	478	1	278	0.0	563
+DIJ64_RS11315	PA3983 COG4535 Putative Mg2+ and Co2+ transporter CorC	25%	229	157	14	187	405	33	257	4e-018	84.3
+DIJ64_RS11320	No Hits Found
+DIJ64_RS11325	ML2069 COG2225 Malate synthase	100%	731	0		1	731	1	731	0.0	1507
+DIJ64_RS11330	No Hits Found
+DIJ64_RS19990	No Hits Found
+DIJ64_RS11340	ML2072_2 COG1003 Glycine cleavage system protein P	100%	489	0		464	952	1	489	0.0	1019
+DIJ64_RS11345	No Hits Found
+DIJ64_RS11350	No Hits Found
+DIJ64_RS11355	No Hits Found
+DIJ64_RS11360	No Hits Found
+DIJ64_RS11365	ML2077 COG0509 Glycine cleavage system H protein (lipoate-binding)	99%	132	1		1	132	1	132	2e-092	263
+DIJ64_RS11370	No Hits Found
+DIJ64_RS11375	No Hits Found
+DIJ64_RS11380	No Hits Found
+DIJ64_RS11385	ML2081 COG0558 Phosphatidylglycerophosphate synthase	100%	206	0		1	206	1	206	e-146	404
+DIJ64_RS11390	No Hits Found
+DIJ64_RS11395	CC1299 COG3962 Acetolactate synthase	27%	521	331	48	55	537	63	573	2e-021	98.6
+DIJ64_RS11400	AGc4191 COG1133 ABC-type long-chain fatty acid transport system,	24%	382	239	48	11	387	37	375	1e-019	92.0
+DIJ64_RS11405	ML2088 COG2124 Cytochrome P450	100%	399	0		1	399	36	434	0.0	802
+DIJ64_RS20650	MT0966_1 COG0179 2-keto-4-pentenoate	39%	227	109	28	1	213	1	213	7e-030	120
+DIJ64_RS21945	No Hits Found
+DIJ64_RS15660	No Hits Found
+DIJ64_RS21950	No Hits Found
+DIJ64_RS21955	No Hits Found
+DIJ64_RS11425	No Hits Found
+DIJ64_RS11430	No Hits Found
+DIJ64_RS15665	No Hits Found
+DIJ64_RS11435	ML2093 COG0581 ABC-type phosphate transport system, permease	100%	304	0		1	304	1	304	0.0	601
+DIJ64_RS11440	ML2094 COG0573 ABC-type phosphate transport system, permease	99%	319	1		1	319	1	319	0.0	622
+DIJ64_RS11445	ML2095 COG0226 ABC-type phosphate transport system, periplasmic	100%	369	0		1	369	1	369	0.0	743
+DIJ64_RS11450	No Hits Found
+DIJ64_RS11455	No Hits Found
+DIJ64_RS11460	ML2098 COG1914 Mn2+ and Fe2+ transporters of the NRAMP family	99%	408	1		1	408	19	426	0.0	801
+DIJ64_RS11465	MT0596 COG0209 Ribonucleotide reductase, alpha subunit	58%	53	22		8	60	191	243	2e-016	70.9
+DIJ64_RS15670	No Hits Found
+DIJ64_RS21960	No Hits Found
+DIJ64_RS11485	No Hits Found
+DIJ64_RS20000	No Hits Found
+DIJ64_RS21965	No Hits Found
+DIJ64_RS21970	No Hits Found
+DIJ64_RS11505	No Hits Found
+DIJ64_RS11510	No Hits Found
+DIJ64_RS15675	No Hits Found
+DIJ64_RS21975	No Hits Found
+DIJ64_RS21980	No Hits Found
+DIJ64_RS11525	No Hits Found
+DIJ64_RS18960	Rv0914c COG0183 Acetyl-CoA acetyltransferase	63%	41	15		1	284	122	412	1e-008	55.5
+DIJ64_RS11535	Rv0913c COG3670 Lignostilbene-alpha,beta-dioxygenase and related	43%	289	138	26	1	276	1	276	6e-061	207
+DIJ64_RS11540	No Hits Found
+DIJ64_RS18965	No Hits Found
+DIJ64_RS11550	No Hits Found
+DIJ64_RS11555	No Hits Found
+DIJ64_RS11560	Rv0908 COG0474 Cation transport ATPase	63%	76	28		371	446	505	580	4e-019	90.5
+DIJ64_RS18970	No Hits Found
+DIJ64_RS18975	No Hits Found
+DIJ64_RS20015	No Hits Found
+DIJ64_RS20020	No Hits Found
+DIJ64_RS11575	ML2118 COG1024 Enoyl-CoA hydratase/carnithine racemase	100%	247	0		1	247	1	247	0.0	503
+DIJ64_RS11580	MT0927_1 COG0777 Acetyl-CoA carboxylase beta subunit	74%	241	62		1	241	1	241	e-117	343
+DIJ64_RS11585	No Hits Found
+DIJ64_RS16770	No Hits Found
+DIJ64_RS18980	No Hits Found
+DIJ64_RS18985	No Hits Found
+DIJ64_RS11605	No Hits Found
+DIJ64_RS11610	No Hits Found
+DIJ64_RS21985	No Hits Found
+DIJ64_RS21990	No Hits Found
+DIJ64_RS11630	No Hits Found
+DIJ64_RS21995	No Hits Found
+DIJ64_RS22000	No Hits Found
+DIJ64_RS11645	No Hits Found
+DIJ64_RS11650	ML2130 COG0372 Citrate synthase	99%	431	1		1	431	1	431	0.0	889
+DIJ64_RS11655	ML2131 COG0259 Pyridoxamine-phosphate oxidase	99%	206	1		3	208	1	206	e-153	422
+DIJ64_RS20025	Rv0889c COG0372 Citrate synthase	76%	162	38		208	369	210	371	2e-080	251
+DIJ64_RS11665	No Hits Found
+DIJ64_RS11670	ML2134_1 COG1146 Ferredoxin	100%	101	0		1	101	1	101	8e-068	214
+DIJ64_RS11675	No Hits Found
+DIJ64_RS11680	CAC0014 COG0075 Serine-pyruvate aminotransferase/archaeal aspartate	25%	370	240	37	22	374	6	355	2e-013	70.9
+DIJ64_RS11685	No Hits Found
+DIJ64_RS11690	No Hits Found
+DIJ64_RS20665	No Hits Found
+DIJ64_RS11700	No Hits Found
+DIJ64_RS11705	No Hits Found
+DIJ64_RS11710	No Hits Found
+DIJ64_RS11715	No Hits Found
+DIJ64_RS11720	No Hits Found
+DIJ64_RS19015	MT1744 COG1113 Gamma-aminobutyrate permease and related permeases	70%	54	15	1	1	53	212	265	2e-018	77.0
+DIJ64_RS20670	Rv1704c COG1113 Gamma-aminobutyrate permease and related permeases	52%	86	38	3	1	86	302	384	2e-018	78.2
+DIJ64_RS20675	No Hits Found
+DIJ64_RS11740	No Hits Found
+DIJ64_RS11745	No Hits Found
+DIJ64_RS22005	No Hits Found
+DIJ64_RS11760	No Hits Found
+DIJ64_RS11765	No Hits Found
+DIJ64_RS11770	Rv0865 COG0521 Molybdopterin biosynthesis enzymes	55%	113	42	8	1	108	8	117	1e-024	92.0
+DIJ64_RS22010	Rv0864 COG0315 Molybdenum cofactor biosynthesis enzyme	70%	37	11		26	62	111	147	2e-010	53.5
+DIJ64_RS11775	Rv0864 COG0315 Molybdenum cofactor biosynthesis enzyme	68%	66	19	2	50	115	38	101	2e-018	76.3
+DIJ64_RS11780	No Hits Found
+DIJ64_RS11785	No Hits Found
+DIJ64_RS11790	No Hits Found
+DIJ64_RS15690	No Hits Found
+DIJ64_RS16775	No Hits Found
+DIJ64_RS22015	No Hits Found
+DIJ64_RS11815	No Hits Found
+DIJ64_RS11820	No Hits Found
+DIJ64_RS11825	No Hits Found
+DIJ64_RS11830	No Hits Found
+DIJ64_RS11835	No Hits Found
+DIJ64_RS11840	ML2161_2 COG1250 3-hydroxyacyl-CoA dehydrogenase	100%	404	0		311	714	1	404	0.0	823
+DIJ64_RS11845	ML2162 COG0183 Acetyl-CoA acetyltransferase	100%	403	0		1	403	1	403	0.0	815
+DIJ64_RS11850	Rv0858c COG0436 Aspartate/tyrosine/aromatic aminotransferase	40%	165	77	22	226	153	244	171	6e-016	78.6
+DIJ64_RS15695	No Hits Found
+DIJ64_RS11855	Rv0855 COG1804 Predicted acyl-CoA transferases/carnitine	61%	47	18	2	4	323	4	329	4e-011	63.5
+DIJ64_RS11860	AGl716 COG3962 Acetolactate synthase	22%	282	197	21	224	488	237	514	5e-008	55.8
+DIJ64_RS22020	No Hits Found
+DIJ64_RS19040	No Hits Found
+DIJ64_RS19045	No Hits Found
+DIJ64_RS22025	No Hits Found
+DIJ64_RS11880	Rv0846c COG2132 Putative multicopper oxidases	48%	68	35		1	68	421	488	6e-017	73.2
+DIJ64_RS15700	No Hits Found
+DIJ64_RS11885	No Hits Found
+DIJ64_RS11895	No Hits Found
+DIJ64_RS15705	No Hits Found
+DIJ64_RS20035	No Hits Found
+DIJ64_RS11900	ML2174 COG0295 Cytidine deaminase	100%	134	0		1	134	1	134	2e-098	278
+DIJ64_RS11905	No Hits Found
+DIJ64_RS11910	No Hits Found
+DIJ64_RS11915	No Hits Found
+DIJ64_RS11920	ML2177 COG2820 Uridine phosphorylase	100%	303	0		1	303	15	317	0.0	624
+DIJ64_RS11925	No Hits Found
+DIJ64_RS11930	No Hits Found
+DIJ64_RS20680	No Hits Found
+DIJ64_RS11970	Rv0830 COG3315 O-Methyltransferase involved in polyketide	33%	295	165	31	2	278	14	295	5e-024	99.0
+DIJ64_RS11975	No Hits Found
+DIJ64_RS16780	No Hits Found
+DIJ64_RS20685	No Hits Found
+DIJ64_RS22030	No Hits Found
+DIJ64_RS16785	No Hits Found
+DIJ64_RS11995	No Hits Found
+DIJ64_RS12000	No Hits Found
+DIJ64_RS22035	No Hits Found
+DIJ64_RS12010	ML2188 COG0704 Phosphate uptake regulator	100%	222	0		1	222	1	222	e-162	445
+DIJ64_RS12015	ML2189 COG1117 ABC-type phosphate transport system, ATPase	99%	202	1		1	202	1	202	e-146	409
+DIJ64_RS12020	Cgl2519 COG0581 ABC-type phosphate transport system, permease	40%	219	114	17	43	252	83	293	2e-031	117
+DIJ64_RS20690	Cgl2520 COG0573 ABC-type phosphate transport system, permease	48%	115	56	3	40	151	75	189	3e-032	117
+DIJ64_RS12030	ML2192 COG0226 ABC-type phosphate transport system, periplasmic	100%	363	0		1	363	67	429	0.0	735
+DIJ64_RS12035	No Hits Found
+DIJ64_RS12040	No Hits Found
+DIJ64_RS12045	No Hits Found
+DIJ64_RS12050	No Hits Found
+DIJ64_RS12055	No Hits Found
+DIJ64_RS12060	ML2198 COG2897 Rhodanese-related sulfurtransferase	100%	277	0		1	277	1	277	0.0	568
+DIJ64_RS12065	No Hits Found
+DIJ64_RS12070	No Hits Found
+DIJ64_RS19055	No Hits Found
+DIJ64_RS12090	No Hits Found
+DIJ64_RS12095	No Hits Found
+DIJ64_RS12100	ML2205 COG0150 Phosphoribosylaminoimidazole (AIR) synthetase	100%	364	0		1	364	1	364	0.0	731
+DIJ64_RS12105	ML2206 COG0034 Glutamine phosphoribosylpyrophosphate	100%	515	0		1	515	42	556	0.0	1045
+DIJ64_RS12110	No Hits Found
+DIJ64_RS19060	MT0178 COG1463 ABC-type transport system involved in resistance to	53%	60	28		1	60	164	223	2e-014	65.5
+DIJ64_RS20040	MT0178 COG1463 ABC-type transport system involved in resistance to	57%	57	24		1	57	225	281	3e-016	70.9
+DIJ64_RS20045	MT0178 COG1463 ABC-type transport system involved in resistance to	54%	42	19		3	44	293	334	1e-008	49.7
+DIJ64_RS12120	No Hits Found
+DIJ64_RS12125	No Hits Found
+DIJ64_RS12130	ML2211 COG0046 Phosphoribosylformylglycinamidine (FGAM) synthase,	99%	754	1		1	754	1	754	0.0	1524
+DIJ64_RS12140	ML2213 COG1362 Aspartyl aminopeptidase	100%	426	0		1	426	18	443	0.0	861
+DIJ64_RS22040	No Hits Found
+DIJ64_RS16800	No Hits Found
+DIJ64_RS22045	No Hits Found
+DIJ64_RS20700	Rv0790c COG1305 Transglutaminase-like enzymes, putative cysteine	75%	76	19		1	76	48	123	1e-034	120
+DIJ64_RS15715	No Hits Found
+DIJ64_RS12165	ML2219 COG0047 Phosphoribosylformylglycinamidine (FGAM) synthase,	99%	224	1		1	224	1	224	e-163	448
+DIJ64_RS12170	ML2219A COG1828 Phosphoribosylformylglycinamidine (FGAM)	98%	79	1		1	79	1	79	7e-052	156
+DIJ64_RS15720	No Hits Found
+DIJ64_RS20705	No Hits Found
+DIJ64_RS19080	No Hits Found
+DIJ64_RS12185	No Hits Found
+DIJ64_RS19085	No Hits Found
+DIJ64_RS20050	No Hits Found
+DIJ64_RS19090	No Hits Found
+DIJ64_RS12195	No Hits Found
+DIJ64_RS12200	No Hits Found
+DIJ64_RS12205	ML2226 COG1770 Protease II	100%	724	0		1	724	1	724	0.0	1491
+DIJ64_RS12210	ML2227 COG0152 Phosphoribosylaminoimidazolesuccinocarboxamide	100%	297	0		1	297	1	297	0.0	605
+DIJ64_RS12215	No Hits Found
+DIJ64_RS19095	Rv0778 COG2124 Cytochrome P450	41%	142	70	13	130	268	145	276	4e-019	86.7
+DIJ64_RS12225	ML2230 COG0015 Adenylosuccinate lyase	99%	472	1		1	472	1	472	0.0	945
+DIJ64_RS19100	No Hits Found
+DIJ64_RS19105	No Hits Found
+DIJ64_RS12240	No Hits Found
+DIJ64_RS22050	Rv0773c COG0405 Gamma-glutamyltransferase	39%	168	93	9	236	400	218	379	9e-020	91.3
+DIJ64_RS12250	ML2235 COG0151 Phosphoribosylamine-glycine ligase	99%	422	1		1	422	1	422	0.0	825
+DIJ64_RS12260	No Hits Found
+DIJ64_RS12265	No Hits Found
+DIJ64_RS12270	No Hits Found
+DIJ64_RS19110	No Hits Found
+DIJ64_RS15730	No Hits Found
+DIJ64_RS12290	No Hits Found
+DIJ64_RS19115	No Hits Found
+DIJ64_RS19120	No Hits Found
+DIJ64_RS12305	No Hits Found
+DIJ64_RS15735	No Hits Found
+DIJ64_RS20065	No Hits Found
+DIJ64_RS22055	No Hits Found
+DIJ64_RS12320	No Hits Found
+DIJ64_RS15740	No Hits Found
+DIJ64_RS12330	No Hits Found
+DIJ64_RS20710	No Hits Found
+DIJ64_RS20715	No Hits Found
+DIJ64_RS20720	PA2199 COG2084 3-hydroxyisobutyrate dehydrogenase and related	35%	82	53		1	82	208	289	1e-007	47.4
+DIJ64_RS12350	No Hits Found
+DIJ64_RS12355	No Hits Found
+DIJ64_RS16820	No Hits Found
+DIJ64_RS12365	No Hits Found
+DIJ64_RS12370	ML2254 COG0380 Trehalose-6-phosphate synthase	100%	498	0		1	498	1	498	0.0	1014
+DIJ64_RS22060	No Hits Found
+DIJ64_RS15745	No Hits Found
+DIJ64_RS15750	No Hits Found
+DIJ64_RS12385	mlr2005 COG0365 Acyl-coenzyme A synthetases/AMP-(fatty) acid	29%	361	211	42	25	352	198	549	1e-021	96.3
+DIJ64_RS12390	No Hits Found
+DIJ64_RS12395	No Hits Found
+DIJ64_RS12400	ML2260 COG0306 Phosphate/sulphate permeases	99%	414	1		1	414	1	414	0.0	811
+DIJ64_RS12405	ML2261 COG0346 Lactoylglutathione lyase and related lyases	100%	138	0		1	138	1	138	4e-099	280
+DIJ64_RS12410	No Hits Found
+DIJ64_RS12415	ML2263 COG0447 Dihydroxynaphthoic acid synthase	100%	300	0		1	300	1	300	0.0	621
+DIJ64_RS12420	No Hits Found
+DIJ64_RS19130	No Hits Found
+DIJ64_RS12430	No Hits Found
+DIJ64_RS22065	No Hits Found
+DIJ64_RS12440	STM2306 COG1441 O-succinylbenzoate synthase	31%	177	100	22	95	256	121	290	5e-009	57.0
+DIJ64_RS12445	No Hits Found
+DIJ64_RS12450	ML2270 COG1165	100%	556	0		1	556	1	556	0.0	1110
+DIJ64_RS12455	No Hits Found
+DIJ64_RS20725	No Hits Found
+DIJ64_RS12465	ML2273 COG2226 Methylase involved in ubiquinone/menaquinone	100%	230	0		1	230	9	238	e-169	464
+DIJ64_RS12470	No Hits Found
+DIJ64_RS20080	No Hits Found
+DIJ64_RS12475	ML2276 COG0644 Dehydrogenases (flavoproteins)	99%	408	1		1	408	1	408	0.0	810
+DIJ64_RS12480	ML2277 COG0142 Geranylgeranyl pyrophosphate synthase	100%	330	0		6	335	1	330	0.0	658
+DIJ64_RS12485	No Hits Found
+DIJ64_RS12490	ML2279 COG0659 Sulfate permease and related transporters (MFS	100%	496	0		1	496	1	496	0.0	958
+DIJ64_RS12495	Rv0564c COG0240 Glycerol-3-phosphate dehydrogenase	37%	343	156	57	1	313	25	340	4e-042	149
+DIJ64_RS19155	Rv0565c COG2072 Predicted flavoprotein involved in K+ transport	65%	46	16		15	60	320	365	3e-015	67.8
+DIJ64_RS19160	No Hits Found
+DIJ64_RS12505	No Hits Found
+DIJ64_RS12515	No Hits Found
+DIJ64_RS12520	No Hits Found
+DIJ64_RS22070	No Hits Found
+DIJ64_RS22075	No Hits Found
+DIJ64_RS22080	No Hits Found
+DIJ64_RS22085	No Hits Found
+DIJ64_RS22090	No Hits Found
+DIJ64_RS12535	No Hits Found
+DIJ64_RS12540	No Hits Found
+DIJ64_RS12545	FN0400 COG4608 ABC-type oligopeptide transport system, ATPase	30%	238	157	8	289	525	7	237	3e-032	126
+DIJ64_RS22095	No Hits Found
+DIJ64_RS12555	No Hits Found
+DIJ64_RS12560	Rv3666c COG4166 ABC-type oligopeptide transport system, periplasmic	54%	93	38	4	1	89	449	541	2e-018	78.6
+DIJ64_RS22100	Rv3667 COG0365 Acyl-coenzyme A synthetases/AMP-(fatty) acid	65%	38	13	4	8	296	10	306	1e-009	61.2
+DIJ64_RS12585	No Hits Found
+DIJ64_RS12590	No Hits Found
+DIJ64_RS12595	No Hits Found
+DIJ64_RS12600	No Hits Found
+DIJ64_RS12605	No Hits Found
+DIJ64_RS12610	No Hits Found
+DIJ64_RS12615	No Hits Found
+DIJ64_RS20735	No Hits Found
+DIJ64_RS12625	No Hits Found
+DIJ64_RS12630	No Hits Found
+DIJ64_RS12635	No Hits Found
+DIJ64_RS12640	No Hits Found
+DIJ64_RS12645	ML2305 COG0003 Oxyanion-translocating ATPase	100%	341	0		1	341	1	341	0.0	682
+DIJ64_RS12650	ML2306 COG0003 Oxyanion-translocating ATPase	100%	381	0		1	381	1	381	0.0	770
+DIJ64_RS12655	No Hits Found
+DIJ64_RS12660	No Hits Found
+DIJ64_RS12665	No Hits Found
+DIJ64_RS19185	MT3786 COG0031 Cysteine synthase	33%	178	71	48	1	153	1	155	3e-012	67.0
+DIJ64_RS12680	No Hits Found
+DIJ64_RS15765	No Hits Found
+DIJ64_RS12685	No Hits Found
+DIJ64_RS12690	No Hits Found
+DIJ64_RS12695	ML2314 COG0554 Glycerol kinase	100%	508	0		1	508	1	508	0.0	1033
+DIJ64_RS16830	No Hits Found
+DIJ64_RS15770	No Hits Found
+DIJ64_RS19190	No Hits Found
+DIJ64_RS12710	Rv3700c COG0520 Selenocysteine lyase	45%	88	40	8	1	84	249	332	1e-008	51.2
+DIJ64_RS12715	No Hits Found
+DIJ64_RS12720	Rv3704c COG3572 Gamma-glutamylcysteine synthetase	48%	83	42	1	5	87	343	424	1e-017	76.3
+DIJ64_RS12725	No Hits Found
+DIJ64_RS12730	Rv3704c COG3572 Gamma-glutamylcysteine synthetase	58%	98	41		1	98	50	147	2e-027	103
+DIJ64_RS12735	No Hits Found
+DIJ64_RS15780	No Hits Found
+DIJ64_RS12745	No Hits Found
+DIJ64_RS12750	ML2322 COG0136 Aspartate-semialdehyde dehydrogenase	100%	351	0		1	351	1	351	0.0	699
+DIJ64_RS12755	ML2323 COG0527 Aspartokinases	99%	421	1		1	421	1	421	0.0	847
+DIJ64_RS20090	No Hits Found
+DIJ64_RS15785	No Hits Found
+DIJ64_RS12760	ML2324 COG0119 Isopropylmalate/homocitrate/citramalate synthases	100%	582	0		1	582	26	607	0.0	1209
+DIJ64_RS20740	No Hits Found
+DIJ64_RS12770	No Hits Found
+DIJ64_RS12775	MTH787 COG1492 Cobyric acid synthase	34%	118	65	12	89	195	337	453	4e-010	59.3
+DIJ64_RS16835	No Hits Found
+DIJ64_RS16840	No Hits Found
+DIJ64_RS12785	No Hits Found
+DIJ64_RS12790	No Hits Found
+DIJ64_RS12795	No Hits Found
+DIJ64_RS12800	No Hits Found
+DIJ64_RS12805	ML2333 COG0277 FAD/FMN-containing dehydrogenases	100%	459	0		1	459	1	459	0.0	946
+DIJ64_RS12810	No Hits Found
+DIJ64_RS12815	No Hits Found
+DIJ64_RS12820	No Hits Found
+DIJ64_RS12835	No Hits Found
+DIJ64_RS12845	No Hits Found
+DIJ64_RS12850	No Hits Found
+DIJ64_RS19205	No Hits Found
+DIJ64_RS22105	No Hits Found
+DIJ64_RS16850	No Hits Found
+DIJ64_RS16855	No Hits Found
+DIJ64_RS16860	No Hits Found
+DIJ64_RS12885	No Hits Found
+DIJ64_RS15805	No Hits Found
+DIJ64_RS22110	No Hits Found
+DIJ64_RS15810	No Hits Found
+DIJ64_RS15815	No Hits Found
+DIJ64_RS12910	No Hits Found
+DIJ64_RS12915	No Hits Found
+DIJ64_RS12920	No Hits Found
+DIJ64_RS12925	No Hits Found
+DIJ64_RS12930	No Hits Found
+DIJ64_RS12935	No Hits Found
+DIJ64_RS12940	artP COG4161 ABC-type arginine transport system, ATPase component	31%	237	152	10	7	235	2	236	4e-033	122
+DIJ64_RS12945	ML2353_1 COG3321 Polyketide synthase modules and related proteins	99%	1031	1		1	1031	1	1031	0.0	2103
+DIJ64_RS12950	ML2354 COG3321 Polyketide synthase modules and related proteins	100%	1822	0		1	1822	1	1822	0.0	3652
+DIJ64_RS12955	ML2355 COG3321 Polyketide synthase modules and related proteins	99%	2201	1		1	2201	1	2201	0.0	4434
+DIJ64_RS22115	all1649 COG3321 Polyketide synthase modules and related proteins	29%	552	365	25	4	541	974	1514	1e-051	191
+DIJ64_RS22120	ML2354 COG3321 Polyketide synthase modules and related proteins	68%	389	118	3	1	386	1	389	e-179	544
+DIJ64_RS22125	CAC3355 COG3321 Polyketide synthase modules and related proteins	22%	913	598	110	24	855	912	1795	1e-052	201
+DIJ64_RS22130	MT0418_1 COG3321 Polyketide synthase modules and related proteins	51%	453	202	17	11	457	11	452	e-148	451
+DIJ64_RS12970	FN0867_1 COG1022 Long-chain acyl-CoA synthetases (AMP-forming)	25%	536	294	107	64	564	42	505	9e-024	105
+DIJ64_RS12975	ML2359 COG3208 Predicted thioesterase involved in non-ribosomal	100%	261	0		1	261	1	261	0.0	543
+DIJ64_RS12990	No Hits Found
+DIJ64_RS20095	No Hits Found
+DIJ64_RS20100	No Hits Found
+DIJ64_RS20105	No Hits Found
+DIJ64_RS22135	No Hits Found
+DIJ64_RS13005	Rv3762c COG2015 Alkyl sulfatase and related hydrolases	32%	438	228	68	189	591	214	618	7e-045	168
+DIJ64_RS22140	No Hits Found
+DIJ64_RS20750	No Hits Found
+DIJ64_RS22145	No Hits Found
+DIJ64_RS13025	No Hits Found
+DIJ64_RS13030	No Hits Found
+DIJ64_RS16880	No Hits Found
+DIJ64_RS16885	No Hits Found
+DIJ64_RS22150	No Hits Found
+DIJ64_RS22155	No Hits Found
+DIJ64_RS22160	No Hits Found
+DIJ64_RS22165	No Hits Found
+DIJ64_RS20115	No Hits Found
+DIJ64_RS13055	No Hits Found
+DIJ64_RS16890	No Hits Found
+DIJ64_RS22170	No Hits Found
+DIJ64_RS19245	No Hits Found
+DIJ64_RS13070	No Hits Found
+DIJ64_RS19250	No Hits Found
+DIJ64_RS13085	No Hits Found
+DIJ64_RS13090	No Hits Found
+DIJ64_RS13095	No Hits Found
+DIJ64_RS13100	No Hits Found
+DIJ64_RS13105	No Hits Found
+DIJ64_RS13110	No Hits Found
+DIJ64_RS19255	Rv0456c COG1024 Enoyl-CoA hydratase/carnithine racemase	30%	286	133	67	9	262	5	255	9e-020	87.4
+DIJ64_RS16900	Rv0457c COG1505 Serine proteases of the peptidase family S9A	46%	96	44	7	123	215	124	215	2e-010	64.3
+DIJ64_RS22175	Rv0458 COG1012 NAD-dependent aldehyde dehydrogenases	56%	48	21		1	48	14	61	7e-008	52.8
+DIJ64_RS22180	No Hits Found
+DIJ64_RS22185	No Hits Found
+DIJ64_RS16905	No Hits Found
+DIJ64_RS13140	ML2387 COG1249 Pyruvate/2-oxoglutarate dehydrogenase complex,	99%	467	1		1	467	1	467	0.0	954
+DIJ64_RS13145	No Hits Found
+DIJ64_RS19260	No Hits Found
+DIJ64_RS19265	No Hits Found
+DIJ64_RS19270	No Hits Found
+DIJ64_RS19275	No Hits Found
+DIJ64_RS13155	No Hits Found
+DIJ64_RS13160	No Hits Found
+DIJ64_RS13165	No Hits Found
+DIJ64_RS13170	No Hits Found
+DIJ64_RS13175	ML2394 COG0626 Cystathionine beta-lyases/cystathionine	100%	388	0		1	388	1	388	0.0	793
+DIJ64_RS13180	No Hits Found
+DIJ64_RS13185	ML2396_1 COG0031 Cysteine synthase	100%	329	0		1	329	1	329	0.0	667
+DIJ64_RS13190	MT1106 COG0657 Esterase/lipase	51%	282	113	23	1	271	4	273	3e-071	226
+DIJ64_RS19280	MT1105 COG2755 Lysophospholipase L1 and related esterases	49%	77	33	6	4	74	176	252	5e-012	60.5
+DIJ64_RS16910	No Hits Found
+DIJ64_RS13210	No Hits Found
+DIJ64_RS13215	ML2401 COG1024 Enoyl-CoA hydratase/carnithine racemase	99%	345	1		1	345	1	345	0.0	697
+DIJ64_RS13220	ML2402 COG1024 Enoyl-CoA hydratase/carnithine racemase	100%	257	0		1	257	1	257	0.0	523
+DIJ64_RS15840	No Hits Found
+DIJ64_RS16915	No Hits Found
+DIJ64_RS19285	No Hits Found
+DIJ64_RS19290	No Hits Found
+DIJ64_RS13230	ML2406 COG1575 1,4-dihydroxy-2-naphthoate octaprenyltransferase	100%	294	0		1	294	1	294	0.0	571
+DIJ64_RS13235	No Hits Found
+DIJ64_RS13240	No Hits Found
+DIJ64_RS22190	No Hits Found
+DIJ64_RS20120	No Hits Found
+DIJ64_RS13250	No Hits Found
+DIJ64_RS13255	No Hits Found
+DIJ64_RS13260	No Hits Found
+DIJ64_RS13265	No Hits Found
+DIJ64_RS13270	ML2413 COG0406 Fructose-2,6-bisphosphatase	100%	202	0		1	202	1	202	e-150	414
+DIJ64_RS13275	ML2414 COG0001 Glutamate-1-semialdehyde aminotransferase	99%	446	1		1	446	1	446	0.0	886
+DIJ64_RS22195	Rv0522 COG1113 Gamma-aminobutyrate permease and related permeases	62%	59	22		64	122	64	122	3e-015	77.4
+DIJ64_RS13295	No Hits Found
+DIJ64_RS19305	No Hits Found
+DIJ64_RS20760	No Hits Found
+DIJ64_RS13310	ML2419 COG0113 Delta-aminolevulinic acid dehydratase	99%	329	1		1	329	1	329	0.0	658
+DIJ64_RS13315	ML2420_2 COG1587 Uroporphyrinogen-III synthase	100%	275	0		284	558	1	275	0.0	553
+DIJ64_RS13320	ML2421 COG0181 Porphobilinogen deaminase	100%	315	0		1	315	4	318	0.0	601
+DIJ64_RS13325	ML2422 COG0373 Glutamyl-tRNA reductase	99%	467	1		1	467	1	467	0.0	919
+DIJ64_RS20765	No Hits Found
+DIJ64_RS13340	ML2424 COG0560 Phosphoserine phosphatase	100%	300	0		1	300	1	300	0.0	603
+DIJ64_RS13345	No Hits Found
+DIJ64_RS13350	No Hits Found
+DIJ64_RS13355	ML2427 COG0204 1-acyl-sn-glycerol-3-phosphate acyltransferase	100%	359	0		1	359	12	370	0.0	728
+DIJ64_RS13360	No Hits Found
+DIJ64_RS13365	No Hits Found
+DIJ64_RS13370	No Hits Found
+DIJ64_RS13375	ML2430 COG0345 Pyrroline-5-carboxylate reductase	100%	290	0		1	290	5	294	0.0	560
+DIJ64_RS19315	No Hits Found
+DIJ64_RS13380	ML2432 COG1082 Sugar phosphate isomerases/epimerases	100%	280	0		1	280	1	280	0.0	571
+DIJ64_RS13385	No Hits Found
+DIJ64_RS13390	No Hits Found
+DIJ64_RS13395	No Hits Found
+DIJ64_RS19320	No Hits Found
+DIJ64_RS16925	No Hits Found
+DIJ64_RS13410	No Hits Found
+DIJ64_RS16930	Rv0492c COG2303 Choline dehydrogenase and related flavoproteins	64%	45	15	1	1	45	205	248	7e-012	58.5
+DIJ64_RS13415	MT0511 COG2303 Choline dehydrogenase and related flavoproteins	57%	99	33	9	2	91	238	336	5e-023	92.0
+DIJ64_RS13420	No Hits Found
+DIJ64_RS13425	No Hits Found
+DIJ64_RS13430	ML2441 COG0588 Phosphoglycerate mutase 1	100%	247	0		1	247	1	247	0.0	499
+DIJ64_RS13435	No Hits Found
+DIJ64_RS13440	PAB2292 COG0297 Glycogen synthase	25%	316	210	27	109	405	122	429	3e-014	74.3
+DIJ64_RS22200	No Hits Found
+DIJ64_RS13450	No Hits Found
+DIJ64_RS13455	No Hits Found
+DIJ64_RS13460	No Hits Found
+DIJ64_RS16935	No Hits Found
+DIJ64_RS13470	No Hits Found
+DIJ64_RS13475	No Hits Found
+DIJ64_RS13480	ML2451 COG0274 Deoxyribose-phosphate aldolase	99%	226	1		1	226	1	226	e-155	429
+DIJ64_RS13485	No Hits Found
+DIJ64_RS13490	No Hits Found
+DIJ64_RS13495	No Hits Found
+DIJ64_RS19325	No Hits Found
+DIJ64_RS19330	No Hits Found
+DIJ64_RS13505	No Hits Found
+DIJ64_RS13510	No Hits Found
+DIJ64_RS16940	No Hits Found
+DIJ64_RS13515	No Hits Found
+DIJ64_RS13520	No Hits Found
+DIJ64_RS13525	ML2461 COG1250 3-hydroxyacyl-CoA dehydrogenase	99%	287	1		1	287	1	287	0.0	569
+DIJ64_RS13530	Rv0467 COG2224 Isocitrate lyase	38%	310	145	47	1	285	1	288	1e-037	141
+DIJ64_RS13535	ML2463 COG3884 Acyl-ACP thioesterase	99%	264	1		1	264	1	264	0.0	536
+DIJ64_RS13545	No Hits Found
+DIJ64_RS13550	No Hits Found
+DIJ64_RS22205	No Hits Found
+DIJ64_RS13560	ML2467 COG0020 Undecaprenyl pyrophosphate synthase	99%	262	1		1	262	1	262	0.0	531
+DIJ64_RS16945	No Hits Found
+DIJ64_RS13570	No Hits Found
+DIJ64_RS16950	No Hits Found
+DIJ64_RS13580	No Hits Found
+DIJ64_RS13595	No Hits Found
+DIJ64_RS20770	No Hits Found
+DIJ64_RS13610	ML2472 COG0287 Prephenate dehydrogenase	100%	313	0		1	313	15	327	0.0	617
+DIJ64_RS13615	No Hits Found
+DIJ64_RS13620	No Hits Found
+DIJ64_RS20775	No Hits Found
+DIJ64_RS16955	No Hits Found
+DIJ64_RS13650	No Hits Found
+DIJ64_RS20780	No Hits Found
+DIJ64_RS19345	Cgl0338 COG0308 Aminopeptidase N	34%	110	61	11	4	110	323	424	6e-009	53.1
+DIJ64_RS13670	No Hits Found
+DIJ64_RS22210	No Hits Found
+DIJ64_RS20130	No Hits Found
+DIJ64_RS13680	No Hits Found
+DIJ64_RS22215	No Hits Found
+DIJ64_RS15885	No Hits Found
+DIJ64_RS13690	No Hits Found
+DIJ64_RS20785	No Hits Found
+DIJ64_RS13700	No Hits Found
+DIJ64_RS22220	No Hits Found
+DIJ64_RS13710	ML2487 COG0461 Orotate phosphoribosyltransferase	99%	179	1		1	179	1	179	e-124	348
+DIJ64_RS16970	No Hits Found
+DIJ64_RS13715	No Hits Found
+DIJ64_RS13720	No Hits Found
+DIJ64_RS16975	No Hits Found
+DIJ64_RS13735	No Hits Found
+DIJ64_RS13740	No Hits Found
+DIJ64_RS13745	No Hits Found
+DIJ64_RS13750	FN1783 COG4820 Ethanolamine utilization protein, possible	27%	195	91	51	5	199	31	174	7e-009	57.4
+DIJ64_RS13755	No Hits Found
+DIJ64_RS13760	CAC2016 COG1024 Enoyl-CoA hydratase/carnithine racemase	25%	191	134	9	8	192	16	203	6e-012	63.2
+DIJ64_RS15895	No Hits Found
+DIJ64_RS13765	No Hits Found
+DIJ64_RS13770	No Hits Found
+DIJ64_RS16980	No Hits Found
+DIJ64_RS13780	ML2501 COG0247 Fe-S oxidoreductase	99%	880	1		1	880	1	880	0.0	1826
+DIJ64_RS13785	ML2502 COG0436 Aspartate/tyrosine/aromatic aminotransferase	100%	429	0		1	429	9	437	0.0	879
+DIJ64_RS13790	L95975 COG0448 ADP-glucose pyrophosphorylase	24%	307	197	34	1	281	5	303	1e-009	58.5
+DIJ64_RS13795	No Hits Found
+DIJ64_RS20135	No Hits Found
+DIJ64_RS13800	No Hits Found
+DIJ64_RS15905	No Hits Found
+DIJ64_RS13805	ML2507 COG0717 Deoxycytidine deaminase	99%	190	1		1	190	1	190	e-139	387
+DIJ64_RS16985	No Hits Found
+DIJ64_RS15915	No Hits Found
+DIJ64_RS16990	No Hits Found
+DIJ64_RS19360	No Hits Found
+DIJ64_RS19365	No Hits Found
+DIJ64_RS13835	No Hits Found
+DIJ64_RS16995	No Hits Found
+DIJ64_RS19370	MT0329 COG2273 Beta-glucanase/Beta-glucan synthetase	43%	144	62	20	126	260	161	293	2e-022	93.6
+DIJ64_RS13870	No Hits Found
+DIJ64_RS17000	No Hits Found
+DIJ64_RS15925	No Hits Found
+DIJ64_RS22225	No Hits Found
+DIJ64_RS22230	No Hits Found
+DIJ64_RS22235	No Hits Found
+DIJ64_RS20790	No Hits Found
+DIJ64_RS13880	No Hits Found
+DIJ64_RS13885	No Hits Found
+DIJ64_RS19375	Rv0306 COG0778 Nitroreductase	62%	190	65	7	6	188	2	191	4e-067	205
+DIJ64_RS13905	No Hits Found
+DIJ64_RS13910	No Hits Found
+DIJ64_RS13915	No Hits Found
+DIJ64_RS13920	No Hits Found
+DIJ64_RS13925	No Hits Found
+DIJ64_RS13930	No Hits Found
+DIJ64_RS15930	No Hits Found
+DIJ64_RS13935	No Hits Found
+DIJ64_RS13940	No Hits Found
+DIJ64_RS13945	No Hits Found
+DIJ64_RS13950	No Hits Found
+DIJ64_RS13955	No Hits Found
+DIJ64_RS17005	No Hits Found
+DIJ64_RS17010	No Hits Found
+DIJ64_RS22240	Rv0281 COG3315 O-Methyltransferase involved in polyketide	41%	67	38	1	5	70	111	177	1e-009	52.4
+DIJ64_RS19380	No Hits Found
+DIJ64_RS17020	No Hits Found
+DIJ64_RS19385	No Hits Found
+DIJ64_RS19390	Rv0271c COG1960 Acyl-CoA dehydrogenases	51%	85	35	6	1	82	1	82	1e-015	72.8
+DIJ64_RS14010	AF0976 COG0365 Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	30%	506	321	31	73	554	50	548	2e-049	179
+DIJ64_RS22245	No Hits Found
+DIJ64_RS20795	Rv0265c COG0614 ABC-type Fe3+-hydroxamate transport system,	50%	51	23	2	19	241	2	312	3e-008	53.5
+DIJ64_RS14020	ML2549 COG2049 Allophanate hydrolase subunit 1	100%	222	0		1	222	1	222	e-163	449
+DIJ64_RS14025	ML2550 COG1984 Allophanate hydrolase subunit 2	100%	305	0		1	305	1	305	0.0	608
+DIJ64_RS14030	No Hits Found
+DIJ64_RS14035	No Hits Found
+DIJ64_RS14045	Rv0261c COG2223 Nitrate/nitrite transporter	38%	196	75	45	1	172	102	276	6e-021	90.1
+DIJ64_RS19400	No Hits Found
+DIJ64_RS14055	No Hits Found
+DIJ64_RS22250	Rv0252 COG1251 NAD(P)H-nitrite reductase	31%	310	168	44	448	729	480	773	3e-017	86.7
+DIJ64_RS14065	No Hits Found
+DIJ64_RS14070	No Hits Found
+DIJ64_RS20800	No Hits Found
+DIJ64_RS14080	Rv0248c COG1053 Succinate dehydrogenase/fumarate reductase,	51%	468	204	22	157	608	184	645	e-130	396
+DIJ64_RS14085	Rv0247c COG0479 Succinate dehydrogenase/fumarate reductase, Fe-S	56%	205	86	3	1	203	11	214	2e-067	206
+DIJ64_RS14090	No Hits Found
+DIJ64_RS14095	No Hits Found
+DIJ64_RS14100	No Hits Found
+DIJ64_RS17025	No Hits Found
+DIJ64_RS14105	ML2563 COG1960 Acyl-CoA dehydrogenases	99%	611	1		1	611	1	611	0.0	1254
+DIJ64_RS14110	ML2564 COG0183 Acetyl-CoA acetyltransferase	100%	448	0		1	448	10	457	0.0	914
+DIJ64_RS14115	No Hits Found
+DIJ64_RS14125	ML2566 COG2030 Acyl dehydratase	100%	280	0		1	280	21	300	0.0	569
+DIJ64_RS17030	No Hits Found
+DIJ64_RS15935	No Hits Found
+DIJ64_RS14135	No Hits Found
+DIJ64_RS14140	ML2569 COG1472 Beta-glucosidase-related glycosidases	100%	387	0		1	387	1	387	0.0	758
+DIJ64_RS14145	No Hits Found
+DIJ64_RS14150	No Hits Found
+DIJ64_RS17035	MT0332 COG0584 Glycerophosphoryl diester phosphodiesterase	62%	78	29		1	78	42	119	7e-026	95.5
+DIJ64_RS17040	No Hits Found
+DIJ64_RS14165	No Hits Found
+DIJ64_RS17045	No Hits Found
+DIJ64_RS14175	ML2573 COG1012 NAD-dependent aldehyde dehydrogenases	100%	457	0		1	457	1	457	0.0	940
+DIJ64_RS14180	No Hits Found
+DIJ64_RS14185	No Hits Found
+DIJ64_RS20810	Rv0231 COG1960 Acyl-CoA dehydrogenases	51%	111	39	15	185	284	188	294	3e-020	94.0
+DIJ64_RS19430	No Hits Found
+DIJ64_RS22255	No Hits Found
+DIJ64_RS14205	No Hits Found
+DIJ64_RS14210	ML2580 COG1835 Predicted acyltransferases	99%	384	1		2	385	1	384	0.0	755
+DIJ64_RS14215	No Hits Found
+DIJ64_RS14220	No Hits Found
+DIJ64_RS14225	No Hits Found
+DIJ64_RS14230	No Hits Found
+DIJ64_RS20150	Rv0223c COG1012 NAD-dependent aldehyde dehydrogenases	70%	68	20		2	69	149	216	6e-024	92.4
+DIJ64_RS20155	Rv0223c COG1012 NAD-dependent aldehyde dehydrogenases	69%	55	17		2	56	261	315	2e-018	78.6
+DIJ64_RS14245	ML2587 COG0767 ABC-type transport system involved in resistance to	100%	238	0		1	238	30	267	e-166	459
+DIJ64_RS14250	ML2588 COG0767 ABC-type transport system involved in resistance to	100%	289	0		1	289	1	289	0.0	568
+DIJ64_RS14255	ML2589 COG1463 ABC-type transport system involved in resistance to	100%	441	0		1	441	1	441	0.0	895
+DIJ64_RS14260	ML2590 COG1463 ABC-type transport system involved in resistance to	100%	346	0		1	346	1	346	0.0	699
+DIJ64_RS14265	ML2591 COG1463 ABC-type transport system involved in resistance to	100%	519	0		1	519	1	519	0.0	1035
+DIJ64_RS14270	ML2592 COG1463 ABC-type transport system involved in resistance to	100%	531	0		1	531	1	531	0.0	1073
+DIJ64_RS14275	ML2593 COG1463 ABC-type transport system involved in resistance to	100%	388	0		1	388	5	392	0.0	791
+DIJ64_RS14280	ML2594 COG1463 ABC-type transport system involved in resistance to	100%	516	0		1	516	1	516	0.0	1043
+DIJ64_RS14285	No Hits Found
+DIJ64_RS14290	No Hits Found
+DIJ64_RS14295	No Hits Found
+DIJ64_RS14300	No Hits Found
+DIJ64_RS14310	No Hits Found
+DIJ64_RS14320	No Hits Found
+DIJ64_RS14325	ML2603 COG2267 Lysophospholipase	100%	279	0		1	279	1	279	0.0	558
+DIJ64_RS14330	No Hits Found
+DIJ64_RS14335	No Hits Found
+DIJ64_RS14340	Rv0186 COG1472 Beta-glucosidase-related glycosidases	57%	35	15		9	43	33	67	6e-007	43.9
+DIJ64_RS14345	Rv0186 COG1472 Beta-glucosidase-related glycosidases	66%	63	21		1	63	197	259	1e-022	89.0
+DIJ64_RS19440	No Hits Found
+DIJ64_RS14355	No Hits Found
+DIJ64_RS14360	No Hits Found
+DIJ64_RS14365	No Hits Found
+DIJ64_RS15945	MT0207 COG0243 Anaerobic dehydrogenases, typically	58%	48	19	1	4	51	187	233	8e-009	48.9
+DIJ64_RS20160	MT0207 COG0243 Anaerobic dehydrogenases, typically	57%	42	18		1	42	622	663	2e-009	50.4
+DIJ64_RS14375	No Hits Found
+DIJ64_RS14380	No Hits Found
+DIJ64_RS14385	No Hits Found
+DIJ64_RS14390	No Hits Found
+DIJ64_RS14395	No Hits Found
+DIJ64_RS14400	No Hits Found
+DIJ64_RS19445	No Hits Found
+DIJ64_RS19450	No Hits Found
+DIJ64_RS20165	No Hits Found
+DIJ64_RS19455	No Hits Found
+DIJ64_RS14415	No Hits Found
+DIJ64_RS14420	No Hits Found
+DIJ64_RS14425	No Hits Found
+DIJ64_RS15955	No Hits Found
+DIJ64_RS15960	No Hits Found
+DIJ64_RS14430	No Hits Found
+DIJ64_RS14435	ML2624 COG1274 Phosphoenolpyruvate carboxykinase (GTP)	100%	609	0		1	609	1	609	0.0	1266
+DIJ64_RS22260	No Hits Found
+DIJ64_RS20170	No Hits Found
+DIJ64_RS15970	No Hits Found
+DIJ64_RS20815	No Hits Found
+DIJ64_RS14450	ML2627 COG2030 Acyl dehydratase	99%	339	1		1	339	1	339	0.0	683
+DIJ64_RS14455	No Hits Found
+DIJ64_RS17060	No Hits Found
+DIJ64_RS14465	No Hits Found
+DIJ64_RS14470	No Hits Found
+DIJ64_RS15975	No Hits Found
+DIJ64_RS19465	No Hits Found
+DIJ64_RS14480	ML2631 COG0277 FAD/FMN-containing dehydrogenases	100%	449	0		1	449	1	449	0.0	896
+DIJ64_RS19470	No Hits Found
+DIJ64_RS14490	No Hits Found
+DIJ64_RS14495	No Hits Found
+DIJ64_RS14500	ML2634 COG1282 NAD/NADP transhydrogenase beta subunit	100%	472	0		1	472	1	472	0.0	933
+DIJ64_RS14505	ML2635 COG3288 NAD/NADP transhydrogenase alpha subunit	100%	112	0		1	112	1	112	1e-075	218
+DIJ64_RS14510	ML2636 COG3288 NAD/NADP transhydrogenase alpha subunit	100%	367	0		1	367	1	367	0.0	727
+DIJ64_RS22265	No Hits Found
+DIJ64_RS19475	No Hits Found
+DIJ64_RS22270	No Hits Found
+DIJ64_RS19480	No Hits Found
+DIJ64_RS14525	ML2639 COG1012 NAD-dependent aldehyde dehydrogenases	99%	486	1		1	486	16	501	0.0	990
+DIJ64_RS14530	ML2640 COG3315 O-Methyltransferase involved in polyketide	100%	310	0		1	310	1	310	0.0	629
+DIJ64_RS19485	Rv0145 COG3315 O-Methyltransferase involved in polyketide	56%	58	25		23	80	159	216	2e-011	58.2
+DIJ64_RS19490	Rv0145 COG3315 O-Methyltransferase involved in polyketide	49%	114	39	19	8	104	46	157	8e-022	87.8
+DIJ64_RS14540	No Hits Found
+DIJ64_RS22275	No Hits Found
+DIJ64_RS22280	No Hits Found
+DIJ64_RS17070	No Hits Found
+DIJ64_RS15985	MT0151 COG0038 Chloride channel protein EriC	60%	100	36	4	1	96	156	255	2e-024	96.3
+DIJ64_RS15990	No Hits Found
+DIJ64_RS14560	No Hits Found
+DIJ64_RS20175	No Hits Found
+DIJ64_RS14570	No Hits Found
+DIJ64_RS14580	No Hits Found
+DIJ64_RS14585	ML2649 COG0726 Predicted xylanase/chitin deacetylase	99%	271	1		11	281	1	271	0.0	548
+DIJ64_RS22285	No Hits Found
+DIJ64_RS17075	No Hits Found
+DIJ64_RS14610	No Hits Found
+DIJ64_RS14615	No Hits Found
+DIJ64_RS20180	Rv0127 COG3281 Uncharacterized protein, probably involved in	54%	108	37	12	4	99	302	409	1e-026	102
+DIJ64_RS17080	Rv0126 COG0366 Glycosidases	41%	89	42	10	445	523	488	576	9e-008	55.1
+DIJ64_RS14640	No Hits Found
+DIJ64_RS22290	No Hits Found
+DIJ64_RS22295	No Hits Found
+DIJ64_RS14650	BS_dhbE COG1021 Peptide arylation enzymes	26%	496	344	19	56	547	52	532	1e-035	140
+DIJ64_RS14655	No Hits Found
+DIJ64_RS14665	No Hits Found
+DIJ64_RS14670	No Hits Found
+DIJ64_RS17085	ML0484_2 COG3320 Putative dehydrogenase domain of multifunctional	40%	64	34	4	1	60	295	358	1e-008	48.9
+DIJ64_RS14680	No Hits Found
+DIJ64_RS14685	ML2667 COG1914 Mn2+ and Fe2+ transporters of the NRAMP family	100%	579	0		1	579	40	618	0.0	1146
+DIJ64_RS14700	ML2670 COG1835 Predicted acyltransferases	99%	666	1		1	666	1	666	0.0	1333
+DIJ64_RS22300	No Hits Found
+DIJ64_RS20185	No Hits Found
+DIJ64_RS14715	ML2671 COG0474 Cation transport ATPase	100%	1609	0		1	1609	1	1609	0.0	3154
+DIJ64_RS14725	ML2672 COG2838 Monomeric isocitrate dehydrogenase	100%	746	0		1	746	1	746	0.0	1555
+DIJ64_RS14730	No Hits Found
+DIJ64_RS15995	No Hits Found
+DIJ64_RS22305	No Hits Found
+DIJ64_RS22310	No Hits Found
+DIJ64_RS22315	No Hits Found
+DIJ64_RS14765	No Hits Found
+DIJ64_RS14770	ML2678_1 COG1305 Transglutaminase-like enzymes, putative cysteine	100%	309	0		1	309	7	315	0.0	648
+DIJ64_RS14775	No Hits Found
+DIJ64_RS22320	No Hits Found
+DIJ64_RS14785	No Hits Found
+DIJ64_RS14790	No Hits Found
+DIJ64_RS14795	No Hits Found
+DIJ64_RS14800	No Hits Found
+DIJ64_RS14805	No Hits Found
+DIJ64_RS14810	No Hits Found
+DIJ64_RS14815	No Hits Found
+DIJ64_RS14820	No Hits Found
+DIJ64_RS14825	No Hits Found
+DIJ64_RS14830	No Hits Found
+DIJ64_RS17095	No Hits Found
+DIJ64_RS14835	No Hits Found
+DIJ64_RS19525	No Hits Found
+DIJ64_RS14850	Rv0044c COG2141 Coenzyme F420-dependent N5,N10-methylene	64%	117	37	4	4	120	10	122	1e-047	160
+DIJ64_RS14860	lin2352_2 COG0765 ABC-type amino acid transport system, permease	31%	108	63	11	4	106	14	115	3e-007	46.6
+DIJ64_RS19530	AF0680 COG1126 ABC-type polar amino acid transport system, ATPase	37%	174	98	10	35	200	18	189	1e-020	87.8
+DIJ64_RS14870	No Hits Found
+DIJ64_RS14880	No Hits Found
+DIJ64_RS14885	APE2080 COG1051 ADP-ribose pyrophosphatase	42%	71	38	3	90	158	52	121	3e-008	52.4
+DIJ64_RS14890	No Hits Found
+DIJ64_RS14895	No Hits Found
+DIJ64_RS14900	No Hits Found
+DIJ64_RS14905	MPN390 COG1249 Pyruvate/2-oxoglutarate dehydrogenase complex,	23%	313	190	51	12	285	3	303	2e-008	55.1
+DIJ64_RS19535	No Hits Found
+DIJ64_RS14910	No Hits Found
+DIJ64_RS14915	No Hits Found
+DIJ64_RS14920	No Hits Found
+DIJ64_RS14925	No Hits Found
+DIJ64_RS14930	No Hits Found
+DIJ64_RS14935	No Hits Found
+DIJ64_RS14940	No Hits Found
+DIJ64_RS19540	No Hits Found
+DIJ64_RS14950	No Hits Found
+DIJ64_RS14955	No Hits Found

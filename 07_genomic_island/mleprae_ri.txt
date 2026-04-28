@@ -1,0 +1,2 @@
+Genome	12%	2%	3%	42%	NA	NA	NA
+Putative Genomic Island 1	27%	0%	0%	54%	DIJ64_RS06205-DIJ64_RS18145	1308211..1318725	NA

@@ -213,5 +213,17 @@ data/*
 01_quality_control/*multiqc*
 01_quality_control/trimmed/
 
-02_assembly/*
+02_assembly/spades
+03_annotation/mycotuberculosis/*.err
+03_annotation/mycotuberculosis/*.faa
+03_annotation/mycotuberculosis/*.ffn
+03_annotation/mycotuberculosis/*.fna
+03_annotation/mycotuberculosis/*.fsa
+03_annotation/mycotuberculosis/*.gbk
+03_annotation/mycotuberculosis/*.gff
+03_annotation/mycotuberculosis/*.sqn
 
+04_pangenomics/test_genomes
+04_pangenomics/test_genomes_annot
+
+ppanggolin_output_DATE2026-04-28_HOUR08.01.44_PID268104
