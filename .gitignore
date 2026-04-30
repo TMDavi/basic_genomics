@@ -226,4 +226,4 @@ data/*
 04_pangenomics/test_genomes
 04_pangenomics/test_genomes_annot
 
-ppanggolin_output_DATE2026-04-28_HOUR08.01.44_PID268104
+04_pangenomics/results/ppanggolin

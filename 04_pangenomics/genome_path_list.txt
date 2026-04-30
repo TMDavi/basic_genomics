@@ -1,25 +1,20 @@
-NC_000962.3	05_pangenomics/test_genomes/NC_000962.3.fasta	NC_000962.3
-NC_018143.2	05_pangenomics/test_genomes/NC_018143.2.fasta	NC_018143.2
-NZ_CP130758.1	05_pangenomics/test_genomes/NZ_CP130758.1.fasta	NZ_CP130758.1
-NZ_OY741334.1	05_pangenomics/test_genomes/NZ_OY741334.1.fasta	NZ_OY741334.1
-NZ_CP072761.1	05_pangenomics/test_genomes/NZ_CP072761.1.fasta	NZ_CP072761.1
-NZ_CP097110.1	05_pangenomics/test_genomes/NZ_CP097110.1.fasta	NZ_CP097110.1
-NZ_CP041827.1	05_pangenomics/test_genomes/NZ_CP041827.1.fasta	NZ_CP041827.1
-NZ_CP041826.1	05_pangenomics/test_genomes/NZ_CP041826.1.fasta	NZ_CP041826.1
-NZ_CP017597.1	05_pangenomics/test_genomes/NZ_CP017597.1.fasta	NZ_CP017597.1
-NZ_OZ347326.1	05_pangenomics/test_genomes/NZ_OZ347326.1.fasta	NZ_OZ347326.1
-NZ_CP046308.1	05_pangenomics/test_genomes/NZ_CP046308.1.fasta	NZ_CP046308.1
-NZ_OZ347314.1	05_pangenomics/test_genomes/NZ_OZ347314.1.fasta	NZ_OZ347314.1
-NZ_CP072762.1	05_pangenomics/test_genomes/NZ_CP072762.1.fasta	NZ_CP072762.1
-NZ_OZ222436.1	05_pangenomics/test_genomes/NZ_OZ222436.1.fasta	NZ_OZ222436.1
-NZ_OZ222538.1	05_pangenomics/test_genomes/NZ_OZ222538.1.fasta	NZ_OZ222538.1
-NZ_CP157905.1	05_pangenomics/test_genomes/NZ_CP157905.1.fasta	NZ_CP157905.1
-NZ_CP041801.1	05_pangenomics/test_genomes/NZ_CP041801.1.fasta	NZ_CP041801.1
-NZ_CP070338.1	05_pangenomics/test_genomes/NZ_CP070338.1.fasta	NZ_CP070338.1
-NZ_CP069068.1	05_pangenomics/test_genomes/NZ_CP069068.1.fasta	NZ_CP069068.1
-NZ_CP043996.1	05_pangenomics/test_genomes/NZ_CP043996.1.fasta	NZ_CP043996.1
-NZ_CP041854.1	05_pangenomics/test_genomes/NZ_CP041854.1.fasta	NZ_CP041854.1
-NZ_OZ222435.1	05_pangenomics/test_genomes/NZ_OZ222435.1.fasta	NZ_OZ222435.1
-NZ_CP041816.1	05_pangenomics/test_genomes/NZ_CP041816.1.fasta	NZ_CP041816.1
-NZ_CP069069.1	05_pangenomics/test_genomes/NZ_CP069069.1.fasta	NZ_CP069069.1
-NZ_OZ347301.1	05_pangenomics/test_genomes/NZ_OZ347301.1.fasta	NZ_OZ347301.1
+NC_022663.1	04_pangenomics/test_genomes_annot/NC_022663.1/NC_022663.1.gff
+NC_008596.1	04_pangenomics/test_genomes_annot/NC_008596.1/NC_008596.1.gff
+NC_002755.2	04_pangenomics/test_genomes_annot/NC_002755.2/NC_002755.2.gff
+NC_000962.3	04_pangenomics/test_genomes_annot/NC_000962.3/NC_000962.3.gff
+NC_002944.2	04_pangenomics/test_genomes_annot/NC_002944.2/NC_002944.2.gff
+NC_021055.1	04_pangenomics/test_genomes_annot/NC_021055.1/NC_021055.1.gff
+NC_018154.1	04_pangenomics/test_genomes_annot/NC_018154.1/NC_018154.1.gff
+NC_002945.3	04_pangenomics/test_genomes_annot/NC_002945.3/NC_002945.3.gff
+NC_019966.1	04_pangenomics/test_genomes_annot/NC_019966.1/NC_019966.1.gff
+NC_010397.1	04_pangenomics/test_genomes_annot/NC_010397.1/NC_010397.1.gff
+NZ_CP005988.1	04_pangenomics/test_genomes_annot/NZ_CP005988.1/NZ_CP005988.1.gff
+NC_008769.1	04_pangenomics/test_genomes_annot/NC_008769.1/NC_008769.1.gff
+NC_009525.1	04_pangenomics/test_genomes_annot/NC_009525.1/NC_009525.1.gff
+NC_009565.1	04_pangenomics/test_genomes_annot/NC_009565.1/NC_009565.1.gff
+mtuberculosis_thisstudy	04_pangenomics/test_genomes_annot/mtuberculosis_thisstudy/mtuberculosis_thisstudy.gff
+NC_010612.1	04_pangenomics/test_genomes_annot/NC_010612.1/NC_010612.1.gff
+NC_002677.1	04_pangenomics/test_genomes_annot/NC_002677.1/NC_002677.1.gff
+NC_008595.1	04_pangenomics/test_genomes_annot/NC_008595.1/NC_008595.1.gff
+NC_020559.1	04_pangenomics/test_genomes_annot/NC_020559.1/NC_020559.1.gff
+NZ_LR699570.1	04_pangenomics/test_genomes_annot/NZ_LR699570.1/NZ_LR699570.1.gff
